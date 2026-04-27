@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data (Large Files - Optional to keep ignored)
+datasets/*.csv
+
+# Streamlit/IDE
+.streamlit/
+.vscode/
+.idea/
