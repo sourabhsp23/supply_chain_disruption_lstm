@@ -1,0 +1,1501 @@
+event_id,event_date,affected_city,disruption_type,severity_level,duration_days,delay_caused_days,estimated_cost_impact_inr,transport_mode_affected,disruption_occurred
+EVT00001,2022-05-27,Nagpur,Cyclone,Critical,17,24,2542762.06,Rail,1
+EVT00002,2021-04-04,Surat,Strike,Low,14,14,3723838.23,Air,1
+EVT00003,2021-06-20,Indore,Heatwave,Critical,17,22,3973089.11,Rail,1
+EVT00004,2022-12-05,Surat,Pandemic,Critical,8,4,4038566.12,All,1
+EVT00005,2023-06-21,Chennai,Infrastructure Failure,Low,17,3,1273962.69,Road+Rail,1
+EVT00006,2021-03-18,Jaipur,Fuel Shortage,Critical,10,8,1829629.87,Air,1
+EVT00007,2021-06-20,Kanpur,Fuel Shortage,Critical,18,7,4783280.1,All,1
+EVT00008,2022-11-25,Bangalore,Fuel Shortage,Critical,15,25,3559907.48,Road+Rail,1
+EVT00009,2023-07-16,Hyderabad,Infrastructure Failure,Low,7,12,1636916.61,All,1
+EVT00010,2024-02-22,Mumbai,Infrastructure Failure,High,7,11,1015330.85,Air,1
+EVT00011,2023-10-13,Lucknow,Heavy Snowfall,Critical,10,22,3814608.67,All,1
+EVT00012,2023-09-22,Lucknow,Heatwave,Critical,2,6,1564417.22,Road,1
+EVT00013,2021-11-25,Bangalore,Political Unrest,High,17,6,3081030.72,Rail,1
+EVT00014,2023-10-03,Kanpur,Flood,Medium,9,9,200107.44,Road,1
+EVT00015,2023-11-07,Lucknow,Pandemic,Critical,17,5,1659481.96,All,1
+EVT00016,2023-03-11,Bhopal,Fuel Shortage,Critical,16,4,3867308.11,Air,1
+EVT00017,2024-03-22,Bhopal,Strike,Critical,19,23,2002912.15,Road,1
+EVT00018,2021-07-01,Surat,Heavy Snowfall,High,4,3,65337.44,Road,1
+EVT00019,2023-12-30,Surat,Political Unrest,Medium,12,14,3163906.16,Air,1
+EVT00020,2021-02-09,Indore,Heavy Snowfall,Low,16,17,3092480.69,All,1
+EVT00021,2021-10-05,Lucknow,Strike,Low,21,19,2399127.85,Air,1
+EVT00022,2021-10-31,Bangalore,Strike,Critical,5,20,4086670.26,Road+Rail,1
+EVT00023,2022-12-04,Nagpur,None,Low,0,0,8962.41,Road+Rail,0
+EVT00024,2023-09-03,Indore,Heatwave,Critical,10,2,4566154.72,Road,1
+EVT00025,2023-06-29,Mumbai,Road Accident,Medium,6,5,3536815.15,Air,1
+EVT00026,2024-01-09,Nagpur,Heavy Snowfall,Critical,5,6,3580681.25,All,1
+EVT00027,2022-10-18,Lucknow,None,Low,1,0,1028.01,Road,0
+EVT00028,2022-11-22,Jaipur,Pandemic,High,12,10,301602.99,All,1
+EVT00029,2023-03-19,Mumbai,Fuel Shortage,High,20,25,2749721.58,Air,1
+EVT00030,2021-02-19,Nagpur,Infrastructure Failure,High,5,13,3497192.99,All,1
+EVT00031,2021-12-21,Ahmedabad,Strike,Critical,13,20,2288538.71,Road+Rail,1
+EVT00032,2023-10-02,Bhopal,Strike,Critical,11,8,3032031.05,Road,1
+EVT00033,2021-02-26,Delhi,Heatwave,Critical,16,20,2705433.97,Air,1
+EVT00034,2022-09-19,Hyderabad,Political Unrest,Low,21,2,2433870.03,Rail,1
+EVT00035,2021-05-06,Pune,Cyclone,Critical,8,8,4892476.22,All,1
+EVT00036,2021-06-05,Hyderabad,Strike,High,7,2,4316963.11,Road,1
+EVT00037,2022-04-18,Kolkata,Strike,High,18,10,2412829.37,Rail,1
+EVT00038,2021-09-25,Bangalore,Pandemic,Medium,11,23,767952.02,Road,1
+EVT00039,2022-08-18,Lucknow,Cyclone,High,1,10,626417.56,All,1
+EVT00040,2023-12-03,Ahmedabad,Flood,High,9,2,2674062.19,Road,1
+EVT00041,2022-01-03,Pune,Pandemic,Medium,15,21,4853613.71,All,1
+EVT00042,2023-03-12,Bhopal,Road Accident,Medium,11,20,194190.93,All,1
+EVT00043,2022-09-03,Bangalore,Road Accident,Low,10,19,1808889.43,All,1
+EVT00044,2024-04-10,Bangalore,Strike,Medium,1,9,3906425.62,Road,1
+EVT00045,2023-04-15,Indore,Cyclone,Critical,21,23,2974530.29,All,1
+EVT00046,2022-09-24,Hyderabad,Pandemic,High,3,11,2584978.71,Road+Rail,1
+EVT00047,2021-08-13,Mumbai,Political Unrest,Medium,11,9,1397449.23,Road,1
+EVT00048,2023-04-09,Mumbai,Flood,High,7,18,959242.15,All,1
+EVT00049,2023-08-21,Jaipur,Political Unrest,Critical,20,6,2495690.17,Road,1
+EVT00050,2021-01-16,Lucknow,Heatwave,Medium,12,8,2352367.74,All,1
+EVT00051,2023-06-17,Kolkata,Fuel Shortage,High,3,21,968584.67,Road+Rail,1
+EVT00052,2021-04-17,Surat,Fuel Shortage,Medium,10,7,1801221.06,Road,1
+EVT00053,2023-07-07,Delhi,Strike,Low,6,23,1672326.37,Rail,1
+EVT00054,2023-03-11,Ahmedabad,Heavy Snowfall,Medium,18,22,2265815.73,Rail,1
+EVT00055,2022-09-01,Nagpur,Strike,Critical,5,23,3724797.6,Road,1
+EVT00056,2022-12-25,Bangalore,Flood,Critical,12,9,2241456.14,Road+Rail,1
+EVT00057,2023-03-15,Chennai,Heatwave,Critical,4,5,1062773.76,Air,1
+EVT00058,2021-04-08,Kolkata,Strike,Medium,13,15,1754328.02,Rail,1
+EVT00059,2022-04-09,Indore,Infrastructure Failure,Critical,18,8,1868104.7,Road+Rail,1
+EVT00060,2023-01-12,Kolkata,Road Accident,Medium,12,25,1889120.28,Air,1
+EVT00061,2022-01-13,Jaipur,Flood,Critical,15,2,3555204.76,Road,1
+EVT00062,2022-05-04,Surat,Cyclone,High,10,14,1116152.48,Air,1
+EVT00063,2024-02-27,Nagpur,Strike,High,8,14,825143.31,Rail,1
+EVT00064,2022-10-19,Surat,Heatwave,High,3,5,1398722.09,Rail,1
+EVT00065,2023-09-16,Bangalore,Flood,High,12,4,549560.83,Rail,1
+EVT00066,2023-12-20,Kolkata,Political Unrest,Critical,13,3,414783.0,Rail,1
+EVT00067,2023-01-07,Indore,Fuel Shortage,High,12,15,2492036.43,Air,1
+EVT00068,2021-02-21,Surat,Road Accident,Critical,12,20,3358685.93,All,1
+EVT00069,2024-01-22,Mumbai,Infrastructure Failure,Low,3,18,612832.46,Road,1
+EVT00070,2024-03-16,Indore,Heavy Snowfall,Low,12,11,896832.12,All,1
+EVT00071,2022-04-14,Jaipur,Flood,Medium,4,19,107713.19,Road,1
+EVT00072,2021-03-24,Bhopal,Fuel Shortage,Critical,16,18,2959018.82,Road,1
+EVT00073,2024-02-22,Bangalore,Pandemic,High,14,16,1254794.57,Rail,1
+EVT00074,2023-07-01,Kanpur,Road Accident,Medium,2,7,231619.93,Road,1
+EVT00075,2023-05-09,Kolkata,Cyclone,Critical,21,2,566081.25,Rail,1
+EVT00076,2021-11-12,Ahmedabad,Road Accident,High,5,3,3512186.07,Road+Rail,1
+EVT00077,2024-02-08,Chennai,None,Low,1,0,4415.72,Road,0
+EVT00078,2021-04-28,Kanpur,Heavy Snowfall,Low,3,18,3535940.16,Rail,1
+EVT00079,2021-12-13,Kanpur,Heavy Snowfall,High,3,7,803861.18,All,1
+EVT00080,2022-03-18,Jaipur,Flood,Medium,8,7,3127853.15,Rail,1
+EVT00081,2022-08-09,Chennai,Heatwave,Medium,14,5,4355093.82,Air,1
+EVT00082,2021-01-22,Nagpur,Flood,Low,16,6,1431377.74,Air,1
+EVT00083,2021-07-24,Kanpur,Political Unrest,High,16,7,1232195.13,Rail,1
+EVT00084,2022-03-12,Ahmedabad,Heatwave,Low,15,24,2160082.46,All,1
+EVT00085,2021-02-06,Indore,None,Low,1,0,7945.41,Road,0
+EVT00086,2022-12-01,Indore,Road Accident,High,21,18,1596110.43,Air,1
+EVT00087,2023-10-17,Nagpur,Pandemic,Low,1,15,233028.86,Air,1
+EVT00088,2023-10-12,Lucknow,Fuel Shortage,Critical,18,16,2433779.3,All,1
+EVT00089,2021-09-03,Pune,Strike,High,20,10,295391.17,All,1
+EVT00090,2022-01-31,Bhopal,Fuel Shortage,Critical,13,21,1694993.1,Road+Rail,1
+EVT00091,2023-08-26,Kolkata,Heatwave,Low,15,18,863600.4,Road+Rail,1
+EVT00092,2021-09-22,Nagpur,Pandemic,High,15,4,3192654.49,All,1
+EVT00093,2021-12-31,Kanpur,None,Low,0,0,8604.31,Rail,0
+EVT00094,2021-06-02,Kolkata,Cyclone,Critical,2,6,2273033.75,Road+Rail,1
+EVT00095,2022-08-04,Kanpur,Heatwave,Medium,6,6,4935965.68,Rail,1
+EVT00096,2022-11-02,Bangalore,Political Unrest,Critical,21,20,4113591.99,Road+Rail,1
+EVT00097,2022-02-05,Bhopal,None,Low,0,0,3792.29,All,0
+EVT00098,2021-07-30,Ahmedabad,Infrastructure Failure,Critical,19,7,1995977.3,Road,1
+EVT00099,2022-01-08,Delhi,Political Unrest,High,20,9,2825579.11,All,1
+EVT00100,2023-06-05,Kanpur,Pandemic,High,18,10,3323808.65,Road+Rail,1
+EVT00101,2021-08-07,Ahmedabad,Heatwave,High,13,10,2882810.06,All,1
+EVT00102,2023-01-13,Pune,None,Low,1,0,6496.93,All,0
+EVT00103,2022-05-27,Lucknow,Flood,Low,18,11,453366.08,Road,1
+EVT00104,2023-02-17,Mumbai,Political Unrest,Medium,7,12,3319534.5,Road+Rail,1
+EVT00105,2021-12-02,Bhopal,Heatwave,High,21,12,285408.7,All,1
+EVT00106,2022-11-28,Delhi,Heavy Snowfall,High,20,5,1863995.51,Rail,1
+EVT00107,2024-02-24,Pune,Strike,Low,11,14,3122824.55,Road,1
+EVT00108,2022-10-27,Pune,Road Accident,Critical,3,19,4426187.57,Road+Rail,1
+EVT00109,2023-07-28,Kanpur,Fuel Shortage,Low,20,15,2510207.22,Rail,1
+EVT00110,2021-09-07,Jaipur,Political Unrest,Low,5,16,1360657.97,All,1
+EVT00111,2023-02-03,Mumbai,Heatwave,High,1,2,3471680.41,Road+Rail,1
+EVT00112,2022-11-20,Hyderabad,Strike,Critical,5,6,4035969.08,Air,1
+EVT00113,2021-08-20,Nagpur,Infrastructure Failure,Low,12,5,1112662.15,Road+Rail,1
+EVT00114,2022-02-20,Nagpur,Infrastructure Failure,Critical,8,24,2810911.16,Road+Rail,1
+EVT00115,2021-03-31,Surat,Heavy Snowfall,Medium,13,14,812153.48,Road+Rail,1
+EVT00116,2023-01-28,Jaipur,Political Unrest,Low,19,2,4200230.24,Road,1
+EVT00117,2021-08-10,Mumbai,Pandemic,Critical,18,22,4513511.43,Road,1
+EVT00118,2021-08-08,Pune,Pandemic,High,8,23,3330427.16,All,1
+EVT00119,2023-06-08,Pune,Flood,Critical,12,15,739662.86,Air,1
+EVT00120,2021-02-12,Nagpur,Pandemic,Low,6,22,3103937.39,Rail,1
+EVT00121,2022-12-27,Kanpur,Fuel Shortage,Critical,4,21,1250378.25,Rail,1
+EVT00122,2023-11-19,Hyderabad,Pandemic,High,5,19,3276504.65,Road,1
+EVT00123,2021-02-16,Pune,Heavy Snowfall,Critical,10,17,389339.49,Rail,1
+EVT00124,2024-02-27,Surat,Political Unrest,Medium,2,9,1670132.74,Air,1
+EVT00125,2024-01-12,Lucknow,Cyclone,Low,16,24,4422819.94,Road,1
+EVT00126,2021-02-14,Pune,Fuel Shortage,High,16,19,2753592.91,Road+Rail,1
+EVT00127,2021-04-19,Delhi,Political Unrest,High,16,5,1303566.56,All,1
+EVT00128,2024-03-25,Kolkata,Political Unrest,Medium,3,23,1820035.19,All,1
+EVT00129,2023-05-13,Bhopal,Heatwave,Medium,19,16,954349.32,Rail,1
+EVT00130,2021-04-15,Bhopal,None,Low,1,0,2491.77,All,0
+EVT00131,2022-05-06,Mumbai,Pandemic,Critical,7,11,1446706.88,Road+Rail,1
+EVT00132,2023-09-16,Jaipur,Heavy Snowfall,High,21,1,2855436.59,Road,1
+EVT00133,2023-09-06,Lucknow,Political Unrest,Medium,15,19,1760121.64,Rail,1
+EVT00134,2023-10-05,Kanpur,Flood,High,12,3,994503.97,Road+Rail,1
+EVT00135,2023-03-19,Mumbai,Heavy Snowfall,High,8,9,4886744.4,All,1
+EVT00136,2022-08-19,Pune,Heatwave,Low,21,15,581663.23,Road+Rail,1
+EVT00137,2021-07-02,Chennai,Heatwave,Medium,2,9,958029.95,All,1
+EVT00138,2021-11-14,Indore,Infrastructure Failure,Low,7,6,3460449.18,Road,1
+EVT00139,2021-09-20,Chennai,Pandemic,High,16,6,1714907.66,Road+Rail,1
+EVT00140,2021-12-29,Hyderabad,Heavy Snowfall,High,17,11,1154187.26,Rail,1
+EVT00141,2021-10-14,Kolkata,Infrastructure Failure,Low,4,20,524417.01,Road+Rail,1
+EVT00142,2024-01-03,Delhi,Heavy Snowfall,High,12,24,4152238.26,All,1
+EVT00143,2023-01-02,Lucknow,Political Unrest,Low,5,10,4647574.31,All,1
+EVT00144,2023-06-01,Jaipur,Heatwave,Low,2,13,590511.54,Rail,1
+EVT00145,2021-08-25,Kolkata,Political Unrest,Critical,15,4,140748.24,Air,1
+EVT00146,2022-03-19,Lucknow,Fuel Shortage,Medium,1,10,3607928.68,Road+Rail,1
+EVT00147,2022-02-20,Jaipur,Heavy Snowfall,High,5,3,499589.67,Road,1
+EVT00148,2021-09-09,Indore,Pandemic,Medium,2,2,2322633.13,Air,1
+EVT00149,2023-09-29,Bhopal,Pandemic,Medium,20,7,2372761.78,Rail,1
+EVT00150,2022-03-17,Hyderabad,None,Low,1,0,3648.81,Rail,0
+EVT00151,2021-11-09,Bangalore,Infrastructure Failure,Critical,1,5,651722.48,All,1
+EVT00152,2024-01-01,Hyderabad,Political Unrest,Medium,19,19,1979527.42,Rail,1
+EVT00153,2022-04-09,Lucknow,Fuel Shortage,High,16,14,3664993.02,All,1
+EVT00154,2023-09-08,Ahmedabad,Flood,Medium,15,18,3134561.07,Road+Rail,1
+EVT00155,2022-05-10,Surat,Cyclone,Medium,18,23,3187108.82,Road+Rail,1
+EVT00156,2023-09-04,Hyderabad,None,Low,0,0,4479.47,Rail,0
+EVT00157,2023-11-19,Pune,Fuel Shortage,High,12,20,2822434.96,Road,1
+EVT00158,2022-02-25,Bangalore,Heavy Snowfall,Critical,13,5,3237677.65,Rail,1
+EVT00159,2023-12-01,Ahmedabad,Infrastructure Failure,High,8,20,3606499.42,Road+Rail,1
+EVT00160,2024-02-24,Pune,Fuel Shortage,Low,3,6,282176.3,Air,1
+EVT00161,2023-03-27,Surat,None,Low,0,0,6209.32,Road+Rail,0
+EVT00162,2023-05-18,Lucknow,Infrastructure Failure,Critical,3,17,1452109.74,All,1
+EVT00163,2024-01-01,Pune,Infrastructure Failure,Medium,5,15,4916956.33,Air,1
+EVT00164,2022-07-10,Indore,Flood,High,12,2,1824990.03,All,1
+EVT00165,2022-02-01,Bhopal,Political Unrest,High,1,5,1079048.31,All,1
+EVT00166,2022-10-28,Bangalore,Heavy Snowfall,High,9,5,2438676.78,All,1
+EVT00167,2023-09-14,Lucknow,Flood,Medium,13,17,2634559.81,Road,1
+EVT00168,2021-10-20,Delhi,None,Low,0,0,7137.49,Air,0
+EVT00169,2024-02-22,Hyderabad,Fuel Shortage,Medium,7,23,3029911.74,Rail,1
+EVT00170,2023-01-28,Surat,Pandemic,Critical,12,20,4143095.94,Air,1
+EVT00171,2021-09-26,Bhopal,Heavy Snowfall,Critical,7,17,347668.83,Road,1
+EVT00172,2021-04-12,Mumbai,Flood,Medium,18,1,4903635.2,Road+Rail,1
+EVT00173,2022-07-13,Chennai,Strike,Critical,21,1,3756907.46,All,1
+EVT00174,2021-07-03,Kolkata,Flood,Low,5,15,2655755.97,Rail,1
+EVT00175,2022-09-14,Kanpur,None,Low,1,0,7527.11,Air,0
+EVT00176,2023-02-22,Chennai,Road Accident,Critical,20,2,1964291.42,Road+Rail,1
+EVT00177,2023-03-01,Bhopal,Cyclone,Critical,8,17,3166467.43,Road+Rail,1
+EVT00178,2022-04-11,Hyderabad,Political Unrest,High,11,16,3856945.78,Road,1
+EVT00179,2023-05-02,Surat,Flood,Critical,17,10,316865.4,Road,1
+EVT00180,2023-06-25,Chennai,Strike,Critical,19,3,93423.84,Road+Rail,1
+EVT00181,2023-05-24,Delhi,Road Accident,High,17,8,2593872.23,Road,1
+EVT00182,2022-07-20,Surat,Heavy Snowfall,Low,8,4,3720807.48,Air,1
+EVT00183,2021-10-03,Hyderabad,Cyclone,Medium,11,6,1022895.22,Rail,1
+EVT00184,2021-03-12,Surat,Fuel Shortage,Low,6,24,3430224.19,Air,1
+EVT00185,2022-05-09,Delhi,Infrastructure Failure,Low,1,25,3701676.48,Road,1
+EVT00186,2021-07-10,Jaipur,Road Accident,High,2,24,3906582.4,Road+Rail,1
+EVT00187,2021-10-15,Bangalore,Cyclone,High,13,16,3634429.23,All,1
+EVT00188,2023-01-19,Nagpur,Road Accident,Critical,18,19,4164376.46,Road,1
+EVT00189,2023-12-26,Bhopal,Road Accident,Critical,17,11,472580.59,Air,1
+EVT00190,2021-11-08,Jaipur,Cyclone,Medium,19,14,444787.57,All,1
+EVT00191,2023-11-08,Mumbai,Fuel Shortage,High,19,3,4350970.28,All,1
+EVT00192,2024-01-29,Delhi,None,Low,1,0,9944.52,Road,0
+EVT00193,2021-02-05,Bhopal,Strike,High,20,19,615060.21,Road+Rail,1
+EVT00194,2023-07-07,Nagpur,Flood,Critical,10,8,3756938.41,Air,1
+EVT00195,2023-08-27,Kanpur,None,Low,0,0,864.73,Road+Rail,0
+EVT00196,2022-03-19,Nagpur,Fuel Shortage,Low,10,1,1848179.02,Air,1
+EVT00197,2023-04-22,Kanpur,None,Low,1,0,6413.47,Rail,0
+EVT00198,2021-02-03,Bangalore,Road Accident,High,14,25,1557966.09,Rail,1
+EVT00199,2023-12-08,Lucknow,Heavy Snowfall,High,5,6,3540125.0,All,1
+EVT00200,2022-01-17,Chennai,Political Unrest,Low,21,1,4615958.75,Air,1
+EVT00201,2021-11-10,Surat,None,Low,1,0,5320.81,Air,0
+EVT00202,2022-04-23,Surat,Road Accident,Low,7,16,3620969.5,All,1
+EVT00203,2021-03-18,Ahmedabad,Pandemic,Medium,5,4,1412723.08,Air,1
+EVT00204,2023-03-28,Kolkata,Cyclone,Medium,15,23,2619081.49,Air,1
+EVT00205,2022-10-19,Kolkata,Infrastructure Failure,Low,11,20,90869.19,All,1
+EVT00206,2024-02-10,Hyderabad,Pandemic,High,5,16,4740971.0,Rail,1
+EVT00207,2022-07-13,Chennai,Infrastructure Failure,High,19,16,4739699.0,Road+Rail,1
+EVT00208,2022-06-27,Nagpur,Flood,Low,13,9,2886596.45,Road+Rail,1
+EVT00209,2021-02-20,Indore,Strike,Critical,10,5,1415724.71,Rail,1
+EVT00210,2023-07-17,Delhi,Flood,High,3,12,1721653.29,Road,1
+EVT00211,2021-04-01,Nagpur,Heavy Snowfall,Low,15,11,2463505.59,Road+Rail,1
+EVT00212,2023-11-21,Delhi,Heatwave,Medium,8,21,4113844.25,All,1
+EVT00213,2023-07-16,Pune,Heatwave,Medium,13,19,3082286.09,Road,1
+EVT00214,2021-06-21,Bhopal,Infrastructure Failure,Critical,8,8,3843183.64,Road+Rail,1
+EVT00215,2021-11-21,Kolkata,Heavy Snowfall,Critical,17,2,2199850.64,Road+Rail,1
+EVT00216,2021-05-05,Surat,Strike,Medium,4,25,3388007.97,Road+Rail,1
+EVT00217,2024-02-16,Lucknow,Fuel Shortage,Critical,17,8,301264.8,Rail,1
+EVT00218,2021-10-02,Delhi,Cyclone,Critical,10,11,2879413.24,All,1
+EVT00219,2023-04-03,Bhopal,Political Unrest,Low,16,18,231489.81,Road,1
+EVT00220,2022-03-17,Ahmedabad,Flood,Low,10,14,4385303.48,Road,1
+EVT00221,2021-08-19,Lucknow,Flood,High,17,9,2393998.78,Air,1
+EVT00222,2021-05-10,Surat,Strike,Low,8,16,4738361.39,Rail,1
+EVT00223,2021-01-23,Indore,Cyclone,Low,2,4,1879542.89,All,1
+EVT00224,2023-03-01,Delhi,Fuel Shortage,High,14,23,3798034.15,Road,1
+EVT00225,2021-01-20,Bhopal,Pandemic,Critical,9,24,1223607.44,Rail,1
+EVT00226,2023-04-04,Delhi,Cyclone,High,6,18,1344765.31,Rail,1
+EVT00227,2021-11-01,Kanpur,Political Unrest,High,6,11,2891432.44,Road,1
+EVT00228,2023-02-07,Jaipur,Cyclone,High,4,6,256730.2,Air,1
+EVT00229,2021-03-03,Ahmedabad,Infrastructure Failure,High,6,13,4962308.8,Road,1
+EVT00230,2023-03-25,Hyderabad,Heatwave,High,7,4,659928.28,Rail,1
+EVT00231,2021-01-05,Pune,Infrastructure Failure,Medium,15,2,2423875.98,Road,1
+EVT00232,2022-06-25,Chennai,Road Accident,High,5,10,910810.39,Rail,1
+EVT00233,2022-04-24,Surat,Flood,Low,13,8,4440944.95,Road,1
+EVT00234,2022-10-14,Bhopal,Flood,High,15,16,2734982.36,Road+Rail,1
+EVT00235,2022-02-06,Kanpur,Political Unrest,High,15,7,3528698.79,Air,1
+EVT00236,2023-05-19,Hyderabad,None,Low,0,0,7248.69,Road+Rail,0
+EVT00237,2022-10-02,Lucknow,Infrastructure Failure,Medium,11,3,3632783.71,All,1
+EVT00238,2021-09-13,Ahmedabad,Pandemic,Medium,15,13,4170431.66,Road,1
+EVT00239,2023-05-28,Hyderabad,Road Accident,Medium,15,10,2483073.4,Air,1
+EVT00240,2023-07-10,Bangalore,Political Unrest,Low,12,13,1089755.05,Road+Rail,1
+EVT00241,2021-03-09,Nagpur,Fuel Shortage,Critical,2,17,3933376.45,All,1
+EVT00242,2024-03-24,Mumbai,Political Unrest,Low,18,10,1864728.82,All,1
+EVT00243,2023-05-22,Ahmedabad,Fuel Shortage,Medium,13,24,2737780.91,All,1
+EVT00244,2022-08-31,Pune,Heavy Snowfall,Low,17,3,3049010.39,Rail,1
+EVT00245,2022-08-08,Kanpur,Infrastructure Failure,Medium,3,16,3629685.34,Air,1
+EVT00246,2022-10-26,Surat,Flood,Medium,4,20,4640799.39,Rail,1
+EVT00247,2023-12-21,Jaipur,Fuel Shortage,Medium,20,7,1850281.32,Road+Rail,1
+EVT00248,2023-08-27,Kanpur,Cyclone,Critical,16,22,2673729.16,All,1
+EVT00249,2024-02-17,Bhopal,Flood,Low,19,6,4684028.78,Rail,1
+EVT00250,2022-02-21,Bangalore,Strike,Medium,4,22,542066.87,Rail,1
+EVT00251,2022-11-08,Bangalore,Cyclone,Low,9,9,4415674.78,Air,1
+EVT00252,2021-01-01,Bhopal,Pandemic,Medium,3,24,4232587.69,Road,1
+EVT00253,2021-12-26,Lucknow,Heavy Snowfall,Critical,13,15,4601208.2,All,1
+EVT00254,2022-12-24,Delhi,Heatwave,Low,7,23,3071907.3,Air,1
+EVT00255,2022-05-07,Delhi,Flood,Medium,13,7,4588446.85,Rail,1
+EVT00256,2024-04-01,Lucknow,Heavy Snowfall,Critical,12,17,2407184.81,All,1
+EVT00257,2023-09-18,Ahmedabad,None,Low,1,0,1017.73,Road+Rail,0
+EVT00258,2023-05-09,Delhi,Heavy Snowfall,High,20,24,841886.73,Road,1
+EVT00259,2021-01-15,Nagpur,Flood,Critical,20,9,224584.24,Road,1
+EVT00260,2023-11-15,Nagpur,Strike,Medium,14,5,2064258.68,Road,1
+EVT00261,2023-04-19,Indore,Heatwave,Critical,3,6,84766.75,Road,1
+EVT00262,2021-06-15,Kanpur,Strike,Critical,9,22,1861913.34,All,1
+EVT00263,2023-12-24,Kolkata,Infrastructure Failure,High,15,3,2319325.21,Road,1
+EVT00264,2021-08-05,Kanpur,Strike,Low,13,8,303502.67,Road,1
+EVT00265,2023-12-24,Lucknow,Heavy Snowfall,Critical,8,13,2438698.01,Road,1
+EVT00266,2021-12-26,Hyderabad,Political Unrest,High,12,12,625234.83,Road,1
+EVT00267,2022-04-01,Chennai,Road Accident,Medium,14,11,2191264.52,Road,1
+EVT00268,2024-01-13,Delhi,Flood,Critical,21,24,4166564.43,Road,1
+EVT00269,2022-12-28,Lucknow,Heatwave,High,20,2,3635873.88,Air,1
+EVT00270,2022-10-30,Nagpur,Pandemic,High,16,21,636960.82,Rail,1
+EVT00271,2022-12-26,Chennai,Strike,Low,2,23,1428920.48,Air,1
+EVT00272,2021-09-11,Jaipur,Heavy Snowfall,Medium,18,13,1580647.57,Air,1
+EVT00273,2023-06-08,Kanpur,Fuel Shortage,High,18,13,3821319.59,All,1
+EVT00274,2023-09-16,Bangalore,None,Low,1,0,7755.65,Road,0
+EVT00275,2021-11-04,Jaipur,Pandemic,Low,3,10,2323970.12,Air,1
+EVT00276,2023-06-14,Surat,Strike,High,3,12,864568.26,Air,1
+EVT00277,2021-03-18,Jaipur,Political Unrest,Medium,10,24,1782688.82,Road+Rail,1
+EVT00278,2023-05-21,Chennai,Fuel Shortage,High,10,25,383603.61,Rail,1
+EVT00279,2021-05-29,Surat,Political Unrest,Critical,2,16,4733937.62,All,1
+EVT00280,2021-06-05,Indore,Fuel Shortage,High,7,23,4774633.94,Rail,1
+EVT00281,2023-01-25,Ahmedabad,None,Low,1,0,4423.72,Air,0
+EVT00282,2021-01-05,Bangalore,Heavy Snowfall,Critical,13,9,2503969.68,Air,1
+EVT00283,2022-03-14,Kolkata,Strike,Critical,16,7,2625666.83,Road+Rail,1
+EVT00284,2021-12-31,Ahmedabad,None,Low,1,0,7274.79,Rail,0
+EVT00285,2022-02-20,Surat,Pandemic,High,2,3,1600274.62,Road+Rail,1
+EVT00286,2021-05-27,Hyderabad,Pandemic,Critical,21,6,4269970.6,Rail,1
+EVT00287,2024-02-09,Pune,Cyclone,Low,7,10,2627598.33,Rail,1
+EVT00288,2021-02-02,Nagpur,None,Low,0,0,1310.02,Road+Rail,0
+EVT00289,2022-05-13,Bangalore,None,Low,0,0,9375.19,Road+Rail,0
+EVT00290,2022-01-04,Surat,Pandemic,High,13,12,817305.27,Rail,1
+EVT00291,2021-09-20,Chennai,Political Unrest,Medium,5,9,2175336.6,Air,1
+EVT00292,2021-11-09,Jaipur,Flood,Medium,14,1,3403446.69,Road+Rail,1
+EVT00293,2022-12-14,Indore,Infrastructure Failure,Low,15,7,3811565.34,Road,1
+EVT00294,2021-07-21,Mumbai,Heatwave,Low,5,24,1475367.29,Road,1
+EVT00295,2022-01-24,Mumbai,Heatwave,Medium,14,5,89499.34,Road+Rail,1
+EVT00296,2023-11-26,Hyderabad,Strike,Critical,12,9,3503200.27,All,1
+EVT00297,2024-02-25,Hyderabad,Pandemic,High,21,3,839768.19,Road,1
+EVT00298,2024-04-10,Delhi,Cyclone,Medium,17,8,2906443.32,Air,1
+EVT00299,2023-02-01,Kolkata,Road Accident,Low,8,11,1243209.25,All,1
+EVT00300,2023-05-09,Pune,Road Accident,High,1,18,1207854.5,Air,1
+EVT00301,2021-01-19,Bangalore,Political Unrest,Critical,21,2,292023.07,Road,1
+EVT00302,2023-04-12,Kolkata,None,Low,0,0,6228.65,Road,0
+EVT00303,2021-04-09,Surat,Political Unrest,Medium,4,21,3092660.97,All,1
+EVT00304,2024-03-11,Bhopal,Cyclone,Critical,2,7,2477112.8,Road,1
+EVT00305,2022-01-10,Pune,Heavy Snowfall,Critical,3,5,4786040.77,Road,1
+EVT00306,2023-02-26,Delhi,Road Accident,High,2,19,814355.05,All,1
+EVT00307,2023-11-27,Lucknow,Fuel Shortage,Medium,21,5,1497363.37,Road,1
+EVT00308,2023-10-12,Surat,Strike,Low,11,7,675834.5,Road,1
+EVT00309,2022-01-11,Surat,Fuel Shortage,High,3,12,4007284.59,Rail,1
+EVT00310,2023-07-31,Pune,Pandemic,High,12,6,4057677.88,Air,1
+EVT00311,2022-05-24,Indore,Road Accident,High,6,9,1620809.69,Road+Rail,1
+EVT00312,2023-01-02,Hyderabad,Infrastructure Failure,Critical,13,19,906902.7,Rail,1
+EVT00313,2024-01-19,Pune,Infrastructure Failure,Low,17,11,4608066.71,Rail,1
+EVT00314,2023-11-29,Surat,Fuel Shortage,Medium,17,2,660519.57,Rail,1
+EVT00315,2023-05-25,Bangalore,Road Accident,High,18,5,1819722.6,Air,1
+EVT00316,2022-04-09,Pune,Strike,Critical,5,8,308602.66,All,1
+EVT00317,2023-11-23,Bangalore,Fuel Shortage,Critical,3,17,3343979.23,Road+Rail,1
+EVT00318,2021-12-17,Pune,Road Accident,High,20,10,441767.29,Road,1
+EVT00319,2023-05-02,Lucknow,Heatwave,High,5,2,1666392.55,Air,1
+EVT00320,2022-11-17,Surat,Heatwave,Medium,19,11,2269548.79,Air,1
+EVT00321,2022-04-13,Jaipur,Cyclone,High,4,14,2917421.4,Rail,1
+EVT00322,2021-08-21,Jaipur,Infrastructure Failure,High,21,12,641963.17,Rail,1
+EVT00323,2024-02-11,Bangalore,Fuel Shortage,Critical,19,12,3293529.81,Rail,1
+EVT00324,2023-12-06,Ahmedabad,Political Unrest,Medium,13,19,4872946.57,Rail,1
+EVT00325,2023-10-09,Pune,Heatwave,Low,4,7,4588512.49,Road,1
+EVT00326,2023-09-08,Nagpur,Heatwave,Low,11,21,3722788.39,All,1
+EVT00327,2023-05-06,Kanpur,Heavy Snowfall,Low,9,17,3553314.55,Road+Rail,1
+EVT00328,2021-04-28,Ahmedabad,Fuel Shortage,Medium,17,2,3213923.22,Road,1
+EVT00329,2021-01-25,Ahmedabad,Heatwave,Critical,9,22,4334779.17,Air,1
+EVT00330,2022-07-17,Hyderabad,Flood,Critical,2,6,4668495.15,Road,1
+EVT00331,2021-05-10,Ahmedabad,Fuel Shortage,Medium,5,11,4470638.72,Road+Rail,1
+EVT00332,2022-11-01,Surat,Fuel Shortage,Low,21,24,4585309.1,All,1
+EVT00333,2021-04-24,Nagpur,Heavy Snowfall,Medium,17,22,125144.18,Rail,1
+EVT00334,2022-07-06,Hyderabad,Heatwave,Low,7,23,801042.24,Road,1
+EVT00335,2022-02-28,Ahmedabad,Flood,Low,8,17,264843.84,Air,1
+EVT00336,2022-07-15,Chennai,None,Low,0,0,9554.59,Air,0
+EVT00337,2023-11-27,Jaipur,Infrastructure Failure,Medium,16,25,4687319.07,Road+Rail,1
+EVT00338,2022-04-30,Lucknow,Fuel Shortage,High,21,17,2117819.14,All,1
+EVT00339,2023-10-02,Kanpur,None,Low,0,0,7147.54,Road+Rail,0
+EVT00340,2022-11-29,Bhopal,Political Unrest,Critical,15,24,1290342.75,Road,1
+EVT00341,2021-06-17,Delhi,None,Low,0,0,5594.79,Rail,0
+EVT00342,2024-04-08,Indore,Flood,Low,14,21,3842063.13,Rail,1
+EVT00343,2022-12-28,Ahmedabad,Fuel Shortage,High,4,1,1317560.65,Road,1
+EVT00344,2021-10-14,Kolkata,Heavy Snowfall,Low,1,12,3126712.48,All,1
+EVT00345,2022-08-04,Kolkata,Flood,High,10,19,4907071.25,Road,1
+EVT00346,2024-03-13,Kanpur,Heavy Snowfall,High,1,15,622148.92,Road+Rail,1
+EVT00347,2022-08-24,Hyderabad,Infrastructure Failure,Low,7,9,4742436.07,Air,1
+EVT00348,2021-09-14,Bhopal,Heavy Snowfall,Medium,2,17,1618328.16,Road,1
+EVT00349,2022-01-25,Hyderabad,Heavy Snowfall,Low,6,14,4360068.08,Air,1
+EVT00350,2021-01-15,Jaipur,Flood,Medium,18,15,3303219.15,Air,1
+EVT00351,2022-10-22,Nagpur,Infrastructure Failure,Critical,18,13,4223182.49,Road+Rail,1
+EVT00352,2023-05-20,Kolkata,Political Unrest,Low,14,17,2275743.63,Road+Rail,1
+EVT00353,2022-10-05,Chennai,Flood,Critical,18,7,2225259.28,Road+Rail,1
+EVT00354,2021-12-01,Jaipur,Strike,High,17,15,400872.22,Air,1
+EVT00355,2022-11-13,Indore,Heavy Snowfall,High,18,19,3699166.14,Road,1
+EVT00356,2021-06-18,Pune,Heatwave,Low,16,9,1241968.77,Road+Rail,1
+EVT00357,2022-08-20,Chennai,Road Accident,Low,19,10,3030436.86,Rail,1
+EVT00358,2021-07-20,Indore,Heavy Snowfall,Low,19,16,2226743.48,Road,1
+EVT00359,2021-04-02,Surat,Road Accident,Low,5,7,3236350.86,Air,1
+EVT00360,2022-01-01,Mumbai,Heavy Snowfall,Critical,3,8,2766743.25,Road,1
+EVT00361,2022-04-18,Pune,Fuel Shortage,Medium,18,4,2928632.7,All,1
+EVT00362,2022-04-19,Jaipur,Road Accident,High,2,15,4112230.58,All,1
+EVT00363,2021-10-12,Indore,Heatwave,Medium,3,6,3413707.82,Air,1
+EVT00364,2021-08-03,Nagpur,Infrastructure Failure,Low,2,22,3208111.42,Rail,1
+EVT00365,2021-09-20,Lucknow,Heavy Snowfall,Low,14,23,1161596.5,Air,1
+EVT00366,2022-11-20,Kanpur,Cyclone,High,6,1,3220783.96,Air,1
+EVT00367,2023-01-27,Kanpur,Fuel Shortage,Low,3,8,3076033.23,Road,1
+EVT00368,2021-03-31,Mumbai,Cyclone,High,5,1,3916847.63,Rail,1
+EVT00369,2022-06-01,Kanpur,Political Unrest,Low,18,10,3207835.41,Road,1
+EVT00370,2022-09-08,Jaipur,Cyclone,Low,16,12,4488515.98,Air,1
+EVT00371,2022-07-14,Hyderabad,Flood,High,21,13,1625306.73,Air,1
+EVT00372,2022-06-28,Chennai,Heavy Snowfall,Critical,10,1,1988005.32,Road+Rail,1
+EVT00373,2021-12-04,Delhi,Cyclone,Medium,9,4,583865.56,Road+Rail,1
+EVT00374,2021-11-08,Jaipur,Fuel Shortage,High,9,12,2713308.36,Road+Rail,1
+EVT00375,2022-11-20,Kanpur,Cyclone,Low,10,1,2789306.88,All,1
+EVT00376,2021-07-20,Chennai,Flood,Critical,5,21,1207220.83,Rail,1
+EVT00377,2022-03-02,Lucknow,Road Accident,Critical,3,8,2986805.34,Road,1
+EVT00378,2021-01-19,Mumbai,Road Accident,Critical,20,10,93341.31,Road+Rail,1
+EVT00379,2022-03-01,Kanpur,Infrastructure Failure,High,17,24,226987.18,All,1
+EVT00380,2021-07-22,Bangalore,Pandemic,High,3,15,3676260.26,Road,1
+EVT00381,2023-08-14,Kanpur,Road Accident,Medium,1,23,4969469.58,All,1
+EVT00382,2022-08-28,Pune,Heatwave,Critical,6,3,3119606.36,All,1
+EVT00383,2023-08-03,Jaipur,Fuel Shortage,Medium,12,25,2574346.52,Air,1
+EVT00384,2022-01-28,Surat,Political Unrest,Low,16,11,2193626.29,Road,1
+EVT00385,2022-05-18,Mumbai,Heatwave,Medium,20,7,447169.53,Road,1
+EVT00386,2022-12-15,Delhi,None,Low,0,0,4656.25,All,0
+EVT00387,2023-12-22,Mumbai,Strike,High,9,14,3995802.99,Air,1
+EVT00388,2021-10-04,Surat,Political Unrest,Medium,14,7,1803557.86,Air,1
+EVT00389,2022-03-14,Bangalore,Flood,Low,13,5,4380648.67,Air,1
+EVT00390,2021-10-24,Hyderabad,Infrastructure Failure,Critical,19,1,4572811.61,Rail,1
+EVT00391,2023-01-26,Bangalore,Road Accident,Low,12,15,1452678.13,All,1
+EVT00392,2024-03-22,Indore,Heavy Snowfall,Low,18,23,1625638.26,Road,1
+EVT00393,2021-08-24,Mumbai,Road Accident,Medium,17,6,2904152.22,Road,1
+EVT00394,2021-05-20,Bhopal,Heatwave,Medium,9,4,2498654.87,Road+Rail,1
+EVT00395,2023-01-17,Delhi,Political Unrest,Medium,21,9,3405889.96,Rail,1
+EVT00396,2022-03-10,Pune,None,Low,0,0,9901.29,Road+Rail,0
+EVT00397,2023-04-13,Kanpur,None,Low,0,0,5680.27,Rail,0
+EVT00398,2021-01-22,Bangalore,Strike,Low,4,2,522659.13,All,1
+EVT00399,2022-08-27,Bhopal,None,Low,0,0,6669.9,Road+Rail,0
+EVT00400,2023-08-27,Bhopal,Infrastructure Failure,High,17,9,4406993.99,All,1
+EVT00401,2021-05-02,Lucknow,Pandemic,Critical,4,25,2709160.72,Road,1
+EVT00402,2022-07-09,Surat,Road Accident,Low,3,7,2117156.64,Rail,1
+EVT00403,2022-07-15,Mumbai,None,Low,0,0,4311.16,Rail,0
+EVT00404,2022-03-19,Kolkata,Strike,Medium,8,7,3864566.16,Road+Rail,1
+EVT00405,2021-06-05,Lucknow,Pandemic,High,9,19,3216734.47,All,1
+EVT00406,2023-10-28,Hyderabad,Cyclone,Critical,10,17,3268089.2,Air,1
+EVT00407,2022-02-16,Indore,Strike,Medium,9,16,3833460.98,Air,1
+EVT00408,2021-08-08,Pune,None,Low,1,0,9044.7,All,0
+EVT00409,2023-08-07,Mumbai,None,Low,1,0,4323.93,Air,0
+EVT00410,2021-02-07,Delhi,Flood,High,19,8,438890.75,Road+Rail,1
+EVT00411,2021-04-13,Surat,Infrastructure Failure,High,15,6,4631407.21,Road+Rail,1
+EVT00412,2021-10-13,Indore,Strike,Critical,8,15,384497.78,Road+Rail,1
+EVT00413,2023-05-13,Hyderabad,Strike,Critical,10,8,4984775.22,Air,1
+EVT00414,2022-11-02,Delhi,None,Low,0,0,3816.17,All,0
+EVT00415,2022-05-06,Mumbai,None,Low,0,0,9687.23,Road+Rail,0
+EVT00416,2022-08-02,Bhopal,Heavy Snowfall,Medium,19,21,3686272.98,Road+Rail,1
+EVT00417,2023-06-20,Chennai,None,Low,1,0,6342.24,Air,0
+EVT00418,2023-10-02,Delhi,Flood,High,20,19,898934.11,Road,1
+EVT00419,2021-04-14,Kanpur,Road Accident,Critical,20,16,4234995.34,Air,1
+EVT00420,2021-10-30,Lucknow,Fuel Shortage,Low,13,19,2016530.21,Road,1
+EVT00421,2022-07-11,Kolkata,Heatwave,Critical,10,9,1077240.23,Air,1
+EVT00422,2023-08-16,Pune,Infrastructure Failure,Critical,15,4,3248485.76,Air,1
+EVT00423,2023-06-23,Mumbai,Heatwave,Critical,16,1,3961003.07,Road,1
+EVT00424,2021-07-05,Surat,Road Accident,Low,1,7,759817.39,Road,1
+EVT00425,2024-02-14,Mumbai,Strike,Low,20,6,2555829.3,Air,1
+EVT00426,2022-03-20,Bangalore,Cyclone,Medium,13,20,1727351.56,Air,1
+EVT00427,2023-07-06,Chennai,Flood,Low,21,22,2061541.94,Rail,1
+EVT00428,2023-02-25,Indore,Heavy Snowfall,High,14,20,2337625.41,All,1
+EVT00429,2023-09-07,Bangalore,Strike,Critical,17,24,3773444.95,Air,1
+EVT00430,2023-07-10,Nagpur,Political Unrest,High,11,18,860084.18,Rail,1
+EVT00431,2022-10-17,Bhopal,Flood,Medium,7,21,4811412.57,Road+Rail,1
+EVT00432,2023-08-12,Mumbai,Fuel Shortage,Medium,6,7,4294779.19,Air,1
+EVT00433,2022-12-07,Ahmedabad,Fuel Shortage,Critical,15,20,774463.05,All,1
+EVT00434,2023-10-28,Chennai,Pandemic,High,14,7,2935134.83,Road+Rail,1
+EVT00435,2022-09-13,Jaipur,Heatwave,Critical,8,23,2920370.88,All,1
+EVT00436,2022-07-22,Mumbai,None,Low,1,0,3158.29,Road+Rail,0
+EVT00437,2022-01-05,Hyderabad,Fuel Shortage,Medium,19,3,1235325.88,Rail,1
+EVT00438,2022-09-17,Kolkata,Flood,Critical,2,7,2394768.75,Road+Rail,1
+EVT00439,2023-08-03,Hyderabad,Strike,Low,13,21,413524.77,All,1
+EVT00440,2021-04-13,Bhopal,Heatwave,High,20,25,271080.66,Rail,1
+EVT00441,2023-11-15,Surat,Fuel Shortage,Low,16,18,1027282.78,Rail,1
+EVT00442,2021-04-18,Mumbai,Political Unrest,High,16,24,3054839.51,Road,1
+EVT00443,2023-05-15,Chennai,Strike,Medium,14,18,1890248.16,All,1
+EVT00444,2022-02-10,Kolkata,Infrastructure Failure,Medium,11,24,2487496.58,Road+Rail,1
+EVT00445,2022-06-07,Hyderabad,Political Unrest,Medium,12,15,3278233.98,Air,1
+EVT00446,2021-12-18,Ahmedabad,Cyclone,Critical,6,8,201957.33,All,1
+EVT00447,2022-03-22,Hyderabad,Political Unrest,Medium,1,21,1163977.03,Air,1
+EVT00448,2021-07-28,Bangalore,Infrastructure Failure,Critical,18,15,2389720.85,Road,1
+EVT00449,2022-05-08,Hyderabad,Infrastructure Failure,Low,8,22,3407155.79,All,1
+EVT00450,2023-01-20,Kolkata,Political Unrest,Medium,14,17,1996476.23,Road,1
+EVT00451,2022-05-20,Kanpur,Road Accident,Low,20,15,1978763.03,Rail,1
+EVT00452,2021-07-23,Chennai,Heatwave,High,14,11,4766832.15,Road+Rail,1
+EVT00453,2024-01-06,Bangalore,Fuel Shortage,Medium,10,18,2314702.44,Air,1
+EVT00454,2021-01-16,Bhopal,Fuel Shortage,Low,17,3,3294329.26,Road,1
+EVT00455,2022-10-03,Ahmedabad,None,Low,0,0,4154.7,Air,0
+EVT00456,2021-10-26,Bhopal,Fuel Shortage,High,13,11,3555885.82,All,1
+EVT00457,2023-03-22,Bangalore,Heavy Snowfall,Medium,19,1,644141.52,Air,1
+EVT00458,2021-06-18,Pune,Flood,High,14,17,4336651.58,All,1
+EVT00459,2023-02-15,Bhopal,None,Low,1,0,2452.55,Rail,0
+EVT00460,2021-12-09,Hyderabad,Heatwave,High,19,22,2993014.53,All,1
+EVT00461,2022-03-08,Indore,Cyclone,Low,5,20,3082733.18,Rail,1
+EVT00462,2021-09-05,Chennai,Heavy Snowfall,Medium,1,11,3311855.02,Road,1
+EVT00463,2023-05-20,Surat,Heatwave,High,5,10,4095962.91,Rail,1
+EVT00464,2021-05-19,Bangalore,Infrastructure Failure,Critical,11,15,3726374.64,Air,1
+EVT00465,2023-11-25,Pune,Strike,High,17,13,1554691.3,Rail,1
+EVT00466,2022-07-06,Kanpur,Cyclone,Low,10,11,4407611.58,Road+Rail,1
+EVT00467,2021-01-29,Bangalore,Cyclone,Low,3,14,4510697.98,Rail,1
+EVT00468,2022-12-23,Nagpur,Infrastructure Failure,High,9,17,554160.95,Road,1
+EVT00469,2022-07-19,Kolkata,Infrastructure Failure,Low,11,11,3396102.55,Rail,1
+EVT00470,2022-07-20,Surat,Flood,Low,19,15,1561482.62,Air,1
+EVT00471,2023-12-14,Bhopal,Flood,High,4,11,486934.27,Road+Rail,1
+EVT00472,2023-01-25,Kolkata,Cyclone,High,3,15,1818666.18,Air,1
+EVT00473,2023-05-27,Pune,Flood,Critical,17,18,177802.44,Rail,1
+EVT00474,2021-07-10,Bangalore,Road Accident,Critical,21,24,1819590.46,Road,1
+EVT00475,2023-09-24,Kanpur,Road Accident,Medium,19,12,3777828.57,Air,1
+EVT00476,2021-10-27,Hyderabad,Strike,Critical,6,8,4586297.49,Road,1
+EVT00477,2022-06-14,Jaipur,Fuel Shortage,Critical,21,12,1719302.59,All,1
+EVT00478,2023-05-01,Bangalore,Fuel Shortage,Low,7,23,2792569.42,Rail,1
+EVT00479,2023-12-15,Jaipur,Fuel Shortage,Critical,11,19,1955962.64,All,1
+EVT00480,2021-01-31,Kanpur,Fuel Shortage,High,13,5,3031922.98,Road,1
+EVT00481,2021-11-11,Surat,Fuel Shortage,Medium,11,17,711320.79,Road+Rail,1
+EVT00482,2023-02-12,Ahmedabad,None,Low,1,0,3810.95,Road+Rail,0
+EVT00483,2023-08-25,Surat,Cyclone,Low,12,18,3173299.8,Air,1
+EVT00484,2021-09-13,Delhi,Pandemic,High,15,13,3090223.7,All,1
+EVT00485,2022-10-19,Lucknow,Strike,Low,15,12,2018802.29,Road,1
+EVT00486,2023-02-06,Mumbai,Road Accident,Medium,11,17,210979.73,Rail,1
+EVT00487,2023-03-19,Pune,Fuel Shortage,Low,14,17,2390724.2,Air,1
+EVT00488,2022-09-28,Nagpur,Infrastructure Failure,Critical,9,8,474051.1,Air,1
+EVT00489,2023-12-24,Surat,None,Low,0,0,8788.7,Road+Rail,0
+EVT00490,2021-01-13,Surat,Flood,Critical,20,5,2817561.52,Road,1
+EVT00491,2021-11-16,Mumbai,Infrastructure Failure,Medium,10,15,1620307.79,Road+Rail,1
+EVT00492,2022-01-04,Jaipur,Political Unrest,Critical,9,25,1352060.59,All,1
+EVT00493,2024-01-12,Indore,Strike,High,19,11,3413873.47,Road,1
+EVT00494,2023-07-26,Bangalore,Pandemic,Medium,10,3,305950.5,All,1
+EVT00495,2023-10-06,Bhopal,Flood,Medium,1,8,2103744.84,Air,1
+EVT00496,2023-11-25,Chennai,Cyclone,Medium,10,17,4323486.19,Road+Rail,1
+EVT00497,2022-02-04,Bhopal,Political Unrest,Low,12,6,3890027.87,Road,1
+EVT00498,2022-03-06,Kanpur,Fuel Shortage,Critical,16,4,3204819.3,Road+Rail,1
+EVT00499,2021-08-22,Bangalore,Political Unrest,High,20,15,88878.66,Road,1
+EVT00500,2022-05-16,Bangalore,Fuel Shortage,High,13,12,2629672.34,All,1
+EVT00501,2023-02-15,Pune,Strike,Medium,9,9,4250797.13,Rail,1
+EVT00502,2024-02-03,Bhopal,Fuel Shortage,Medium,8,21,3484771.5,Air,1
+EVT00503,2022-08-08,Kanpur,Infrastructure Failure,Low,17,11,3501832.78,All,1
+EVT00504,2021-08-19,Kolkata,Road Accident,Critical,15,19,1136343.54,Road+Rail,1
+EVT00505,2023-03-01,Mumbai,Flood,Critical,1,17,3294696.93,Road,1
+EVT00506,2022-08-18,Lucknow,Infrastructure Failure,Low,7,24,1081442.05,Road+Rail,1
+EVT00507,2022-02-06,Chennai,Strike,High,21,25,4998782.44,Road+Rail,1
+EVT00508,2023-06-16,Lucknow,Heatwave,Medium,14,22,4320416.8,Road,1
+EVT00509,2022-05-06,Mumbai,Infrastructure Failure,High,2,9,2626048.29,Rail,1
+EVT00510,2022-07-20,Delhi,Flood,Medium,17,7,905007.32,Road,1
+EVT00511,2023-01-24,Chennai,Political Unrest,Low,5,18,1819142.15,Road+Rail,1
+EVT00512,2021-04-15,Hyderabad,Heatwave,Critical,2,9,944636.83,Air,1
+EVT00513,2023-01-21,Mumbai,Road Accident,Low,10,18,2604671.02,Air,1
+EVT00514,2022-08-29,Mumbai,Fuel Shortage,High,1,23,282745.47,All,1
+EVT00515,2023-11-27,Delhi,Heavy Snowfall,Critical,17,11,1898677.91,Rail,1
+EVT00516,2024-03-17,Hyderabad,Cyclone,High,4,8,160603.48,Road+Rail,1
+EVT00517,2021-11-03,Jaipur,Flood,Medium,6,9,1811463.58,Road+Rail,1
+EVT00518,2022-10-04,Indore,None,Low,1,0,6387.48,All,0
+EVT00519,2021-03-22,Kolkata,Heatwave,High,10,17,3727215.53,Road,1
+EVT00520,2021-11-30,Bangalore,Cyclone,Low,16,14,162577.53,Road+Rail,1
+EVT00521,2021-10-04,Pune,None,Low,0,0,1082.65,All,0
+EVT00522,2021-01-19,Jaipur,Cyclone,Low,10,1,1612473.43,All,1
+EVT00523,2023-10-09,Ahmedabad,Flood,Medium,10,18,3746891.92,Road,1
+EVT00524,2022-08-30,Bangalore,Infrastructure Failure,High,4,13,410579.13,Air,1
+EVT00525,2024-03-03,Bangalore,Heatwave,High,21,22,2750525.17,Road+Rail,1
+EVT00526,2021-03-26,Pune,Infrastructure Failure,High,19,9,1929858.73,Air,1
+EVT00527,2021-04-21,Indore,Flood,Low,21,17,3357328.0,Road,1
+EVT00528,2023-09-29,Hyderabad,Cyclone,Low,3,7,1685182.57,Air,1
+EVT00529,2023-12-18,Chennai,Political Unrest,Low,10,16,2829612.44,All,1
+EVT00530,2022-04-08,Mumbai,Infrastructure Failure,Low,19,4,185969.55,Road+Rail,1
+EVT00531,2021-03-10,Lucknow,Road Accident,Low,6,17,3655662.53,Road,1
+EVT00532,2021-08-23,Indore,Cyclone,Medium,5,1,2411311.29,All,1
+EVT00533,2021-08-23,Bhopal,Strike,Low,10,7,2581922.74,Road+Rail,1
+EVT00534,2023-09-28,Nagpur,Cyclone,High,14,23,4582252.57,Road+Rail,1
+EVT00535,2021-05-25,Bhopal,Infrastructure Failure,High,20,11,4004003.56,Air,1
+EVT00536,2023-04-14,Chennai,Fuel Shortage,Low,1,2,2089935.12,All,1
+EVT00537,2024-01-15,Bhopal,Political Unrest,Low,7,11,2743518.59,Rail,1
+EVT00538,2023-01-14,Pune,Infrastructure Failure,Critical,5,11,1017587.98,Air,1
+EVT00539,2023-03-05,Nagpur,Pandemic,High,8,7,3862653.03,Road+Rail,1
+EVT00540,2023-10-17,Chennai,Infrastructure Failure,High,16,25,1473464.71,Air,1
+EVT00541,2023-07-07,Kolkata,Infrastructure Failure,Critical,13,1,4101975.8,Rail,1
+EVT00542,2024-02-20,Hyderabad,Fuel Shortage,High,5,23,2966772.33,All,1
+EVT00543,2021-02-11,Chennai,Flood,High,13,3,371165.78,Rail,1
+EVT00544,2021-09-19,Jaipur,Heavy Snowfall,Low,9,17,4281767.72,Air,1
+EVT00545,2024-03-06,Kanpur,Heavy Snowfall,Low,4,12,64604.46,All,1
+EVT00546,2023-03-19,Kanpur,Pandemic,Medium,17,9,2416904.42,Road,1
+EVT00547,2023-12-21,Pune,Heavy Snowfall,Critical,17,24,2596265.4,Rail,1
+EVT00548,2021-12-23,Pune,Strike,Medium,7,14,2947849.42,Air,1
+EVT00549,2023-10-02,Nagpur,Road Accident,High,9,7,1325835.62,All,1
+EVT00550,2021-04-20,Ahmedabad,Pandemic,High,9,10,945148.9,All,1
+EVT00551,2022-11-13,Bangalore,Flood,Critical,20,23,1331111.0,Road+Rail,1
+EVT00552,2023-04-18,Bangalore,Political Unrest,Low,12,23,4150514.54,Road+Rail,1
+EVT00553,2022-11-06,Hyderabad,Fuel Shortage,Medium,5,13,2207835.83,Rail,1
+EVT00554,2022-12-17,Nagpur,Road Accident,Critical,3,23,2172593.33,Air,1
+EVT00555,2022-06-14,Chennai,Political Unrest,High,20,19,2803780.31,Road+Rail,1
+EVT00556,2022-04-30,Ahmedabad,Heavy Snowfall,High,13,25,366490.33,Rail,1
+EVT00557,2023-12-22,Hyderabad,Political Unrest,Low,7,1,4445355.42,Rail,1
+EVT00558,2024-03-25,Kolkata,Flood,Low,7,23,3737213.29,Road+Rail,1
+EVT00559,2021-10-02,Lucknow,Flood,High,14,12,4370829.16,Road,1
+EVT00560,2022-12-21,Bhopal,Pandemic,High,21,9,751629.83,All,1
+EVT00561,2023-09-08,Indore,Political Unrest,Medium,3,22,284183.79,Road+Rail,1
+EVT00562,2022-07-26,Ahmedabad,Heatwave,Critical,8,13,2220507.62,Road,1
+EVT00563,2023-08-18,Nagpur,Heatwave,Low,14,10,3525358.22,Rail,1
+EVT00564,2021-05-07,Chennai,Road Accident,Medium,21,18,4330810.46,All,1
+EVT00565,2023-01-26,Surat,Road Accident,Medium,18,13,1411876.89,Air,1
+EVT00566,2024-02-28,Lucknow,Pandemic,High,16,1,3190373.07,Road,1
+EVT00567,2024-02-17,Ahmedabad,Flood,Critical,17,8,4700998.09,Road,1
+EVT00568,2021-05-21,Kolkata,Flood,High,13,9,3408062.46,All,1
+EVT00569,2022-06-03,Chennai,Infrastructure Failure,Medium,13,21,632062.99,Road+Rail,1
+EVT00570,2023-07-31,Nagpur,Pandemic,High,15,15,4613815.97,Rail,1
+EVT00571,2021-05-25,Surat,Cyclone,Medium,9,4,3599346.5,Road,1
+EVT00572,2023-09-14,Chennai,Flood,Critical,5,24,2848860.97,Rail,1
+EVT00573,2022-11-13,Lucknow,Heavy Snowfall,Critical,8,22,815777.44,All,1
+EVT00574,2023-03-25,Indore,Fuel Shortage,Critical,3,16,2389020.87,Air,1
+EVT00575,2021-04-28,Nagpur,Road Accident,High,17,19,1009003.37,Road,1
+EVT00576,2021-10-17,Indore,Flood,Critical,3,11,3401166.21,All,1
+EVT00577,2023-11-25,Kanpur,Infrastructure Failure,Medium,17,24,1092997.53,Road+Rail,1
+EVT00578,2022-12-28,Kanpur,Road Accident,Medium,7,12,4326716.35,Road+Rail,1
+EVT00579,2023-01-02,Delhi,Heavy Snowfall,High,4,16,2848281.12,Air,1
+EVT00580,2022-07-30,Indore,Strike,Low,14,17,2448742.87,Air,1
+EVT00581,2023-11-27,Nagpur,Fuel Shortage,Medium,9,11,1932697.62,All,1
+EVT00582,2021-04-15,Delhi,Political Unrest,Low,3,13,604251.38,All,1
+EVT00583,2024-02-18,Chennai,Flood,Low,6,12,1675653.23,Air,1
+EVT00584,2021-12-16,Mumbai,Heavy Snowfall,High,21,10,1261856.76,Rail,1
+EVT00585,2023-05-20,Chennai,None,Low,0,0,2727.02,Road,0
+EVT00586,2022-08-15,Lucknow,Fuel Shortage,Low,17,19,270869.16,Air,1
+EVT00587,2023-07-23,Hyderabad,Infrastructure Failure,Medium,10,8,1209812.52,Road,1
+EVT00588,2023-02-11,Pune,Heatwave,Critical,2,25,1420930.22,Rail,1
+EVT00589,2022-04-19,Kanpur,Heatwave,Medium,7,6,4543400.15,Rail,1
+EVT00590,2021-03-17,Mumbai,Heavy Snowfall,Medium,12,18,4223772.2,Road,1
+EVT00591,2021-11-05,Nagpur,Fuel Shortage,High,14,18,3754968.35,Rail,1
+EVT00592,2021-03-05,Kolkata,Heavy Snowfall,Critical,18,1,3118974.7,All,1
+EVT00593,2023-12-13,Pune,Heatwave,Low,20,13,2696650.55,Air,1
+EVT00594,2023-12-07,Nagpur,Heatwave,High,14,19,2198275.64,Rail,1
+EVT00595,2023-01-16,Bhopal,Road Accident,Medium,17,23,1853384.84,Road,1
+EVT00596,2021-11-30,Surat,Strike,Medium,6,1,3351045.79,Road,1
+EVT00597,2021-07-25,Chennai,Infrastructure Failure,Medium,11,16,2252893.03,Rail,1
+EVT00598,2022-04-21,Hyderabad,Road Accident,Low,3,20,4162960.89,Rail,1
+EVT00599,2021-11-19,Surat,Pandemic,Low,19,24,2172963.99,Road+Rail,1
+EVT00600,2021-01-28,Delhi,Cyclone,Low,11,24,3947226.24,Road+Rail,1
+EVT00601,2021-08-30,Mumbai,Fuel Shortage,Medium,1,8,4379014.88,Rail,1
+EVT00602,2023-07-26,Bhopal,None,Low,1,0,3357.79,Road,0
+EVT00603,2021-11-15,Bangalore,Fuel Shortage,Critical,20,8,1301625.38,Road,1
+EVT00604,2023-01-18,Chennai,None,Low,0,0,4045.69,Air,0
+EVT00605,2022-06-04,Indore,Political Unrest,High,1,22,3208673.86,Air,1
+EVT00606,2022-01-18,Ahmedabad,Strike,Critical,17,1,3642157.69,Road,1
+EVT00607,2022-12-07,Hyderabad,Pandemic,Medium,11,22,2506708.05,All,1
+EVT00608,2022-01-27,Bhopal,Heatwave,High,20,5,3417670.05,All,1
+EVT00609,2023-03-25,Bhopal,Heatwave,Low,1,21,4269087.14,Rail,1
+EVT00610,2021-01-17,Bhopal,Flood,Critical,6,6,529246.83,Road+Rail,1
+EVT00611,2022-12-06,Kanpur,Cyclone,High,8,4,2735724.73,All,1
+EVT00612,2021-08-10,Jaipur,Flood,Critical,10,20,4906861.09,Air,1
+EVT00613,2022-04-23,Delhi,Road Accident,High,15,8,1494501.74,Air,1
+EVT00614,2022-06-05,Bangalore,Infrastructure Failure,Low,1,24,3076866.39,Air,1
+EVT00615,2023-11-24,Kanpur,Pandemic,Critical,14,17,3296325.94,Road+Rail,1
+EVT00616,2024-03-20,Nagpur,Heatwave,Low,18,2,2262086.12,All,1
+EVT00617,2022-02-23,Bangalore,Heavy Snowfall,Medium,15,5,4530364.78,All,1
+EVT00618,2022-03-09,Ahmedabad,Strike,Critical,2,5,2475545.28,Rail,1
+EVT00619,2021-03-13,Lucknow,None,Low,1,0,4303.85,Air,0
+EVT00620,2021-08-08,Chennai,Heatwave,Low,8,19,605739.71,Road,1
+EVT00621,2022-11-06,Kolkata,Pandemic,Low,10,7,4717920.12,Road,1
+EVT00622,2022-12-30,Pune,Infrastructure Failure,Low,13,12,143577.12,Road,1
+EVT00623,2023-01-11,Mumbai,None,Low,0,0,3322.54,All,0
+EVT00624,2022-02-21,Kanpur,Fuel Shortage,Critical,2,25,1482340.33,Road,1
+EVT00625,2021-02-08,Delhi,Fuel Shortage,Medium,6,18,3296801.09,Rail,1
+EVT00626,2021-10-25,Surat,Fuel Shortage,Low,1,12,2052207.71,Road+Rail,1
+EVT00627,2022-09-08,Bangalore,Road Accident,High,17,15,390714.38,Rail,1
+EVT00628,2022-04-29,Pune,Infrastructure Failure,Low,5,22,1488809.17,Rail,1
+EVT00629,2021-12-25,Delhi,Heatwave,Critical,15,13,1224102.54,Road+Rail,1
+EVT00630,2021-03-31,Kolkata,Heavy Snowfall,High,9,10,1618438.26,All,1
+EVT00631,2021-02-04,Hyderabad,None,Low,1,0,7196.46,Road,0
+EVT00632,2022-03-26,Kolkata,Road Accident,Critical,3,12,1815305.85,Road+Rail,1
+EVT00633,2022-11-26,Lucknow,Cyclone,High,11,12,3282927.46,All,1
+EVT00634,2021-09-16,Surat,Fuel Shortage,Low,11,24,3494344.78,Road,1
+EVT00635,2022-10-15,Ahmedabad,Political Unrest,Medium,13,7,4467656.6,Road,1
+EVT00636,2024-03-17,Kolkata,Cyclone,Critical,13,22,1730479.88,Road,1
+EVT00637,2022-05-06,Indore,Heavy Snowfall,High,13,17,484134.56,Road,1
+EVT00638,2023-01-06,Bangalore,None,Low,0,0,5752.63,Road,0
+EVT00639,2022-02-26,Chennai,Road Accident,High,21,25,1706732.61,Road,1
+EVT00640,2021-04-11,Mumbai,Strike,Low,10,10,3428225.38,Road+Rail,1
+EVT00641,2024-02-18,Pune,Cyclone,High,8,17,2335232.52,Rail,1
+EVT00642,2023-04-06,Kolkata,Road Accident,Medium,19,14,3304488.48,Road,1
+EVT00643,2024-02-17,Lucknow,Fuel Shortage,Low,17,13,4190212.86,Rail,1
+EVT00644,2022-12-22,Nagpur,Infrastructure Failure,Low,5,15,4044163.87,Road,1
+EVT00645,2022-07-23,Delhi,Cyclone,Medium,9,2,4036052.91,Rail,1
+EVT00646,2021-05-30,Mumbai,Political Unrest,Low,10,23,3984836.45,Rail,1
+EVT00647,2021-07-09,Delhi,Political Unrest,Critical,4,3,164286.96,All,1
+EVT00648,2021-07-06,Bangalore,Heavy Snowfall,Low,6,25,4452649.93,Air,1
+EVT00649,2024-01-20,Pune,Flood,High,6,23,103533.42,All,1
+EVT00650,2024-02-05,Kolkata,Heatwave,Medium,6,2,149790.24,Rail,1
+EVT00651,2023-06-09,Kolkata,Fuel Shortage,Critical,2,7,197490.42,Air,1
+EVT00652,2024-03-04,Kolkata,Heavy Snowfall,Low,1,8,629826.19,Road+Rail,1
+EVT00653,2021-06-28,Indore,Strike,High,2,24,4315625.72,Road+Rail,1
+EVT00654,2022-09-28,Indore,Pandemic,High,13,13,3723831.03,Road,1
+EVT00655,2022-02-02,Pune,Infrastructure Failure,Low,3,13,315510.68,Air,1
+EVT00656,2023-07-20,Bangalore,Cyclone,Low,21,4,1238257.6,All,1
+EVT00657,2022-06-18,Pune,Flood,Low,9,23,3672656.71,All,1
+EVT00658,2022-10-11,Pune,Political Unrest,Low,2,3,2590845.56,All,1
+EVT00659,2022-08-16,Indore,Heatwave,High,1,5,1061512.48,Road,1
+EVT00660,2023-07-14,Kanpur,Pandemic,Medium,13,3,4005098.06,Air,1
+EVT00661,2023-06-03,Bangalore,Fuel Shortage,Medium,8,10,598927.84,Road+Rail,1
+EVT00662,2023-04-09,Kanpur,Fuel Shortage,High,13,18,1172392.66,All,1
+EVT00663,2022-04-16,Jaipur,Political Unrest,Critical,21,7,4929990.5,Road,1
+EVT00664,2021-05-28,Bhopal,Fuel Shortage,High,10,23,1697146.83,Road,1
+EVT00665,2021-11-27,Nagpur,Heavy Snowfall,Medium,18,4,1377285.65,Rail,1
+EVT00666,2024-03-03,Bangalore,Heavy Snowfall,Medium,4,24,1173036.81,Road,1
+EVT00667,2022-05-06,Chennai,Heavy Snowfall,High,15,7,901964.54,All,1
+EVT00668,2021-02-08,Nagpur,Flood,Critical,15,22,964141.86,Rail,1
+EVT00669,2022-10-27,Indore,Road Accident,High,9,7,952095.31,Rail,1
+EVT00670,2021-07-06,Delhi,None,Low,0,0,1872.82,Road+Rail,0
+EVT00671,2022-03-07,Chennai,Political Unrest,Low,15,19,2201415.35,Road+Rail,1
+EVT00672,2024-03-02,Mumbai,Pandemic,High,12,5,869720.37,Road,1
+EVT00673,2022-11-04,Kanpur,Infrastructure Failure,Critical,20,22,2662366.08,All,1
+EVT00674,2022-07-23,Kanpur,None,Low,1,0,3126.84,Rail,0
+EVT00675,2023-09-02,Mumbai,Cyclone,High,17,8,595859.35,Road,1
+EVT00676,2023-11-03,Surat,Strike,Medium,6,4,4486353.41,Air,1
+EVT00677,2024-03-18,Ahmedabad,Heavy Snowfall,Medium,14,14,2262726.87,All,1
+EVT00678,2023-09-11,Jaipur,Infrastructure Failure,Critical,13,11,4771052.39,All,1
+EVT00679,2021-07-06,Surat,Road Accident,Critical,19,5,4066184.34,All,1
+EVT00680,2024-02-01,Bangalore,Road Accident,Critical,7,22,1767394.86,Air,1
+EVT00681,2022-03-24,Delhi,Road Accident,Low,20,12,2803971.53,Road+Rail,1
+EVT00682,2022-10-23,Pune,Pandemic,Low,4,5,2511064.92,All,1
+EVT00683,2021-12-18,Jaipur,Heatwave,High,3,21,1803399.98,Road,1
+EVT00684,2023-03-15,Nagpur,Heavy Snowfall,Critical,18,21,430055.81,All,1
+EVT00685,2021-08-17,Bhopal,Pandemic,Medium,7,23,624715.62,Road,1
+EVT00686,2022-06-27,Hyderabad,Strike,Medium,12,17,1555523.84,Road,1
+EVT00687,2022-01-20,Mumbai,Pandemic,Medium,14,25,4551439.2,All,1
+EVT00688,2024-04-06,Chennai,None,Low,0,0,9584.46,Road,0
+EVT00689,2022-11-27,Chennai,Fuel Shortage,Low,20,12,1248266.28,Road+Rail,1
+EVT00690,2022-08-21,Bhopal,Political Unrest,Low,17,14,571929.48,All,1
+EVT00691,2022-12-04,Surat,None,Low,0,0,8899.45,Road,0
+EVT00692,2022-09-08,Nagpur,Strike,High,17,23,319669.21,Air,1
+EVT00693,2023-05-06,Ahmedabad,Heavy Snowfall,Medium,3,15,533075.39,Rail,1
+EVT00694,2023-10-29,Bangalore,Fuel Shortage,Medium,11,20,3129880.12,Road,1
+EVT00695,2022-02-01,Pune,Heavy Snowfall,High,4,20,396810.73,All,1
+EVT00696,2023-10-24,Mumbai,Heatwave,Critical,16,23,3243793.6,Air,1
+EVT00697,2021-02-28,Delhi,Cyclone,Low,12,22,3584619.3,Air,1
+EVT00698,2022-05-14,Bhopal,Road Accident,High,1,12,2559862.34,All,1
+EVT00699,2021-02-25,Surat,Political Unrest,Medium,13,5,4043930.31,Road+Rail,1
+EVT00700,2024-04-15,Pune,Heatwave,Medium,10,9,3777590.77,Road+Rail,1
+EVT00701,2022-07-06,Lucknow,Heatwave,Medium,11,14,3100417.16,All,1
+EVT00702,2021-09-20,Pune,Political Unrest,High,17,2,4577214.25,Rail,1
+EVT00703,2022-11-11,Pune,Road Accident,Medium,3,2,4495040.12,Air,1
+EVT00704,2021-01-25,Jaipur,Pandemic,High,9,4,1240645.09,Road,1
+EVT00705,2021-02-27,Delhi,Cyclone,High,8,5,3082394.93,Road,1
+EVT00706,2022-06-18,Kanpur,Flood,Low,13,15,1039481.28,Road+Rail,1
+EVT00707,2022-03-29,Hyderabad,Strike,Critical,20,10,4487633.36,Air,1
+EVT00708,2021-06-18,Chennai,Cyclone,Medium,4,8,4393708.23,Road+Rail,1
+EVT00709,2021-08-03,Surat,Fuel Shortage,Medium,10,8,2781247.55,Road,1
+EVT00710,2023-11-13,Kanpur,Heatwave,Medium,16,4,350615.98,Rail,1
+EVT00711,2023-06-01,Kanpur,Pandemic,Critical,1,9,2231017.78,Road,1
+EVT00712,2022-07-21,Bhopal,Road Accident,Medium,9,8,2697966.06,Road,1
+EVT00713,2022-09-24,Surat,Political Unrest,Critical,18,22,959300.96,Road,1
+EVT00714,2022-07-03,Delhi,Flood,Low,16,20,3082960.27,All,1
+EVT00715,2021-01-20,Indore,None,Low,0,0,6373.0,Air,0
+EVT00716,2023-02-06,Bangalore,Cyclone,Critical,19,23,4235370.36,Road+Rail,1
+EVT00717,2023-03-02,Delhi,Heavy Snowfall,Medium,20,4,2214534.89,Rail,1
+EVT00718,2021-07-13,Chennai,Cyclone,Low,1,1,2456251.06,Rail,1
+EVT00719,2021-12-16,Ahmedabad,Political Unrest,Medium,15,5,3475808.83,Rail,1
+EVT00720,2022-09-08,Nagpur,Heatwave,Medium,19,17,3837772.26,Air,1
+EVT00721,2021-06-24,Bangalore,Fuel Shortage,Critical,20,11,4267892.61,Road,1
+EVT00722,2021-10-26,Indore,Fuel Shortage,High,1,14,555872.54,All,1
+EVT00723,2023-07-24,Indore,Pandemic,Medium,12,14,1056420.73,All,1
+EVT00724,2023-05-20,Pune,None,Low,1,0,8074.49,All,0
+EVT00725,2023-05-01,Ahmedabad,Strike,Low,6,15,4704450.14,Air,1
+EVT00726,2024-03-15,Delhi,Strike,Low,15,25,3455398.24,Air,1
+EVT00727,2023-12-13,Hyderabad,Cyclone,Low,14,1,2417039.11,Road,1
+EVT00728,2021-02-23,Surat,Cyclone,Critical,15,14,1695109.34,Air,1
+EVT00729,2023-12-24,Surat,Heatwave,High,19,24,4619429.98,Air,1
+EVT00730,2023-04-01,Kanpur,Pandemic,Medium,18,21,4147646.65,Air,1
+EVT00731,2022-01-16,Delhi,Road Accident,Critical,14,9,2032446.15,Air,1
+EVT00732,2024-02-16,Ahmedabad,Flood,Low,20,2,3796679.73,Road+Rail,1
+EVT00733,2022-07-28,Ahmedabad,Heavy Snowfall,Low,2,9,4583494.08,Road+Rail,1
+EVT00734,2021-11-10,Hyderabad,Infrastructure Failure,Critical,13,1,2556178.55,Air,1
+EVT00735,2021-05-29,Indore,Strike,High,15,22,791462.82,All,1
+EVT00736,2022-08-16,Ahmedabad,Fuel Shortage,Critical,13,6,638821.06,Road+Rail,1
+EVT00737,2023-11-18,Kolkata,Heavy Snowfall,Low,10,23,3464734.53,Road,1
+EVT00738,2021-01-07,Chennai,Flood,Medium,16,14,4141462.62,Road+Rail,1
+EVT00739,2022-03-13,Mumbai,Heatwave,High,3,8,2250534.53,Road+Rail,1
+EVT00740,2022-08-04,Hyderabad,Political Unrest,Medium,8,19,2152489.09,All,1
+EVT00741,2023-09-27,Jaipur,Infrastructure Failure,High,3,13,670944.73,Road,1
+EVT00742,2021-12-04,Hyderabad,Heavy Snowfall,High,14,6,4923165.55,Rail,1
+EVT00743,2021-05-19,Nagpur,Fuel Shortage,Medium,4,24,4432075.39,Air,1
+EVT00744,2021-12-25,Pune,Heavy Snowfall,Low,7,24,1830923.61,All,1
+EVT00745,2022-03-20,Nagpur,Pandemic,Medium,8,17,3117133.11,Air,1
+EVT00746,2023-12-16,Mumbai,Heatwave,Critical,3,21,3413920.36,Road,1
+EVT00747,2022-07-19,Hyderabad,Fuel Shortage,High,17,7,2422799.22,All,1
+EVT00748,2021-03-22,Kanpur,Flood,Medium,2,23,2551028.58,All,1
+EVT00749,2021-08-07,Mumbai,Political Unrest,Critical,9,9,2044958.21,Rail,1
+EVT00750,2022-09-18,Bangalore,Infrastructure Failure,Low,18,16,890509.62,Air,1
+EVT00751,2022-08-29,Bhopal,Cyclone,Low,15,4,4713124.01,Air,1
+EVT00752,2021-06-18,Bangalore,Pandemic,Critical,21,12,574611.29,Road+Rail,1
+EVT00753,2022-07-17,Lucknow,Infrastructure Failure,Critical,9,7,2326301.13,Road+Rail,1
+EVT00754,2023-03-14,Kanpur,Strike,Low,15,9,2038666.7,Road+Rail,1
+EVT00755,2021-01-31,Indore,Road Accident,Critical,20,9,3419714.25,Road,1
+EVT00756,2022-06-06,Jaipur,Infrastructure Failure,Critical,3,15,536557.25,Rail,1
+EVT00757,2022-07-01,Surat,Pandemic,Low,9,12,3340656.4,Rail,1
+EVT00758,2022-07-16,Delhi,Heatwave,Medium,9,1,4228502.04,Road,1
+EVT00759,2021-10-14,Chennai,Flood,High,12,17,3586293.81,Road,1
+EVT00760,2023-08-01,Pune,Road Accident,Critical,8,5,399416.05,All,1
+EVT00761,2022-02-27,Mumbai,Political Unrest,High,15,3,866864.44,Road+Rail,1
+EVT00762,2022-06-02,Surat,Heavy Snowfall,Critical,2,14,767271.93,Road+Rail,1
+EVT00763,2021-05-17,Mumbai,Political Unrest,Critical,5,20,171067.49,Road+Rail,1
+EVT00764,2022-02-20,Bhopal,Strike,Critical,18,18,1934815.04,All,1
+EVT00765,2023-07-12,Bhopal,Strike,High,8,14,3018633.05,Road,1
+EVT00766,2021-01-05,Indore,Infrastructure Failure,Critical,15,22,2706366.21,Road,1
+EVT00767,2021-03-02,Nagpur,Strike,Medium,7,10,244469.22,All,1
+EVT00768,2021-01-29,Hyderabad,Road Accident,Critical,11,2,4798129.08,All,1
+EVT00769,2021-06-14,Nagpur,Infrastructure Failure,Medium,20,2,4937764.73,Road,1
+EVT00770,2022-12-09,Nagpur,Political Unrest,Low,11,13,4725228.19,Rail,1
+EVT00771,2023-04-18,Surat,Infrastructure Failure,High,19,19,1899820.43,Road+Rail,1
+EVT00772,2022-11-02,Lucknow,Cyclone,High,10,14,4572230.28,All,1
+EVT00773,2021-01-19,Bangalore,Infrastructure Failure,Low,11,8,2620031.67,Road,1
+EVT00774,2024-03-28,Indore,Heavy Snowfall,Low,8,25,1739761.91,All,1
+EVT00775,2021-05-02,Chennai,Heatwave,Medium,9,3,2758366.05,Rail,1
+EVT00776,2024-03-24,Chennai,None,Low,1,0,8914.32,All,0
+EVT00777,2023-09-12,Bhopal,Road Accident,Critical,14,23,1641311.61,Road,1
+EVT00778,2022-09-08,Chennai,Flood,Low,1,21,3685877.17,Rail,1
+EVT00779,2021-08-29,Mumbai,None,Low,1,0,6685.84,Rail,0
+EVT00780,2023-02-13,Ahmedabad,Pandemic,Critical,15,8,2168573.53,All,1
+EVT00781,2021-08-25,Nagpur,Pandemic,Low,1,8,1481910.01,Air,1
+EVT00782,2021-05-14,Kanpur,Flood,Critical,5,23,2549997.38,Air,1
+EVT00783,2023-10-19,Lucknow,None,Low,0,0,2004.76,Road+Rail,0
+EVT00784,2023-02-27,Kanpur,Strike,Low,9,21,2230581.64,All,1
+EVT00785,2023-11-20,Bangalore,Road Accident,High,18,11,549035.12,Road+Rail,1
+EVT00786,2022-07-25,Pune,Road Accident,High,7,14,3101755.78,All,1
+EVT00787,2022-07-10,Lucknow,Heavy Snowfall,Low,12,3,611595.55,Road+Rail,1
+EVT00788,2021-06-26,Delhi,Cyclone,High,17,15,3874626.69,Road,1
+EVT00789,2024-03-16,Hyderabad,Heavy Snowfall,Low,9,8,1938138.84,Road,1
+EVT00790,2021-08-25,Kolkata,None,Low,1,0,9253.12,Road,0
+EVT00791,2024-02-10,Nagpur,Infrastructure Failure,Medium,5,13,4267104.82,Road+Rail,1
+EVT00792,2023-01-28,Kanpur,Road Accident,Critical,17,1,1828961.65,Road+Rail,1
+EVT00793,2022-08-29,Mumbai,Political Unrest,Low,9,13,3562335.32,Road+Rail,1
+EVT00794,2022-06-04,Kanpur,Political Unrest,Critical,19,9,109873.56,Road+Rail,1
+EVT00795,2023-03-31,Nagpur,Heatwave,High,21,5,1808254.31,All,1
+EVT00796,2024-02-28,Delhi,Pandemic,Medium,8,9,668130.8,Road+Rail,1
+EVT00797,2021-09-15,Indore,Cyclone,High,6,9,4589855.6,All,1
+EVT00798,2023-12-19,Ahmedabad,Flood,Low,20,13,3399628.49,Rail,1
+EVT00799,2021-07-10,Chennai,Political Unrest,Low,17,13,1703474.96,All,1
+EVT00800,2023-02-28,Delhi,Road Accident,Medium,10,2,1181783.09,All,1
+EVT00801,2021-08-26,Lucknow,Heavy Snowfall,Critical,21,9,978327.22,All,1
+EVT00802,2022-01-20,Delhi,None,Low,0,0,3211.25,Air,0
+EVT00803,2022-01-17,Bhopal,Infrastructure Failure,Critical,18,12,2996333.99,Road+Rail,1
+EVT00804,2021-09-19,Lucknow,Infrastructure Failure,Critical,6,13,3743658.14,Road,1
+EVT00805,2023-09-29,Jaipur,Strike,Critical,1,15,4048380.9,Air,1
+EVT00806,2021-10-05,Bhopal,Fuel Shortage,High,3,7,3479577.99,Rail,1
+EVT00807,2021-02-05,Kanpur,Infrastructure Failure,Critical,4,24,1230596.44,Rail,1
+EVT00808,2024-02-05,Bangalore,Fuel Shortage,High,17,9,990544.23,Rail,1
+EVT00809,2022-10-20,Bangalore,Fuel Shortage,Critical,6,16,3685120.21,Road+Rail,1
+EVT00810,2024-03-28,Kolkata,Strike,High,12,19,4233607.8,Air,1
+EVT00811,2024-02-20,Chennai,Cyclone,Critical,3,13,2003682.14,Air,1
+EVT00812,2022-11-20,Jaipur,Heatwave,Critical,20,13,4312170.34,All,1
+EVT00813,2023-02-06,Pune,Pandemic,Critical,17,24,3599469.22,Rail,1
+EVT00814,2022-06-29,Hyderabad,Flood,Medium,20,20,4609611.25,Road+Rail,1
+EVT00815,2021-04-11,Surat,Political Unrest,Critical,17,5,1081283.58,Road+Rail,1
+EVT00816,2022-03-10,Nagpur,None,Low,1,0,5831.49,Air,0
+EVT00817,2023-10-12,Bangalore,Strike,High,11,21,4386037.01,Air,1
+EVT00818,2021-03-06,Mumbai,Strike,Critical,14,24,3283070.69,Air,1
+EVT00819,2023-06-28,Lucknow,Infrastructure Failure,Low,15,16,3571105.36,Road,1
+EVT00820,2023-06-28,Bangalore,None,Low,0,0,2732.58,Road+Rail,0
+EVT00821,2022-12-11,Bhopal,None,Low,0,0,211.46,Rail,0
+EVT00822,2024-03-02,Mumbai,Fuel Shortage,Critical,11,19,4486946.84,Road,1
+EVT00823,2022-08-10,Kanpur,Road Accident,Low,13,17,4144459.41,Air,1
+EVT00824,2021-06-20,Kolkata,Heatwave,High,16,1,2510214.44,All,1
+EVT00825,2024-04-03,Indore,Pandemic,Low,21,18,4479932.53,Rail,1
+EVT00826,2023-04-19,Pune,Strike,High,12,20,3370371.95,Rail,1
+EVT00827,2024-01-25,Delhi,Road Accident,Critical,3,20,654587.56,All,1
+EVT00828,2022-11-27,Kanpur,Fuel Shortage,Medium,9,22,718491.62,Road+Rail,1
+EVT00829,2023-12-27,Indore,Strike,Low,18,2,1269352.94,Road,1
+EVT00830,2023-09-07,Kolkata,Heavy Snowfall,Critical,3,10,4798830.39,Rail,1
+EVT00831,2021-11-30,Pune,Pandemic,Low,8,13,2212738.86,Air,1
+EVT00832,2022-07-16,Kolkata,Cyclone,Medium,15,17,2741267.76,Air,1
+EVT00833,2023-01-02,Bangalore,Pandemic,Medium,13,5,4976814.85,Road+Rail,1
+EVT00834,2023-07-28,Kolkata,Pandemic,Low,5,14,1048591.52,Road,1
+EVT00835,2022-05-07,Pune,Strike,High,2,15,2593238.86,Air,1
+EVT00836,2022-12-08,Ahmedabad,Strike,Medium,19,5,3042617.92,Road,1
+EVT00837,2022-10-05,Surat,Strike,Critical,21,17,2362319.01,All,1
+EVT00838,2024-02-02,Bangalore,Pandemic,High,9,6,4454064.13,Rail,1
+EVT00839,2021-09-04,Delhi,Fuel Shortage,Low,9,22,329060.57,Road+Rail,1
+EVT00840,2022-05-12,Indore,Strike,Low,19,15,3659348.95,Air,1
+EVT00841,2023-05-01,Kolkata,Fuel Shortage,Medium,13,16,4103975.89,Road,1
+EVT00842,2022-07-03,Kanpur,Heavy Snowfall,Critical,19,15,4554594.71,Road+Rail,1
+EVT00843,2022-03-11,Jaipur,Political Unrest,Critical,11,23,1292715.34,Rail,1
+EVT00844,2021-09-28,Bhopal,Cyclone,Low,7,17,191225.31,Air,1
+EVT00845,2022-04-04,Bhopal,Fuel Shortage,Critical,2,14,1828618.32,Road+Rail,1
+EVT00846,2023-06-02,Mumbai,Fuel Shortage,Medium,1,15,1050935.09,Rail,1
+EVT00847,2022-05-14,Delhi,Cyclone,Medium,6,18,2221532.9,Road,1
+EVT00848,2023-11-16,Mumbai,Strike,Critical,2,9,1039615.4,Air,1
+EVT00849,2023-12-03,Bhopal,None,Low,0,0,8923.88,Road+Rail,0
+EVT00850,2023-08-29,Nagpur,Cyclone,Medium,10,13,1777079.04,Air,1
+EVT00851,2022-03-31,Lucknow,Heavy Snowfall,Critical,18,23,3655620.61,Road+Rail,1
+EVT00852,2023-10-25,Kolkata,None,Low,0,0,3480.3,Air,0
+EVT00853,2021-11-17,Nagpur,Heatwave,Critical,14,13,3966696.58,Air,1
+EVT00854,2023-04-20,Mumbai,Political Unrest,Critical,1,19,105554.38,Rail,1
+EVT00855,2021-02-26,Ahmedabad,Cyclone,High,2,1,3696263.4,Road+Rail,1
+EVT00856,2022-04-03,Chennai,Infrastructure Failure,High,20,18,1406562.05,Air,1
+EVT00857,2021-04-24,Delhi,Cyclone,Medium,21,7,1269114.86,Road+Rail,1
+EVT00858,2023-08-16,Chennai,Political Unrest,High,6,11,3952060.57,Road,1
+EVT00859,2023-06-19,Ahmedabad,None,Low,1,0,4285.04,Road+Rail,0
+EVT00860,2022-11-10,Jaipur,Fuel Shortage,High,14,4,2958900.69,All,1
+EVT00861,2021-06-19,Hyderabad,Heatwave,High,14,17,1214861.98,Road,1
+EVT00862,2023-01-01,Bangalore,Road Accident,High,15,11,3828531.6,Road,1
+EVT00863,2023-06-18,Pune,Flood,High,19,25,1844007.55,Road+Rail,1
+EVT00864,2023-02-15,Pune,Strike,High,12,24,1267942.23,Rail,1
+EVT00865,2023-04-08,Bangalore,Heatwave,Medium,14,11,3463548.86,Road,1
+EVT00866,2024-04-03,Bhopal,None,Low,1,0,4309.63,Road,0
+EVT00867,2021-09-25,Pune,Heatwave,Medium,11,16,57593.87,Road,1
+EVT00868,2022-11-10,Nagpur,Infrastructure Failure,Low,16,16,2543518.1,Road+Rail,1
+EVT00869,2023-04-15,Kolkata,None,Low,1,0,1807.03,Rail,0
+EVT00870,2022-02-19,Kolkata,Road Accident,Medium,12,16,2211929.0,Rail,1
+EVT00871,2023-08-20,Delhi,Strike,Low,17,1,3416540.82,Road+Rail,1
+EVT00872,2021-01-06,Hyderabad,Political Unrest,High,1,25,3039464.19,All,1
+EVT00873,2021-12-27,Surat,Cyclone,Low,3,7,3873685.74,Air,1
+EVT00874,2024-01-19,Pune,Road Accident,High,11,18,468060.73,Road+Rail,1
+EVT00875,2024-02-08,Indore,Cyclone,High,17,21,3737755.41,All,1
+EVT00876,2022-11-24,Delhi,Pandemic,High,13,16,1209262.7,Road,1
+EVT00877,2021-01-27,Hyderabad,Cyclone,High,6,15,3148986.96,Road,1
+EVT00878,2023-04-05,Mumbai,Heavy Snowfall,Low,15,16,2381047.13,Rail,1
+EVT00879,2022-03-12,Kanpur,Fuel Shortage,Medium,6,16,2932109.49,Road+Rail,1
+EVT00880,2021-07-13,Bhopal,Strike,Medium,4,18,2645575.06,Rail,1
+EVT00881,2022-04-12,Hyderabad,Heatwave,High,5,17,4302016.55,Rail,1
+EVT00882,2024-02-17,Pune,Strike,High,12,13,1173495.48,Road+Rail,1
+EVT00883,2021-08-13,Delhi,Political Unrest,Low,3,16,4811266.13,Air,1
+EVT00884,2022-01-14,Bhopal,Heavy Snowfall,Critical,3,16,539066.56,Road,1
+EVT00885,2022-09-18,Chennai,Road Accident,Critical,12,2,1532130.73,All,1
+EVT00886,2022-10-13,Ahmedabad,Infrastructure Failure,High,14,23,2544431.51,Air,1
+EVT00887,2021-10-27,Pune,Flood,Critical,15,6,4613069.01,Air,1
+EVT00888,2022-07-09,Kolkata,Political Unrest,High,17,9,3986539.28,Rail,1
+EVT00889,2021-02-26,Jaipur,Infrastructure Failure,Critical,1,16,4070335.15,All,1
+EVT00890,2022-06-11,Jaipur,None,Low,0,0,5247.29,Rail,0
+EVT00891,2024-03-22,Kanpur,Road Accident,High,6,17,3317897.6,Road,1
+EVT00892,2021-06-28,Surat,Road Accident,Medium,21,19,2111831.24,Rail,1
+EVT00893,2024-01-23,Jaipur,Road Accident,Critical,15,24,2466409.79,Road+Rail,1
+EVT00894,2022-02-18,Kolkata,Strike,High,1,16,1191109.1,Air,1
+EVT00895,2022-05-23,Bhopal,Cyclone,High,1,21,4944883.68,Rail,1
+EVT00896,2024-04-15,Jaipur,Pandemic,Critical,8,9,59809.33,Road,1
+EVT00897,2023-08-06,Delhi,Political Unrest,Critical,13,24,1231661.02,All,1
+EVT00898,2022-02-23,Ahmedabad,Heatwave,High,14,8,3377598.91,Road,1
+EVT00899,2022-05-20,Indore,Political Unrest,High,13,2,2341192.67,Rail,1
+EVT00900,2023-09-28,Jaipur,Heatwave,Low,21,2,2106036.65,Air,1
+EVT00901,2024-02-20,Kolkata,Flood,Medium,10,7,4135157.43,Road,1
+EVT00902,2023-06-08,Bhopal,Infrastructure Failure,Low,8,12,1617677.44,Road+Rail,1
+EVT00903,2022-07-01,Pune,Strike,Critical,6,1,303822.04,Road+Rail,1
+EVT00904,2024-02-28,Chennai,Strike,Medium,4,17,2822627.52,Road,1
+EVT00905,2022-03-13,Chennai,None,Low,1,0,2175.36,Road,0
+EVT00906,2021-06-22,Nagpur,Cyclone,Low,18,6,3428896.38,All,1
+EVT00907,2023-02-12,Pune,None,Low,0,0,6064.46,Rail,0
+EVT00908,2021-08-29,Delhi,Infrastructure Failure,Medium,6,15,2037965.69,Air,1
+EVT00909,2023-02-05,Kolkata,Heavy Snowfall,Medium,16,24,3290330.21,Air,1
+EVT00910,2023-09-04,Nagpur,Infrastructure Failure,Critical,8,13,1530505.81,All,1
+EVT00911,2022-05-05,Delhi,Infrastructure Failure,High,5,25,613103.2,Air,1
+EVT00912,2023-07-21,Nagpur,Infrastructure Failure,High,20,18,2910518.45,Road+Rail,1
+EVT00913,2022-03-11,Kolkata,Fuel Shortage,Low,8,18,4468853.79,Air,1
+EVT00914,2022-06-19,Kanpur,Pandemic,Medium,17,12,2894177.29,All,1
+EVT00915,2022-05-31,Delhi,Road Accident,Low,9,25,3688611.47,All,1
+EVT00916,2022-12-10,Delhi,Heatwave,Critical,17,10,181492.61,All,1
+EVT00917,2021-07-22,Lucknow,Fuel Shortage,Low,5,4,2970427.44,All,1
+EVT00918,2021-06-14,Delhi,Fuel Shortage,High,2,5,2320376.65,All,1
+EVT00919,2022-07-04,Bhopal,Fuel Shortage,Medium,3,1,2645085.82,Road,1
+EVT00920,2023-09-29,Mumbai,None,Low,1,0,6849.28,Road+Rail,0
+EVT00921,2022-05-23,Ahmedabad,Pandemic,Medium,7,21,2883218.99,All,1
+EVT00922,2023-07-02,Bangalore,Strike,Low,19,3,3239793.92,All,1
+EVT00923,2023-12-14,Kolkata,Political Unrest,Medium,6,7,4291804.36,Rail,1
+EVT00924,2023-01-17,Bangalore,Political Unrest,Low,18,8,4100560.89,Road+Rail,1
+EVT00925,2021-12-06,Kanpur,Pandemic,Critical,14,4,3713573.77,Road,1
+EVT00926,2022-10-11,Indore,Strike,Medium,14,12,4039420.99,Road,1
+EVT00927,2022-04-30,Pune,Flood,Critical,20,7,3839450.13,Rail,1
+EVT00928,2024-02-16,Kolkata,Political Unrest,High,13,3,1167681.07,All,1
+EVT00929,2022-08-09,Pune,Pandemic,Low,6,13,1583973.58,Rail,1
+EVT00930,2022-02-21,Jaipur,Pandemic,High,10,9,308505.56,Road+Rail,1
+EVT00931,2023-10-04,Lucknow,Pandemic,Medium,6,25,4420473.09,Road,1
+EVT00932,2023-11-01,Jaipur,Road Accident,High,4,18,2623663.8,All,1
+EVT00933,2022-07-22,Lucknow,Heatwave,High,18,9,4448969.8,Road+Rail,1
+EVT00934,2021-09-09,Bhopal,Cyclone,Critical,21,9,2610133.42,Rail,1
+EVT00935,2023-04-25,Delhi,Fuel Shortage,Medium,17,3,382768.21,Road+Rail,1
+EVT00936,2022-03-21,Delhi,None,Low,0,0,3180.38,Road,0
+EVT00937,2022-11-06,Chennai,Heatwave,Critical,18,3,3709743.85,Rail,1
+EVT00938,2022-04-10,Chennai,Political Unrest,Medium,13,16,1310488.01,Road+Rail,1
+EVT00939,2023-04-29,Indore,Heavy Snowfall,Low,8,17,112283.39,Air,1
+EVT00940,2021-02-07,Surat,Pandemic,Critical,7,12,200464.61,Air,1
+EVT00941,2023-10-06,Surat,Pandemic,Low,9,21,1104786.09,Road+Rail,1
+EVT00942,2024-03-02,Bhopal,Strike,Critical,3,22,1639610.3,Road,1
+EVT00943,2021-09-24,Bangalore,Flood,Critical,10,13,1509696.85,Rail,1
+EVT00944,2023-08-21,Delhi,Political Unrest,Medium,20,10,2453914.99,Road+Rail,1
+EVT00945,2023-04-12,Lucknow,Infrastructure Failure,Medium,10,25,3584171.68,Air,1
+EVT00946,2021-05-01,Kanpur,Heavy Snowfall,Critical,11,15,856359.54,Rail,1
+EVT00947,2022-09-27,Surat,Fuel Shortage,Critical,7,3,578733.92,Rail,1
+EVT00948,2022-07-14,Kolkata,Cyclone,Low,7,21,805969.81,Road,1
+EVT00949,2023-06-01,Ahmedabad,Flood,Critical,5,1,1954748.66,Road+Rail,1
+EVT00950,2022-10-02,Kolkata,Flood,Critical,18,24,1524335.29,Road+Rail,1
+EVT00951,2023-07-11,Chennai,Road Accident,High,15,21,975329.26,Road,1
+EVT00952,2021-09-16,Mumbai,Strike,Critical,6,25,3782745.53,Air,1
+EVT00953,2021-11-05,Chennai,Pandemic,High,3,25,2024849.47,All,1
+EVT00954,2023-05-12,Ahmedabad,Political Unrest,Critical,3,11,2048793.64,Rail,1
+EVT00955,2022-12-16,Kolkata,Political Unrest,High,14,20,2997946.83,Air,1
+EVT00956,2023-12-07,Hyderabad,Flood,Critical,3,3,4428657.49,All,1
+EVT00957,2023-10-19,Bhopal,Fuel Shortage,Low,16,2,2320425.3,All,1
+EVT00958,2023-09-17,Kolkata,Heatwave,Medium,20,5,4714526.75,Rail,1
+EVT00959,2023-07-01,Chennai,Cyclone,Medium,12,10,622612.02,Rail,1
+EVT00960,2022-04-14,Nagpur,Heavy Snowfall,High,10,6,3476657.49,Air,1
+EVT00961,2021-01-23,Kanpur,Fuel Shortage,Critical,8,7,728694.16,Road,1
+EVT00962,2023-06-09,Nagpur,Fuel Shortage,Medium,13,24,2764319.13,Rail,1
+EVT00963,2023-08-28,Nagpur,Flood,Critical,21,2,1859819.38,Rail,1
+EVT00964,2021-05-19,Pune,Cyclone,Low,17,13,253642.1,Road,1
+EVT00965,2024-02-25,Indore,Cyclone,Low,16,22,1391685.9,Rail,1
+EVT00966,2023-09-20,Bangalore,Political Unrest,Low,13,18,3730745.1,All,1
+EVT00967,2022-04-28,Bangalore,None,Low,1,0,1689.02,Road+Rail,0
+EVT00968,2022-01-08,Kanpur,Heavy Snowfall,Low,10,18,430532.07,Air,1
+EVT00969,2023-01-13,Hyderabad,Heatwave,Critical,14,1,550441.67,All,1
+EVT00970,2021-11-29,Indore,Fuel Shortage,Medium,9,2,2171265.31,All,1
+EVT00971,2021-01-02,Bhopal,Heatwave,High,11,22,1292523.38,Road+Rail,1
+EVT00972,2022-02-14,Hyderabad,Cyclone,Medium,11,14,4574022.21,Road,1
+EVT00973,2022-10-12,Jaipur,Infrastructure Failure,Medium,13,4,2593881.88,Road,1
+EVT00974,2022-10-12,Bhopal,None,Low,1,0,1339.07,Road,0
+EVT00975,2023-05-28,Jaipur,Heatwave,Low,7,2,3173161.23,Rail,1
+EVT00976,2023-04-19,Delhi,Heavy Snowfall,Critical,8,7,1620327.66,Road+Rail,1
+EVT00977,2022-01-29,Bhopal,None,Low,0,0,2104.57,Air,0
+EVT00978,2022-01-08,Mumbai,Infrastructure Failure,Low,1,9,4842124.7,Road+Rail,1
+EVT00979,2023-05-10,Lucknow,Heatwave,High,11,6,3030394.62,Road+Rail,1
+EVT00980,2023-10-29,Jaipur,Flood,Critical,8,24,253568.08,All,1
+EVT00981,2021-04-06,Surat,Infrastructure Failure,High,6,8,1116784.25,Road+Rail,1
+EVT00982,2022-01-23,Bangalore,Strike,High,9,3,3180349.4,Air,1
+EVT00983,2022-01-05,Kanpur,Road Accident,High,12,4,4261251.64,All,1
+EVT00984,2023-03-14,Hyderabad,Pandemic,Critical,16,14,2176014.19,Air,1
+EVT00985,2023-10-22,Nagpur,Flood,High,6,21,3849587.84,Road,1
+EVT00986,2021-01-22,Surat,Flood,Low,14,4,4314928.58,All,1
+EVT00987,2021-12-19,Nagpur,Cyclone,High,17,13,2157593.19,Rail,1
+EVT00988,2024-01-21,Jaipur,Pandemic,Medium,3,23,3236267.01,All,1
+EVT00989,2021-05-04,Bangalore,Political Unrest,High,6,13,2083760.79,Air,1
+EVT00990,2023-01-22,Mumbai,Pandemic,Medium,14,22,4448454.6,All,1
+EVT00991,2021-09-02,Bhopal,Political Unrest,Low,9,9,265974.8,Road,1
+EVT00992,2021-11-08,Kolkata,Pandemic,Medium,10,2,4821984.61,Air,1
+EVT00993,2023-02-23,Hyderabad,Cyclone,Medium,21,16,2673673.72,Road+Rail,1
+EVT00994,2021-12-20,Pune,Cyclone,Medium,5,5,2629119.66,All,1
+EVT00995,2023-02-11,Mumbai,None,Low,1,0,1225.95,Air,0
+EVT00996,2023-08-25,Surat,Infrastructure Failure,Critical,14,24,3022660.78,All,1
+EVT00997,2022-08-31,Hyderabad,Cyclone,Critical,20,23,3917497.53,Road,1
+EVT00998,2022-04-15,Bangalore,Infrastructure Failure,Critical,11,8,2992322.15,Air,1
+EVT00999,2023-03-03,Ahmedabad,Pandemic,Critical,21,3,1174892.32,Air,1
+EVT01000,2022-01-11,Kolkata,Pandemic,Medium,2,2,3276035.8,Road+Rail,1
+EVT01001,2021-10-11,Ahmedabad,Pandemic,Medium,21,3,2331035.2,Rail,1
+EVT01002,2022-10-29,Pune,None,Low,1,0,8312.16,Road+Rail,0
+EVT01003,2021-05-18,Pune,Road Accident,Critical,8,2,2135766.17,Road+Rail,1
+EVT01004,2022-03-02,Delhi,Cyclone,High,1,20,2404038.87,Road,1
+EVT01005,2021-01-14,Jaipur,Heatwave,Medium,6,2,2209248.61,Rail,1
+EVT01006,2021-08-10,Kolkata,Road Accident,Low,19,17,111610.87,Road+Rail,1
+EVT01007,2021-08-15,Mumbai,Road Accident,High,18,13,1095905.17,Air,1
+EVT01008,2023-03-18,Indore,None,Low,0,0,2302.45,Air,0
+EVT01009,2022-02-16,Jaipur,Heatwave,High,7,5,258592.47,Air,1
+EVT01010,2021-06-07,Pune,Fuel Shortage,High,16,8,737121.94,Road+Rail,1
+EVT01011,2022-08-24,Kolkata,Flood,Low,13,2,2484211.9,All,1
+EVT01012,2021-07-16,Kanpur,Infrastructure Failure,Critical,11,11,4785289.35,Air,1
+EVT01013,2022-09-27,Nagpur,None,Low,0,0,2928.09,Road+Rail,0
+EVT01014,2023-06-04,Lucknow,Cyclone,Low,12,12,3465177.04,Rail,1
+EVT01015,2024-04-03,Bhopal,Heavy Snowfall,Medium,13,20,1016756.32,Road,1
+EVT01016,2022-07-24,Bhopal,Cyclone,High,5,15,4997124.4,Air,1
+EVT01017,2023-07-01,Bhopal,Pandemic,Critical,13,1,411139.93,Rail,1
+EVT01018,2021-02-05,Surat,Heatwave,Low,4,13,2980232.8,Road+Rail,1
+EVT01019,2023-10-05,Delhi,Cyclone,High,5,9,3911233.69,Road+Rail,1
+EVT01020,2024-01-07,Kolkata,Infrastructure Failure,Low,13,22,2835066.21,Rail,1
+EVT01021,2021-02-17,Bhopal,Heavy Snowfall,High,10,17,3337938.75,Road,1
+EVT01022,2021-11-18,Kanpur,Fuel Shortage,High,18,9,966953.96,Rail,1
+EVT01023,2024-01-10,Bhopal,Flood,Low,6,4,4336468.9,Rail,1
+EVT01024,2023-04-09,Kolkata,Flood,High,10,21,945757.5,All,1
+EVT01025,2023-01-05,Indore,None,Low,1,0,5114.88,Road,0
+EVT01026,2021-05-26,Chennai,Cyclone,Critical,9,7,1527067.26,All,1
+EVT01027,2024-01-31,Ahmedabad,Political Unrest,Low,20,21,4473034.9,Air,1
+EVT01028,2023-12-20,Surat,Heatwave,High,7,4,4463366.07,Rail,1
+EVT01029,2024-02-05,Hyderabad,None,Low,1,0,9132.36,Road+Rail,0
+EVT01030,2022-02-12,Pune,Heatwave,Medium,12,21,1546425.8,Road,1
+EVT01031,2021-08-25,Kanpur,None,Low,0,0,2274.45,Road,0
+EVT01032,2023-07-25,Bangalore,None,Low,1,0,290.44,Road,0
+EVT01033,2023-12-16,Ahmedabad,None,Low,1,0,5452.72,Road+Rail,0
+EVT01034,2022-05-19,Ahmedabad,Flood,Low,17,11,183478.83,All,1
+EVT01035,2023-07-23,Kolkata,Cyclone,Low,10,8,3319110.79,Air,1
+EVT01036,2023-07-13,Kanpur,Cyclone,Medium,12,3,4625470.31,Road,1
+EVT01037,2022-12-02,Nagpur,Heavy Snowfall,Medium,9,24,487262.98,Road+Rail,1
+EVT01038,2023-07-02,Chennai,Infrastructure Failure,High,18,11,3160192.15,Rail,1
+EVT01039,2021-02-21,Indore,Infrastructure Failure,Medium,6,13,2208668.62,Air,1
+EVT01040,2023-11-28,Kanpur,Road Accident,Medium,17,25,610648.99,Air,1
+EVT01041,2022-08-07,Kolkata,Infrastructure Failure,Medium,18,12,3038609.58,Air,1
+EVT01042,2023-07-12,Delhi,Infrastructure Failure,Low,11,7,986014.85,Road+Rail,1
+EVT01043,2024-02-24,Surat,Heavy Snowfall,Low,6,24,806283.3,All,1
+EVT01044,2023-01-19,Lucknow,None,Low,0,0,7900.35,Road+Rail,0
+EVT01045,2022-07-11,Mumbai,Heatwave,Low,12,4,2193422.94,Air,1
+EVT01046,2021-07-01,Nagpur,Flood,High,18,13,4708067.19,All,1
+EVT01047,2024-04-02,Hyderabad,Heatwave,Critical,3,14,3439099.62,All,1
+EVT01048,2022-07-18,Ahmedabad,None,Low,0,0,5039.04,Road+Rail,0
+EVT01049,2022-04-03,Jaipur,Flood,Low,5,22,3742466.9,Road,1
+EVT01050,2023-06-06,Surat,Pandemic,Medium,21,4,3053023.89,Rail,1
+EVT01051,2023-02-18,Ahmedabad,Cyclone,Critical,6,1,2426853.51,Road,1
+EVT01052,2022-08-22,Jaipur,Flood,High,1,2,3258091.53,All,1
+EVT01053,2022-12-04,Ahmedabad,Strike,Critical,15,3,1732927.46,Road+Rail,1
+EVT01054,2021-06-09,Chennai,Flood,Critical,21,19,4437088.78,All,1
+EVT01055,2023-11-07,Kolkata,Heavy Snowfall,Medium,21,3,2974408.1,All,1
+EVT01056,2022-02-15,Nagpur,None,Low,0,0,7763.75,Road+Rail,0
+EVT01057,2024-01-31,Nagpur,Road Accident,Medium,14,14,2298027.69,Road,1
+EVT01058,2021-10-12,Nagpur,Flood,Critical,19,16,1839483.34,Road,1
+EVT01059,2022-02-01,Delhi,Road Accident,High,4,3,2772459.3,All,1
+EVT01060,2022-08-28,Nagpur,Cyclone,Critical,20,16,302139.76,Air,1
+EVT01061,2021-02-15,Lucknow,Cyclone,Critical,6,24,4912624.93,Rail,1
+EVT01062,2022-05-20,Chennai,Political Unrest,Low,11,18,1541022.85,Road,1
+EVT01063,2021-02-07,Chennai,Pandemic,Medium,7,23,2135662.87,Road+Rail,1
+EVT01064,2023-12-14,Delhi,Infrastructure Failure,High,14,14,2821510.55,Air,1
+EVT01065,2022-01-14,Pune,Road Accident,Low,9,16,912147.71,Rail,1
+EVT01066,2023-01-11,Kanpur,Political Unrest,Low,4,18,1310589.99,Road+Rail,1
+EVT01067,2021-07-23,Ahmedabad,Road Accident,Low,8,20,3696493.97,Road,1
+EVT01068,2022-11-11,Pune,Cyclone,Medium,14,16,399666.31,Road,1
+EVT01069,2022-04-20,Kolkata,Heavy Snowfall,Low,19,21,1975150.31,All,1
+EVT01070,2022-12-22,Bangalore,Infrastructure Failure,Critical,20,19,1979833.62,Rail,1
+EVT01071,2022-09-09,Hyderabad,Flood,Low,15,14,1242707.6,Air,1
+EVT01072,2023-03-16,Delhi,Strike,Critical,9,16,300993.76,Air,1
+EVT01073,2021-05-29,Indore,Strike,High,12,1,1030201.0,Road,1
+EVT01074,2022-12-28,Lucknow,Infrastructure Failure,Critical,7,10,2029982.47,Rail,1
+EVT01075,2022-10-31,Surat,Flood,Critical,2,21,3690005.91,All,1
+EVT01076,2021-11-20,Hyderabad,Infrastructure Failure,Low,21,2,1802108.85,All,1
+EVT01077,2023-05-13,Delhi,Heatwave,Low,20,23,578834.35,Road+Rail,1
+EVT01078,2023-01-10,Bangalore,Flood,Medium,19,17,3405460.17,Road,1
+EVT01079,2022-12-13,Bangalore,Flood,High,6,17,481740.87,Air,1
+EVT01080,2021-08-27,Mumbai,Road Accident,Medium,21,5,1964142.81,Road+Rail,1
+EVT01081,2022-11-18,Kolkata,Cyclone,Critical,11,8,2146655.21,Road+Rail,1
+EVT01082,2024-03-06,Surat,Political Unrest,Medium,1,12,4988641.93,Air,1
+EVT01083,2021-10-23,Hyderabad,Heavy Snowfall,Medium,8,23,1522512.32,All,1
+EVT01084,2022-05-15,Nagpur,Road Accident,High,3,13,1655727.77,All,1
+EVT01085,2024-02-04,Nagpur,Flood,Critical,5,14,2783185.31,Road,1
+EVT01086,2021-02-28,Kolkata,Pandemic,High,1,4,3252484.14,All,1
+EVT01087,2021-01-13,Nagpur,None,Low,1,0,792.11,Road,0
+EVT01088,2023-01-29,Kanpur,Strike,Low,19,7,4798102.26,Road,1
+EVT01089,2022-08-06,Mumbai,Heavy Snowfall,High,4,12,508829.79,All,1
+EVT01090,2021-09-19,Jaipur,Road Accident,Medium,11,15,2546832.83,Road+Rail,1
+EVT01091,2021-01-18,Lucknow,Road Accident,Low,15,4,3551692.22,All,1
+EVT01092,2023-01-24,Mumbai,Heatwave,High,5,12,2574921.64,Road+Rail,1
+EVT01093,2021-10-29,Hyderabad,Heavy Snowfall,Low,8,13,3744231.03,Road+Rail,1
+EVT01094,2021-06-22,Bhopal,Fuel Shortage,Low,2,22,3101804.87,Road+Rail,1
+EVT01095,2021-11-14,Bhopal,Political Unrest,High,20,11,1894137.71,Rail,1
+EVT01096,2021-07-13,Indore,Road Accident,Medium,4,12,4301868.36,Road+Rail,1
+EVT01097,2022-01-28,Surat,Strike,High,9,9,3345117.91,Air,1
+EVT01098,2023-06-13,Nagpur,Fuel Shortage,High,16,15,4415805.58,Air,1
+EVT01099,2023-06-15,Pune,Road Accident,Low,10,6,915608.07,All,1
+EVT01100,2021-10-25,Delhi,Pandemic,Low,13,16,4018613.97,Road+Rail,1
+EVT01101,2023-07-04,Kanpur,Heavy Snowfall,High,21,4,2615541.73,Road,1
+EVT01102,2021-04-26,Indore,Fuel Shortage,Low,6,18,1001755.19,All,1
+EVT01103,2022-05-23,Kolkata,Road Accident,Critical,10,3,3208542.3,Road,1
+EVT01104,2024-01-22,Hyderabad,Heatwave,Low,15,25,3717648.7,Road+Rail,1
+EVT01105,2021-01-11,Kanpur,Fuel Shortage,Low,16,13,3026037.15,Road+Rail,1
+EVT01106,2021-08-13,Mumbai,Cyclone,Medium,1,12,3654450.07,Road+Rail,1
+EVT01107,2021-10-26,Chennai,None,Low,0,0,1896.75,Air,0
+EVT01108,2021-01-28,Bangalore,Heatwave,Critical,5,22,3386529.3,All,1
+EVT01109,2023-02-06,Ahmedabad,Fuel Shortage,Critical,1,23,3402492.71,Rail,1
+EVT01110,2021-07-05,Kanpur,Cyclone,Medium,2,15,3754942.82,Road,1
+EVT01111,2023-01-08,Lucknow,Strike,High,20,16,1150750.86,Rail,1
+EVT01112,2023-01-24,Kolkata,Strike,Medium,18,25,2195863.94,Rail,1
+EVT01113,2024-03-25,Ahmedabad,Infrastructure Failure,High,10,5,2199394.96,Rail,1
+EVT01114,2023-11-04,Ahmedabad,Heavy Snowfall,Medium,4,15,689082.27,Rail,1
+EVT01115,2022-04-02,Mumbai,Political Unrest,High,7,19,1284099.61,Road,1
+EVT01116,2021-12-16,Hyderabad,Heatwave,Medium,14,11,4962872.21,Road,1
+EVT01117,2024-03-05,Indore,Cyclone,Critical,7,2,4761969.56,Road,1
+EVT01118,2021-07-22,Kolkata,Heatwave,Low,16,22,2470472.78,Rail,1
+EVT01119,2021-01-30,Mumbai,Strike,Medium,6,8,2601770.33,Road,1
+EVT01120,2021-06-18,Mumbai,Strike,Medium,20,10,4280548.19,Road+Rail,1
+EVT01121,2021-11-11,Bhopal,Infrastructure Failure,High,14,10,3521275.09,Road+Rail,1
+EVT01122,2024-03-21,Bangalore,None,Low,1,0,7006.39,Road,0
+EVT01123,2022-05-21,Nagpur,Flood,Critical,5,14,4592404.05,Road,1
+EVT01124,2021-01-14,Jaipur,Road Accident,Medium,9,21,2883324.34,Road,1
+EVT01125,2023-04-08,Bhopal,None,Low,0,0,3882.69,Air,0
+EVT01126,2024-02-08,Delhi,Cyclone,Medium,7,17,205504.86,Road,1
+EVT01127,2021-12-21,Kanpur,Heavy Snowfall,Critical,17,21,4260780.78,Road,1
+EVT01128,2021-05-05,Hyderabad,Road Accident,Medium,16,14,253418.27,Road,1
+EVT01129,2021-10-14,Pune,Road Accident,Low,14,10,3477917.98,Rail,1
+EVT01130,2022-05-28,Jaipur,Heavy Snowfall,Critical,9,11,455887.81,All,1
+EVT01131,2022-01-11,Delhi,Cyclone,Medium,18,6,3921290.05,All,1
+EVT01132,2023-08-13,Kolkata,Cyclone,Medium,1,7,2230036.61,Road+Rail,1
+EVT01133,2023-01-27,Bangalore,Cyclone,Critical,9,13,2355197.05,Air,1
+EVT01134,2021-01-24,Kolkata,Road Accident,Low,12,12,4138211.17,Air,1
+EVT01135,2021-06-15,Delhi,Road Accident,Medium,10,17,4953002.98,Rail,1
+EVT01136,2022-11-14,Lucknow,None,Low,1,0,3936.5,Road,0
+EVT01137,2021-05-02,Pune,None,Low,0,0,9007.64,Road,0
+EVT01138,2022-07-30,Kolkata,Flood,Medium,13,19,2503730.77,Road,1
+EVT01139,2021-10-07,Hyderabad,Cyclone,Critical,19,1,570999.19,Road,1
+EVT01140,2022-01-20,Delhi,Cyclone,Critical,15,12,3569360.79,All,1
+EVT01141,2021-01-19,Chennai,Heatwave,Low,16,1,4873740.55,All,1
+EVT01142,2023-12-11,Ahmedabad,Heatwave,High,3,23,1518810.76,Road,1
+EVT01143,2023-04-04,Kanpur,Heavy Snowfall,High,11,25,3695859.19,Road+Rail,1
+EVT01144,2023-06-27,Bangalore,Heavy Snowfall,High,18,21,652616.38,Road+Rail,1
+EVT01145,2021-03-28,Ahmedabad,None,Low,0,0,9750.5,Rail,0
+EVT01146,2021-06-13,Pune,Heavy Snowfall,Critical,7,14,2962901.11,Rail,1
+EVT01147,2023-07-22,Bhopal,Infrastructure Failure,High,9,7,3296854.21,Road,1
+EVT01148,2022-08-24,Surat,Flood,Critical,10,15,2818389.87,Road,1
+EVT01149,2021-01-23,Ahmedabad,Road Accident,Low,9,22,3082461.46,All,1
+EVT01150,2023-02-22,Bhopal,None,Low,1,0,1018.42,Road+Rail,0
+EVT01151,2023-09-03,Bangalore,None,Low,1,0,6131.5,Road,0
+EVT01152,2021-09-09,Pune,Cyclone,Low,14,15,4203352.24,Air,1
+EVT01153,2024-02-29,Delhi,Infrastructure Failure,Low,1,23,4127127.44,Road,1
+EVT01154,2021-05-15,Kanpur,Road Accident,Medium,21,5,2226953.1,Air,1
+EVT01155,2023-04-16,Mumbai,Road Accident,Medium,18,12,4080212.52,Road+Rail,1
+EVT01156,2021-09-21,Mumbai,None,Low,1,0,2188.39,All,0
+EVT01157,2024-04-06,Hyderabad,None,Low,0,0,568.86,Air,0
+EVT01158,2021-05-21,Delhi,Cyclone,Critical,11,23,2654903.44,Road+Rail,1
+EVT01159,2021-09-01,Mumbai,Road Accident,High,2,5,592986.28,Rail,1
+EVT01160,2021-10-05,Delhi,Pandemic,Medium,5,2,162130.63,Air,1
+EVT01161,2023-02-25,Kanpur,Heatwave,Low,5,8,3110912.02,Road,1
+EVT01162,2021-05-27,Pune,Heavy Snowfall,Critical,4,16,4905284.07,Road,1
+EVT01163,2023-05-01,Pune,Road Accident,Critical,18,3,694720.86,Air,1
+EVT01164,2022-12-28,Pune,None,Low,1,0,7351.99,Road+Rail,0
+EVT01165,2022-11-03,Chennai,Flood,Critical,4,12,4730097.87,All,1
+EVT01166,2023-05-05,Jaipur,Strike,Critical,3,8,3698882.75,Air,1
+EVT01167,2023-07-09,Ahmedabad,Strike,Critical,21,7,511683.59,Road+Rail,1
+EVT01168,2024-03-24,Indore,Fuel Shortage,Critical,15,9,4175717.49,All,1
+EVT01169,2023-01-02,Ahmedabad,Infrastructure Failure,Medium,15,22,2801062.45,Rail,1
+EVT01170,2023-04-11,Kanpur,Heavy Snowfall,Low,4,20,2419103.52,Road+Rail,1
+EVT01171,2022-02-04,Delhi,Infrastructure Failure,Low,16,21,3005478.33,Rail,1
+EVT01172,2024-01-13,Jaipur,Fuel Shortage,Medium,9,6,138167.54,Air,1
+EVT01173,2023-10-31,Chennai,Heatwave,Critical,7,17,2680062.24,Road+Rail,1
+EVT01174,2021-12-03,Kolkata,Pandemic,Medium,4,25,121173.84,All,1
+EVT01175,2023-07-23,Ahmedabad,Cyclone,Critical,10,21,906598.98,Air,1
+EVT01176,2022-09-26,Nagpur,Cyclone,High,14,17,4949870.25,Road,1
+EVT01177,2023-09-14,Lucknow,Fuel Shortage,High,2,15,2000032.96,All,1
+EVT01178,2022-03-26,Indore,Flood,High,15,25,3004471.11,Road+Rail,1
+EVT01179,2022-09-26,Jaipur,Cyclone,Critical,7,23,1078223.18,Road+Rail,1
+EVT01180,2021-11-26,Bangalore,Road Accident,Critical,9,18,1392624.01,Road+Rail,1
+EVT01181,2021-12-03,Indore,Road Accident,Medium,4,21,4622243.61,Rail,1
+EVT01182,2021-01-16,Bhopal,Political Unrest,Low,1,3,3210042.23,Rail,1
+EVT01183,2022-06-13,Pune,Fuel Shortage,Medium,11,10,3976957.64,All,1
+EVT01184,2023-01-05,Pune,Cyclone,High,2,12,1212894.09,Rail,1
+EVT01185,2023-06-19,Kolkata,Flood,Medium,1,21,1039200.61,Road,1
+EVT01186,2022-04-06,Indore,Heatwave,Medium,13,18,1148714.42,Rail,1
+EVT01187,2023-10-27,Bhopal,Political Unrest,Medium,10,5,2745252.55,Road,1
+EVT01188,2021-01-04,Lucknow,Fuel Shortage,High,9,8,4714888.12,Air,1
+EVT01189,2021-10-16,Chennai,Heatwave,Medium,17,17,2904169.22,Road,1
+EVT01190,2021-02-05,Hyderabad,Fuel Shortage,Low,2,20,207731.26,Road,1
+EVT01191,2023-09-27,Hyderabad,Heatwave,Critical,20,2,1518776.24,Air,1
+EVT01192,2021-03-18,Delhi,Cyclone,Critical,3,4,3867911.27,Road+Rail,1
+EVT01193,2021-01-14,Ahmedabad,Fuel Shortage,Medium,5,17,4252570.22,Air,1
+EVT01194,2022-11-15,Indore,Political Unrest,Critical,14,9,3297439.76,Road+Rail,1
+EVT01195,2023-02-17,Hyderabad,Pandemic,Low,21,7,4387376.43,Air,1
+EVT01196,2022-06-02,Mumbai,Pandemic,High,10,16,1527192.16,Air,1
+EVT01197,2021-04-17,Pune,Pandemic,Critical,9,4,1523484.21,Road,1
+EVT01198,2023-02-12,Lucknow,Strike,Medium,2,21,4950163.98,Air,1
+EVT01199,2021-05-21,Chennai,Road Accident,Medium,2,8,4436934.49,All,1
+EVT01200,2023-10-09,Pune,None,Low,1,0,2075.53,All,0
+EVT01201,2022-09-12,Lucknow,Road Accident,Low,17,13,1571206.0,Road,1
+EVT01202,2021-10-19,Kolkata,Road Accident,Low,17,24,719944.62,Air,1
+EVT01203,2021-07-18,Kanpur,Political Unrest,Low,14,25,4727008.66,Air,1
+EVT01204,2022-04-26,Mumbai,Political Unrest,Medium,20,13,4261644.7,Road+Rail,1
+EVT01205,2023-10-14,Kolkata,None,Low,0,0,4229.68,All,0
+EVT01206,2022-12-11,Bangalore,Flood,Medium,16,25,4382695.38,Air,1
+EVT01207,2022-08-08,Delhi,Cyclone,Critical,12,8,1331578.91,All,1
+EVT01208,2023-07-19,Jaipur,Road Accident,Low,4,25,3590970.04,All,1
+EVT01209,2023-10-09,Indore,Flood,High,6,12,2581976.24,Rail,1
+EVT01210,2021-07-09,Hyderabad,Strike,Critical,2,3,2304053.09,Air,1
+EVT01211,2024-02-05,Kanpur,Strike,Medium,20,6,2614615.65,All,1
+EVT01212,2023-11-19,Surat,Strike,Low,17,10,2002585.12,Air,1
+EVT01213,2021-07-23,Bhopal,Heavy Snowfall,Medium,17,19,1676343.43,All,1
+EVT01214,2021-05-25,Delhi,Fuel Shortage,High,19,19,1916954.33,Road+Rail,1
+EVT01215,2022-07-09,Hyderabad,None,Low,0,0,2406.63,Road+Rail,0
+EVT01216,2021-07-15,Lucknow,Heavy Snowfall,Critical,9,8,3987603.42,Rail,1
+EVT01217,2022-01-25,Kolkata,Political Unrest,High,3,21,664746.81,All,1
+EVT01218,2021-12-31,Kanpur,None,Low,1,0,8299.24,Road,0
+EVT01219,2022-07-27,Pune,Fuel Shortage,High,1,6,3973318.25,All,1
+EVT01220,2022-06-21,Jaipur,None,Low,0,0,591.8,Rail,0
+EVT01221,2021-10-19,Kanpur,Flood,High,17,17,2217553.44,Road+Rail,1
+EVT01222,2022-09-24,Kolkata,None,Low,1,0,1899.19,Air,0
+EVT01223,2024-02-17,Indore,Heatwave,Medium,4,4,1231266.56,All,1
+EVT01224,2022-07-08,Bhopal,Strike,Low,16,15,629321.4,All,1
+EVT01225,2021-04-14,Jaipur,Infrastructure Failure,Critical,12,12,2904834.09,Air,1
+EVT01226,2021-05-25,Nagpur,Pandemic,Medium,6,10,4879063.25,Rail,1
+EVT01227,2022-11-14,Bhopal,Strike,Medium,17,14,3997155.07,Road,1
+EVT01228,2023-06-19,Surat,Heavy Snowfall,High,14,15,1666881.96,Rail,1
+EVT01229,2022-06-13,Pune,Road Accident,Medium,2,21,3242077.64,Road+Rail,1
+EVT01230,2021-07-28,Bhopal,Infrastructure Failure,High,8,12,1353856.15,Rail,1
+EVT01231,2021-02-25,Jaipur,Heavy Snowfall,High,15,21,3660695.88,Road,1
+EVT01232,2024-01-11,Bangalore,Heavy Snowfall,Low,5,9,1469342.66,Road+Rail,1
+EVT01233,2023-12-06,Bhopal,Fuel Shortage,High,7,22,317604.51,Air,1
+EVT01234,2021-02-03,Surat,Pandemic,Medium,11,7,1001066.97,Rail,1
+EVT01235,2022-06-08,Bangalore,Political Unrest,Medium,19,11,3416999.56,Road+Rail,1
+EVT01236,2023-07-31,Pune,Fuel Shortage,Low,5,13,2815377.36,Road,1
+EVT01237,2021-04-24,Bangalore,Cyclone,Medium,6,6,4308084.64,Air,1
+EVT01238,2023-03-02,Indore,Road Accident,High,13,16,3583346.09,Road+Rail,1
+EVT01239,2022-10-23,Pune,Strike,Critical,14,8,1175445.51,Road,1
+EVT01240,2023-10-12,Chennai,None,Low,0,0,8168.58,Road+Rail,0
+EVT01241,2021-12-02,Kanpur,Political Unrest,High,6,24,380623.42,All,1
+EVT01242,2023-02-23,Surat,Strike,Critical,14,1,248937.49,Air,1
+EVT01243,2021-04-27,Kanpur,Fuel Shortage,Medium,19,22,998299.8,Road+Rail,1
+EVT01244,2023-04-14,Pune,Heatwave,Medium,13,17,4472083.63,All,1
+EVT01245,2022-11-23,Jaipur,Heavy Snowfall,Medium,21,4,4910191.62,Road,1
+EVT01246,2022-03-01,Surat,Heavy Snowfall,High,18,7,1395621.21,Road+Rail,1
+EVT01247,2023-10-14,Lucknow,None,Low,1,0,9577.04,Air,0
+EVT01248,2021-09-01,Bangalore,Pandemic,Low,9,12,2507993.17,All,1
+EVT01249,2021-10-11,Delhi,Infrastructure Failure,Medium,4,23,1275377.01,Air,1
+EVT01250,2023-10-29,Ahmedabad,Fuel Shortage,Low,9,2,1069403.53,All,1
+EVT01251,2021-02-08,Indore,Political Unrest,Critical,17,19,4304143.27,All,1
+EVT01252,2021-05-08,Nagpur,Flood,Critical,11,25,2185201.29,Rail,1
+EVT01253,2022-02-06,Surat,Political Unrest,High,19,9,2530801.86,Road,1
+EVT01254,2023-09-16,Nagpur,Strike,Critical,11,10,3520220.47,Road+Rail,1
+EVT01255,2023-05-24,Kolkata,Infrastructure Failure,High,1,1,797278.55,Air,1
+EVT01256,2022-01-14,Hyderabad,Infrastructure Failure,Critical,9,21,826193.47,Rail,1
+EVT01257,2022-08-28,Hyderabad,None,Low,1,0,1170.05,Air,0
+EVT01258,2023-07-29,Delhi,Heatwave,High,10,4,83361.43,Rail,1
+EVT01259,2023-10-23,Mumbai,Fuel Shortage,Low,10,4,1236015.38,All,1
+EVT01260,2021-12-22,Hyderabad,Political Unrest,Medium,18,13,2616818.23,Road+Rail,1
+EVT01261,2023-09-10,Chennai,Road Accident,High,7,1,1203457.06,Road+Rail,1
+EVT01262,2024-03-05,Kanpur,Heavy Snowfall,High,21,8,833566.66,Road,1
+EVT01263,2021-02-10,Chennai,Strike,High,3,8,670713.31,Rail,1
+EVT01264,2023-09-01,Kanpur,Flood,Critical,20,2,4048194.41,Rail,1
+EVT01265,2021-05-06,Chennai,Road Accident,High,21,15,869710.01,All,1
+EVT01266,2022-03-13,Pune,Strike,Critical,8,5,3643727.37,Air,1
+EVT01267,2021-06-24,Mumbai,Fuel Shortage,Low,9,25,4693441.87,All,1
+EVT01268,2022-09-26,Hyderabad,Strike,Medium,8,18,1822471.12,Rail,1
+EVT01269,2023-10-24,Kanpur,Flood,Medium,3,9,692439.07,Rail,1
+EVT01270,2023-12-20,Nagpur,Pandemic,Low,3,20,2258120.02,Rail,1
+EVT01271,2021-08-13,Mumbai,Political Unrest,Medium,15,20,2704773.36,Road,1
+EVT01272,2021-10-28,Kolkata,Infrastructure Failure,Medium,16,19,884947.35,Road+Rail,1
+EVT01273,2022-09-08,Surat,Heavy Snowfall,Medium,12,23,1763465.94,Road+Rail,1
+EVT01274,2021-10-29,Bangalore,Infrastructure Failure,Medium,2,16,1374184.94,Road+Rail,1
+EVT01275,2022-03-01,Mumbai,Cyclone,Low,3,1,885777.17,Air,1
+EVT01276,2021-09-10,Bangalore,Political Unrest,High,5,16,2351182.35,All,1
+EVT01277,2024-02-26,Ahmedabad,Heavy Snowfall,Low,1,15,632628.63,Rail,1
+EVT01278,2024-03-15,Jaipur,Pandemic,Critical,9,4,1680114.37,Road+Rail,1
+EVT01279,2023-09-22,Jaipur,Fuel Shortage,High,1,22,1879560.33,Road,1
+EVT01280,2023-12-08,Bhopal,Flood,Critical,2,21,474914.58,Road,1
+EVT01281,2023-02-01,Surat,Flood,Low,14,15,852088.82,Rail,1
+EVT01282,2024-03-21,Bangalore,Pandemic,Low,6,23,2432990.91,All,1
+EVT01283,2021-11-07,Chennai,Road Accident,Medium,10,8,4674117.28,Rail,1
+EVT01284,2021-10-20,Mumbai,Cyclone,Critical,21,3,327418.99,Rail,1
+EVT01285,2023-03-02,Nagpur,Fuel Shortage,Medium,4,9,1213419.91,Rail,1
+EVT01286,2022-01-31,Bangalore,Pandemic,Medium,14,5,3611514.03,Rail,1
+EVT01287,2022-02-06,Jaipur,Infrastructure Failure,Medium,16,13,327982.24,Road+Rail,1
+EVT01288,2021-10-21,Bangalore,Infrastructure Failure,Medium,19,6,2435524.03,Air,1
+EVT01289,2021-10-06,Ahmedabad,Road Accident,Medium,10,6,3656946.91,All,1
+EVT01290,2021-03-22,Hyderabad,Pandemic,Medium,6,11,2229852.95,All,1
+EVT01291,2023-11-08,Ahmedabad,Fuel Shortage,Low,10,13,1205916.51,Air,1
+EVT01292,2022-05-27,Lucknow,None,Low,0,0,2623.35,All,0
+EVT01293,2023-08-20,Kolkata,Flood,Medium,17,24,2719901.28,Road,1
+EVT01294,2022-07-04,Pune,Political Unrest,High,14,23,1739762.65,Air,1
+EVT01295,2024-01-14,Kolkata,None,Low,1,0,7423.06,Road+Rail,0
+EVT01296,2024-04-13,Bhopal,Road Accident,Low,18,10,3133957.25,Air,1
+EVT01297,2023-04-05,Kanpur,Strike,Medium,4,16,4539464.63,Air,1
+EVT01298,2023-09-09,Delhi,Infrastructure Failure,Medium,14,4,2158133.35,Road+Rail,1
+EVT01299,2021-05-08,Surat,Strike,Medium,14,12,1211642.04,Rail,1
+EVT01300,2021-03-03,Bangalore,Flood,Critical,12,6,3447699.05,All,1
+EVT01301,2023-07-02,Chennai,Fuel Shortage,Low,15,8,4779232.21,Air,1
+EVT01302,2022-07-10,Chennai,Fuel Shortage,Critical,3,21,3810954.16,Road+Rail,1
+EVT01303,2024-02-11,Delhi,Road Accident,Medium,8,4,2762983.09,Road+Rail,1
+EVT01304,2023-06-07,Nagpur,Cyclone,Low,17,18,1355937.64,Rail,1
+EVT01305,2022-08-09,Kolkata,Strike,High,12,16,4109409.41,Road,1
+EVT01306,2024-02-26,Indore,Strike,Critical,16,23,1614560.93,Rail,1
+EVT01307,2022-08-20,Kolkata,Cyclone,Critical,10,25,4431941.65,All,1
+EVT01308,2024-03-30,Nagpur,Political Unrest,High,12,1,3881970.92,All,1
+EVT01309,2023-01-28,Surat,Road Accident,Critical,14,8,555649.79,All,1
+EVT01310,2021-01-05,Kanpur,Flood,High,14,15,1228088.12,Air,1
+EVT01311,2022-05-02,Indore,Fuel Shortage,Medium,18,5,3641437.02,Air,1
+EVT01312,2024-03-11,Ahmedabad,Infrastructure Failure,High,10,12,1790766.29,Air,1
+EVT01313,2021-02-06,Indore,Political Unrest,Low,11,16,2761630.08,All,1
+EVT01314,2021-02-27,Jaipur,Political Unrest,Low,13,13,246250.75,Road+Rail,1
+EVT01315,2022-01-02,Kanpur,Political Unrest,High,20,8,4852420.92,All,1
+EVT01316,2021-09-21,Delhi,Cyclone,Medium,1,20,1680912.24,Road,1
+EVT01317,2022-09-06,Jaipur,Heatwave,High,2,17,3927906.08,All,1
+EVT01318,2022-08-26,Lucknow,Flood,High,7,9,4990220.17,Road+Rail,1
+EVT01319,2022-07-02,Lucknow,Pandemic,Critical,19,5,2447930.84,Road+Rail,1
+EVT01320,2023-11-11,Chennai,Heatwave,High,11,17,4605234.46,Rail,1
+EVT01321,2021-05-28,Bangalore,None,Low,0,0,5775.69,Road+Rail,0
+EVT01322,2021-08-14,Ahmedabad,Political Unrest,Medium,15,8,220673.26,All,1
+EVT01323,2022-02-10,Hyderabad,Infrastructure Failure,High,21,18,2966617.72,Rail,1
+EVT01324,2022-10-19,Kolkata,Cyclone,Critical,5,14,787399.9,Road+Rail,1
+EVT01325,2023-08-14,Mumbai,Heavy Snowfall,Critical,7,16,3679438.31,All,1
+EVT01326,2022-03-20,Kanpur,Road Accident,High,12,2,1352395.98,Air,1
+EVT01327,2021-08-13,Bangalore,Fuel Shortage,High,17,24,3747566.55,Road+Rail,1
+EVT01328,2021-11-24,Lucknow,Cyclone,Low,7,16,3120149.49,Road+Rail,1
+EVT01329,2022-09-22,Bangalore,Cyclone,Low,21,15,1375195.09,Road,1
+EVT01330,2023-10-17,Mumbai,None,Low,0,0,9280.96,Air,0
+EVT01331,2022-10-24,Indore,Road Accident,Critical,7,21,1778953.71,All,1
+EVT01332,2021-01-31,Kolkata,Strike,Medium,10,8,3566500.72,Road+Rail,1
+EVT01333,2022-09-03,Bangalore,Heatwave,High,19,12,1465454.23,Road,1
+EVT01334,2021-01-10,Mumbai,Political Unrest,Low,15,23,2287862.18,Road+Rail,1
+EVT01335,2023-07-29,Chennai,Heavy Snowfall,Low,1,19,1206363.15,All,1
+EVT01336,2022-06-27,Bhopal,None,Low,0,0,7779.19,Air,0
+EVT01337,2021-09-19,Lucknow,Infrastructure Failure,Medium,13,2,1497945.33,All,1
+EVT01338,2022-05-28,Mumbai,Strike,Critical,16,1,814724.49,Rail,1
+EVT01339,2021-02-06,Kanpur,Heavy Snowfall,High,14,18,1838422.82,Road+Rail,1
+EVT01340,2023-12-13,Nagpur,Pandemic,High,21,15,4099956.59,Road+Rail,1
+EVT01341,2023-10-22,Bhopal,Heavy Snowfall,Low,19,24,1243733.54,Rail,1
+EVT01342,2024-02-02,Kolkata,Heatwave,Medium,15,3,1132270.21,Road,1
+EVT01343,2021-11-18,Jaipur,Infrastructure Failure,Medium,21,18,2888794.68,All,1
+EVT01344,2022-04-26,Mumbai,Fuel Shortage,High,4,20,2063609.17,Rail,1
+EVT01345,2023-07-25,Kanpur,Heatwave,Critical,1,8,2550422.84,Rail,1
+EVT01346,2024-03-27,Pune,Heavy Snowfall,Critical,11,19,2799760.38,Rail,1
+EVT01347,2021-09-10,Ahmedabad,Infrastructure Failure,High,8,16,1948623.34,Road,1
+EVT01348,2022-06-11,Surat,Strike,Critical,6,5,774047.48,All,1
+EVT01349,2022-05-11,Bangalore,Flood,Critical,15,5,3869843.78,All,1
+EVT01350,2023-10-26,Kolkata,Heavy Snowfall,Critical,21,8,2795365.08,All,1
+EVT01351,2021-08-06,Lucknow,Political Unrest,Critical,6,10,1231995.36,Road,1
+EVT01352,2021-11-20,Pune,Strike,High,14,21,3928962.02,Road+Rail,1
+EVT01353,2021-07-27,Kolkata,Infrastructure Failure,High,5,18,3041085.25,Road+Rail,1
+EVT01354,2021-09-16,Jaipur,Political Unrest,Medium,20,6,3380267.75,All,1
+EVT01355,2022-06-10,Chennai,Cyclone,Medium,15,3,3822077.92,Air,1
+EVT01356,2021-09-21,Bhopal,Cyclone,High,16,10,2618536.71,All,1
+EVT01357,2021-08-20,Mumbai,Fuel Shortage,Medium,2,10,1871470.87,Road,1
+EVT01358,2022-11-19,Chennai,Fuel Shortage,Critical,20,9,3096359.61,Road,1
+EVT01359,2022-06-19,Kanpur,Strike,Critical,19,13,335845.96,Rail,1
+EVT01360,2023-10-25,Bangalore,Flood,Low,1,12,1561484.57,Rail,1
+EVT01361,2023-02-06,Pune,Road Accident,High,9,2,1982275.27,Road+Rail,1
+EVT01362,2023-09-30,Chennai,Infrastructure Failure,Critical,17,8,2760437.28,Rail,1
+EVT01363,2022-08-29,Jaipur,Heavy Snowfall,Low,19,20,2193152.71,Road+Rail,1
+EVT01364,2022-05-08,Lucknow,Flood,High,13,12,4226457.08,Air,1
+EVT01365,2021-04-17,Kolkata,None,Low,1,0,9750.39,Road+Rail,0
+EVT01366,2022-09-13,Jaipur,Pandemic,Low,8,20,4987312.27,Road,1
+EVT01367,2021-01-16,Bangalore,Pandemic,Critical,6,13,4919924.39,All,1
+EVT01368,2021-08-04,Mumbai,Strike,High,1,21,2110701.11,All,1
+EVT01369,2022-03-16,Jaipur,Heavy Snowfall,Critical,16,7,1953926.97,Road,1
+EVT01370,2023-06-13,Surat,Strike,Critical,9,12,3251760.67,Rail,1
+EVT01371,2023-09-30,Ahmedabad,Heatwave,Low,9,4,459512.68,Road,1
+EVT01372,2023-03-28,Bhopal,Strike,Medium,21,5,3448639.4,Road,1
+EVT01373,2023-04-08,Hyderabad,Flood,Critical,20,9,3020311.06,Road,1
+EVT01374,2021-12-29,Kanpur,Strike,High,17,18,4553748.35,Air,1
+EVT01375,2021-06-29,Hyderabad,Political Unrest,Critical,19,13,4412191.24,Road,1
+EVT01376,2022-12-08,Nagpur,Heatwave,Low,16,15,1245934.14,Road,1
+EVT01377,2021-09-03,Jaipur,Fuel Shortage,Medium,21,6,1297700.15,Road,1
+EVT01378,2022-10-15,Chennai,Strike,High,8,1,853438.21,Road+Rail,1
+EVT01379,2021-08-20,Bangalore,Infrastructure Failure,Low,15,8,4597672.44,Road+Rail,1
+EVT01380,2021-08-02,Surat,Political Unrest,High,6,10,4387083.04,Road,1
+EVT01381,2021-11-17,Lucknow,Flood,Medium,3,24,3510553.83,Rail,1
+EVT01382,2023-10-24,Kanpur,Cyclone,High,17,22,2132102.91,Air,1
+EVT01383,2022-10-13,Indore,Pandemic,Critical,11,21,1336722.84,Road+Rail,1
+EVT01384,2022-01-03,Kanpur,Infrastructure Failure,High,10,22,367152.62,Rail,1
+EVT01385,2022-10-25,Delhi,Road Accident,Low,4,23,4005661.11,Road+Rail,1
+EVT01386,2024-04-08,Kanpur,Pandemic,Medium,13,9,2033151.66,Road,1
+EVT01387,2023-12-12,Mumbai,Flood,High,7,25,2583741.16,Air,1
+EVT01388,2022-01-11,Indore,Heatwave,High,3,24,2777128.94,Road+Rail,1
+EVT01389,2021-02-26,Kolkata,Heavy Snowfall,Low,2,12,3131948.94,All,1
+EVT01390,2022-07-21,Nagpur,Fuel Shortage,Low,8,25,2090168.65,All,1
+EVT01391,2022-12-09,Nagpur,Heatwave,High,14,14,1750318.15,Road+Rail,1
+EVT01392,2023-03-22,Kolkata,Cyclone,Low,18,11,96599.32,Air,1
+EVT01393,2022-03-16,Kolkata,Pandemic,Low,13,20,2270792.67,All,1
+EVT01394,2023-08-04,Delhi,Heavy Snowfall,High,13,13,1348871.23,Road,1
+EVT01395,2023-03-20,Bhopal,Road Accident,High,3,18,205836.7,Rail,1
+EVT01396,2023-10-30,Delhi,Flood,Critical,10,14,1770938.8,All,1
+EVT01397,2023-04-01,Chennai,Heatwave,Critical,10,19,4542832.31,Road+Rail,1
+EVT01398,2022-02-13,Mumbai,None,Low,0,0,1848.12,Road,0
+EVT01399,2024-03-07,Surat,Heavy Snowfall,Critical,13,19,849171.39,Road+Rail,1
+EVT01400,2022-12-03,Kolkata,Heavy Snowfall,Critical,1,19,2077614.3,Road+Rail,1
+EVT01401,2021-10-11,Nagpur,Strike,Critical,14,17,1770912.55,All,1
+EVT01402,2023-03-29,Mumbai,None,Low,0,0,7209.83,Rail,0
+EVT01403,2022-12-21,Surat,Strike,Low,7,17,1178297.68,All,1
+EVT01404,2023-10-20,Chennai,Pandemic,Critical,2,9,4954146.39,Road,1
+EVT01405,2023-02-18,Bangalore,Fuel Shortage,Low,13,12,3402902.12,Road+Rail,1
+EVT01406,2022-01-27,Kolkata,Heatwave,High,14,20,439967.35,Road,1
+EVT01407,2023-06-02,Surat,Road Accident,Medium,13,13,118365.0,Air,1
+EVT01408,2021-08-19,Pune,Strike,Low,8,3,517987.61,Rail,1
+EVT01409,2023-08-14,Nagpur,Heavy Snowfall,Medium,14,21,658279.29,Rail,1
+EVT01410,2023-05-23,Mumbai,Political Unrest,High,2,18,2224735.99,Rail,1
+EVT01411,2021-02-21,Pune,None,Low,0,0,9603.29,Road,0
+EVT01412,2022-11-04,Mumbai,None,Low,1,0,6371.62,Road+Rail,0
+EVT01413,2021-12-15,Bangalore,Heatwave,Medium,1,3,3421463.58,Rail,1
+EVT01414,2021-06-02,Kolkata,Strike,Critical,4,15,3888853.72,Road,1
+EVT01415,2023-12-06,Lucknow,Cyclone,Critical,4,11,3606491.47,Rail,1
+EVT01416,2022-09-09,Ahmedabad,Fuel Shortage,Low,7,21,1575312.52,Road,1
+EVT01417,2023-12-27,Lucknow,Cyclone,Critical,12,21,3295664.08,Road,1
+EVT01418,2022-03-08,Lucknow,Political Unrest,High,12,25,750440.0,Air,1
+EVT01419,2023-10-17,Bhopal,Heatwave,High,1,2,4419042.27,Road+Rail,1
+EVT01420,2022-07-24,Lucknow,Political Unrest,Low,10,6,828124.0,Rail,1
+EVT01421,2022-07-27,Delhi,Pandemic,Low,11,9,2338374.42,Road,1
+EVT01422,2023-07-03,Indore,Infrastructure Failure,Medium,6,21,4612263.54,Air,1
+EVT01423,2022-08-10,Mumbai,Political Unrest,Critical,9,17,3912415.92,Rail,1
+EVT01424,2023-04-15,Lucknow,Strike,Low,11,14,767788.41,All,1
+EVT01425,2024-02-25,Bangalore,Strike,Critical,3,14,4902121.7,All,1
+EVT01426,2022-11-28,Chennai,Heatwave,High,3,12,1525560.62,All,1
+EVT01427,2024-04-10,Surat,Road Accident,Critical,20,8,3974998.68,Road,1
+EVT01428,2023-06-16,Ahmedabad,Pandemic,Low,17,1,478650.12,Road+Rail,1
+EVT01429,2021-09-10,Delhi,Road Accident,Medium,14,9,2553493.93,Rail,1
+EVT01430,2022-03-17,Bhopal,Strike,Critical,14,2,4326647.56,Road,1
+EVT01431,2022-12-08,Jaipur,None,Low,1,0,7532.64,Air,0
+EVT01432,2024-04-13,Lucknow,None,Low,1,0,8649.46,Rail,0
+EVT01433,2021-07-21,Mumbai,Strike,Medium,19,13,75940.93,Road+Rail,1
+EVT01434,2023-10-26,Mumbai,Political Unrest,Critical,10,24,654620.16,All,1
+EVT01435,2022-05-05,Bhopal,Fuel Shortage,Critical,15,8,4985606.02,Road,1
+EVT01436,2023-12-24,Lucknow,Pandemic,Critical,18,3,4189655.69,Road,1
+EVT01437,2022-03-19,Indore,Road Accident,Critical,18,22,4214109.88,Air,1
+EVT01438,2024-02-04,Chennai,None,Low,0,0,326.18,Road+Rail,0
+EVT01439,2021-11-23,Delhi,Heatwave,Medium,13,1,778996.18,All,1
+EVT01440,2021-12-13,Pune,None,Low,0,0,1482.3,Road+Rail,0
+EVT01441,2021-11-29,Bhopal,Political Unrest,Critical,5,11,1563347.85,All,1
+EVT01442,2021-04-24,Lucknow,Heatwave,High,7,2,105199.41,Rail,1
+EVT01443,2022-03-03,Surat,Strike,High,10,19,633002.75,Rail,1
+EVT01444,2023-11-17,Mumbai,Heavy Snowfall,Medium,15,25,2861564.67,Road,1
+EVT01445,2022-01-26,Bangalore,Heavy Snowfall,Low,12,16,4407882.6,Air,1
+EVT01446,2021-08-19,Kanpur,Political Unrest,Low,9,25,1307653.0,Air,1
+EVT01447,2022-02-27,Pune,Pandemic,Low,2,16,4473593.79,Road+Rail,1
+EVT01448,2022-05-06,Mumbai,Cyclone,Critical,13,12,1858581.86,Road+Rail,1
+EVT01449,2022-01-08,Chennai,Strike,Critical,4,3,981662.69,Road+Rail,1
+EVT01450,2022-09-12,Kolkata,Flood,Medium,9,21,2833455.0,Rail,1
+EVT01451,2022-12-12,Mumbai,Pandemic,Low,2,3,3943331.57,Road,1
+EVT01452,2023-05-31,Indore,Infrastructure Failure,Low,15,9,4495092.74,Road,1
+EVT01453,2024-02-23,Indore,Pandemic,Critical,3,23,4774413.84,Air,1
+EVT01454,2024-02-05,Kanpur,Pandemic,Medium,3,14,1453874.14,Road,1
+EVT01455,2021-08-30,Bangalore,Flood,Critical,12,12,2462389.33,Rail,1
+EVT01456,2021-06-03,Surat,Political Unrest,Medium,1,3,3318733.91,Road+Rail,1
+EVT01457,2021-05-11,Mumbai,Strike,Critical,11,17,2542252.13,Air,1
+EVT01458,2021-10-13,Ahmedabad,Pandemic,Medium,18,17,960696.4,All,1
+EVT01459,2023-09-28,Jaipur,Heavy Snowfall,High,11,5,522468.3,Rail,1
+EVT01460,2022-06-30,Lucknow,Political Unrest,High,17,16,3456152.12,Road,1
+EVT01461,2022-03-14,Pune,Political Unrest,Critical,10,9,3217958.98,All,1
+EVT01462,2022-08-03,Lucknow,Heatwave,Low,20,25,1033419.14,Road+Rail,1
+EVT01463,2022-05-15,Bhopal,Heatwave,Critical,6,15,357024.77,Road,1
+EVT01464,2022-07-01,Ahmedabad,Road Accident,Critical,15,24,3819350.51,Road,1
+EVT01465,2022-01-19,Bhopal,Pandemic,Low,13,4,628800.01,Road+Rail,1
+EVT01466,2023-10-26,Surat,Fuel Shortage,Low,7,19,2999783.69,Road,1
+EVT01467,2021-08-24,Ahmedabad,None,Low,1,0,3247.55,Road+Rail,0
+EVT01468,2022-11-09,Chennai,Pandemic,Low,1,3,2279777.7,Rail,1
+EVT01469,2021-04-05,Bhopal,Fuel Shortage,Low,8,6,1268594.04,Air,1
+EVT01470,2021-08-22,Hyderabad,Road Accident,High,19,4,2153312.81,Rail,1
+EVT01471,2022-05-07,Jaipur,Political Unrest,High,7,4,1983847.4,All,1
+EVT01472,2021-04-28,Jaipur,Infrastructure Failure,Critical,15,16,4118612.78,Air,1
+EVT01473,2024-03-08,Ahmedabad,Heatwave,Low,19,9,3602454.51,Road+Rail,1
+EVT01474,2021-07-06,Hyderabad,Road Accident,Low,19,16,1253352.09,Road,1
+EVT01475,2021-03-20,Delhi,Infrastructure Failure,Low,4,11,2066718.41,Rail,1
+EVT01476,2023-09-02,Bhopal,Pandemic,High,10,6,2124806.96,All,1
+EVT01477,2022-09-09,Pune,Flood,Low,13,24,3319797.33,Rail,1
+EVT01478,2023-10-28,Lucknow,Cyclone,Critical,16,12,2251947.59,Road+Rail,1
+EVT01479,2022-01-16,Jaipur,Infrastructure Failure,High,9,22,128521.95,Road,1
+EVT01480,2022-09-03,Kanpur,Infrastructure Failure,Low,18,4,3052798.82,Road+Rail,1
+EVT01481,2021-11-21,Hyderabad,Strike,Medium,20,17,3931563.81,Rail,1
+EVT01482,2022-04-07,Indore,None,Low,0,0,3115.52,Road,0
+EVT01483,2021-01-09,Surat,Political Unrest,Critical,18,12,2264562.57,Road+Rail,1
+EVT01484,2021-07-04,Chennai,Road Accident,Low,14,15,2174954.79,Road,1
+EVT01485,2022-10-20,Surat,Heavy Snowfall,High,13,9,1733302.81,Road+Rail,1
+EVT01486,2023-06-25,Hyderabad,Heatwave,High,2,14,1757031.93,Road,1
+EVT01487,2022-12-05,Chennai,Pandemic,Medium,13,16,3213662.0,Air,1
+EVT01488,2024-02-11,Mumbai,Cyclone,Medium,19,14,103338.74,Road+Rail,1
+EVT01489,2021-06-15,Kanpur,Political Unrest,Critical,6,4,1038300.51,Road,1
+EVT01490,2023-11-16,Surat,Road Accident,Medium,6,18,1386703.52,All,1
+EVT01491,2022-09-28,Jaipur,Heavy Snowfall,Low,20,11,3851470.32,Rail,1
+EVT01492,2023-06-28,Delhi,Pandemic,Low,8,4,422642.52,Road+Rail,1
+EVT01493,2023-06-08,Jaipur,Pandemic,Medium,8,12,3887299.36,Road,1
+EVT01494,2022-03-27,Kolkata,Heavy Snowfall,Medium,15,5,1792272.04,Rail,1
+EVT01495,2022-12-20,Surat,Strike,High,2,2,1154242.38,All,1
+EVT01496,2023-08-30,Bhopal,Fuel Shortage,Critical,17,22,1602733.01,Air,1
+EVT01497,2023-01-14,Surat,Cyclone,High,6,17,2594913.84,Road+Rail,1
+EVT01498,2023-02-16,Surat,Political Unrest,Critical,1,17,3205724.87,Road+Rail,1
+EVT01499,2022-05-08,Bhopal,Heatwave,Critical,19,7,1308058.64,All,1
+EVT01500,2022-10-20,Lucknow,None,Low,1,0,7281.33,Air,0

@@ -1,0 +1,601 @@
+news_id,date,headline,event_type,affected_city,sentiment_score,sentiment_label,disruption_signal
+NEWS0001,2022-07-03,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.796,Highly Positive,0
+NEWS0002,2021-06-11,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.76,Highly Positive,0
+NEWS0003,2022-01-14,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.745,Highly Positive,0
+NEWS0004,2024-02-08,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.711,Highly Positive,0
+NEWS0005,2021-05-27,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.733,Highly Negative,1
+NEWS0006,2023-11-01,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.91,Highly Negative,1
+NEWS0007,2023-09-05,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.808,Highly Negative,1
+NEWS0008,2024-01-26,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.593,Negative,1
+NEWS0009,2022-04-06,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.664,Highly Negative,1
+NEWS0010,2021-08-04,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.854,Highly Positive,0
+NEWS0011,2022-02-15,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.849,Highly Negative,1
+NEWS0012,2023-01-01,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.938,Highly Negative,1
+NEWS0013,2022-11-02,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.953,Highly Negative,1
+NEWS0014,2021-05-06,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.92,Highly Negative,1
+NEWS0015,2023-06-06,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.679,Highly Positive,0
+NEWS0016,2021-03-26,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.774,Highly Negative,1
+NEWS0017,2024-03-19,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.904,Highly Negative,1
+NEWS0018,2023-04-08,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.601,Highly Negative,1
+NEWS0019,2021-06-08,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.495,Negative,1
+NEWS0020,2022-12-12,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.704,Highly Positive,0
+NEWS0021,2022-03-23,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.59,Negative,1
+NEWS0022,2021-04-14,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.638,Highly Positive,0
+NEWS0023,2023-11-30,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-1.0,Highly Negative,1
+NEWS0024,2021-07-14,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.718,Highly Positive,0
+NEWS0025,2023-10-23,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.772,Highly Positive,0
+NEWS0026,2022-02-13,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.989,Highly Negative,1
+NEWS0027,2022-01-05,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.635,Highly Negative,1
+NEWS0028,2022-07-23,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.854,Highly Positive,0
+NEWS0029,2021-11-17,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.912,Highly Negative,1
+NEWS0030,2021-12-19,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.93,Highly Negative,1
+NEWS0031,2023-08-04,Normal supply chain operations resume after festival season,Normal,Pan-India,0.567,Positive,0
+NEWS0032,2022-10-30,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.51,Negative,1
+NEWS0033,2021-07-11,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.687,Highly Positive,0
+NEWS0034,2021-11-22,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.455,Negative,1
+NEWS0035,2022-08-05,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.812,Highly Positive,0
+NEWS0036,2022-12-28,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.763,Highly Positive,0
+NEWS0037,2021-07-11,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.732,Highly Negative,1
+NEWS0038,2021-03-05,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.855,Highly Negative,1
+NEWS0039,2023-12-06,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.895,Highly Negative,1
+NEWS0040,2021-05-24,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.707,Highly Positive,0
+NEWS0041,2021-07-31,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.456,Negative,1
+NEWS0042,2024-01-18,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.633,Highly Negative,1
+NEWS0043,2023-10-21,Normal supply chain operations resume after festival season,Normal,Pan-India,0.706,Highly Positive,0
+NEWS0044,2023-10-02,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.508,Negative,1
+NEWS0045,2021-10-23,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.734,Highly Negative,1
+NEWS0046,2022-07-29,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.888,Highly Negative,1
+NEWS0047,2023-12-07,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.754,Highly Negative,1
+NEWS0048,2022-08-07,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.914,Highly Negative,1
+NEWS0049,2023-12-20,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.776,Highly Negative,1
+NEWS0050,2022-09-02,Normal supply chain operations resume after festival season,Normal,Pan-India,0.597,Positive,0
+NEWS0051,2023-08-29,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.61,Highly Negative,1
+NEWS0052,2021-04-13,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.793,Highly Negative,1
+NEWS0053,2023-03-30,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.975,Highly Negative,1
+NEWS0054,2021-06-20,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.628,Highly Negative,1
+NEWS0055,2021-04-07,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.928,Highly Negative,1
+NEWS0056,2022-07-30,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.739,Highly Negative,1
+NEWS0057,2023-03-11,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.964,Highly Negative,1
+NEWS0058,2022-07-29,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.757,Highly Negative,1
+NEWS0059,2023-10-15,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.621,Highly Positive,0
+NEWS0060,2021-08-01,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.929,Highly Negative,1
+NEWS0061,2021-06-02,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.752,Highly Positive,0
+NEWS0062,2021-06-02,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.617,Highly Negative,1
+NEWS0063,2022-12-30,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.678,Highly Negative,1
+NEWS0064,2023-11-30,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.886,Highly Negative,1
+NEWS0065,2022-05-30,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.672,Highly Negative,1
+NEWS0066,2024-03-24,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.912,Highly Negative,1
+NEWS0067,2021-11-15,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.436,Negative,1
+NEWS0068,2022-02-13,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.575,Negative,1
+NEWS0069,2021-08-03,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.578,Negative,1
+NEWS0070,2023-04-20,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-1.0,Highly Negative,1
+NEWS0071,2022-11-17,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.634,Highly Positive,0
+NEWS0072,2022-08-30,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.879,Highly Negative,1
+NEWS0073,2021-09-22,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.563,Negative,1
+NEWS0074,2023-05-07,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.514,Negative,1
+NEWS0075,2023-05-04,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.792,Highly Negative,1
+NEWS0076,2022-11-01,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.606,Highly Negative,1
+NEWS0077,2021-12-01,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.748,Highly Positive,0
+NEWS0078,2022-02-23,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.701,Highly Negative,1
+NEWS0079,2022-03-01,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.583,Negative,1
+NEWS0080,2021-12-10,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.609,Highly Negative,1
+NEWS0081,2022-06-21,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.575,Negative,1
+NEWS0082,2023-09-20,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.925,Highly Negative,1
+NEWS0083,2021-04-06,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.695,Highly Negative,1
+NEWS0084,2024-03-05,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.45,Negative,1
+NEWS0085,2022-09-20,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.691,Highly Positive,0
+NEWS0086,2024-03-19,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.647,Highly Negative,1
+NEWS0087,2022-10-14,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.597,Negative,1
+NEWS0088,2022-11-23,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.788,Highly Positive,0
+NEWS0089,2023-07-17,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.77,Highly Negative,1
+NEWS0090,2021-12-07,Normal supply chain operations resume after festival season,Normal,Pan-India,0.738,Highly Positive,0
+NEWS0091,2022-05-08,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.563,Negative,1
+NEWS0092,2024-02-07,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.929,Highly Negative,1
+NEWS0093,2023-08-30,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.876,Highly Negative,1
+NEWS0094,2021-04-26,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.788,Highly Negative,1
+NEWS0095,2022-05-28,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.787,Highly Positive,0
+NEWS0096,2023-08-28,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.514,Negative,1
+NEWS0097,2023-05-07,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.481,Negative,1
+NEWS0098,2024-02-08,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.918,Highly Negative,1
+NEWS0099,2022-03-11,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.832,Highly Negative,1
+NEWS0100,2023-08-04,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.769,Highly Negative,1
+NEWS0101,2022-12-08,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.828,Highly Negative,1
+NEWS0102,2021-11-08,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.846,Highly Negative,1
+NEWS0103,2023-12-01,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.888,Highly Negative,1
+NEWS0104,2023-04-05,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.542,Negative,1
+NEWS0105,2021-09-23,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.815,Highly Negative,1
+NEWS0106,2022-02-06,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.848,Highly Negative,1
+NEWS0107,2023-09-20,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.807,Highly Positive,0
+NEWS0108,2021-07-03,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.941,Highly Negative,1
+NEWS0109,2023-12-08,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.598,Negative,1
+NEWS0110,2022-03-17,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.83,Highly Negative,1
+NEWS0111,2023-12-28,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.416,Negative,1
+NEWS0112,2021-06-20,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.811,Highly Positive,0
+NEWS0113,2023-05-31,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.745,Highly Negative,1
+NEWS0114,2023-08-21,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.813,Highly Negative,1
+NEWS0115,2022-09-03,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.86,Highly Negative,1
+NEWS0116,2022-03-05,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.658,Highly Negative,1
+NEWS0117,2023-10-16,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.954,Highly Negative,1
+NEWS0118,2023-08-15,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.878,Highly Negative,1
+NEWS0119,2022-01-19,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.901,Highly Negative,1
+NEWS0120,2023-07-30,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.402,Negative,1
+NEWS0121,2023-12-27,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.649,Highly Positive,0
+NEWS0122,2024-01-01,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.4,Negative,0
+NEWS0123,2023-11-13,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.527,Negative,1
+NEWS0124,2022-11-12,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.685,Highly Positive,0
+NEWS0125,2022-09-26,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.661,Highly Negative,1
+NEWS0126,2022-03-01,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.585,Positive,0
+NEWS0127,2022-11-27,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.436,Negative,1
+NEWS0128,2023-01-13,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.903,Highly Negative,1
+NEWS0129,2022-03-21,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.623,Highly Negative,1
+NEWS0130,2023-11-17,Normal supply chain operations resume after festival season,Normal,Pan-India,0.636,Highly Positive,0
+NEWS0131,2023-02-07,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.835,Highly Negative,1
+NEWS0132,2021-10-13,Normal supply chain operations resume after festival season,Normal,Pan-India,0.622,Highly Positive,0
+NEWS0133,2023-11-17,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.843,Highly Negative,1
+NEWS0134,2021-04-14,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.769,Highly Negative,1
+NEWS0135,2022-12-20,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.704,Highly Positive,0
+NEWS0136,2023-11-11,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.882,Highly Negative,1
+NEWS0137,2024-04-03,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.866,Highly Negative,1
+NEWS0138,2021-02-14,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.897,Highly Positive,0
+NEWS0139,2021-07-27,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.493,Negative,1
+NEWS0140,2023-12-19,Normal supply chain operations resume after festival season,Normal,Pan-India,0.729,Highly Positive,0
+NEWS0141,2022-11-06,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.856,Highly Negative,1
+NEWS0142,2021-12-13,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.515,Negative,1
+NEWS0143,2021-11-13,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.876,Highly Positive,0
+NEWS0144,2024-03-17,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.808,Highly Negative,1
+NEWS0145,2022-10-20,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.814,Highly Negative,1
+NEWS0146,2022-03-31,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.749,Highly Negative,1
+NEWS0147,2023-07-06,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.83,Highly Positive,0
+NEWS0148,2024-02-20,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.968,Highly Negative,1
+NEWS0149,2024-02-02,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.939,Highly Negative,1
+NEWS0150,2023-01-31,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.922,Highly Negative,1
+NEWS0151,2021-07-25,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.796,Highly Negative,1
+NEWS0152,2021-07-20,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.967,Highly Negative,1
+NEWS0153,2023-03-10,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.839,Highly Positive,0
+NEWS0154,2022-02-23,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.855,Highly Negative,1
+NEWS0155,2023-12-25,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.87,Highly Negative,1
+NEWS0156,2023-01-11,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.597,Positive,0
+NEWS0157,2022-05-30,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.658,Highly Negative,1
+NEWS0158,2022-07-18,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.608,Highly Negative,1
+NEWS0159,2021-11-09,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.445,Negative,1
+NEWS0160,2022-09-21,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.405,Negative,1
+NEWS0161,2022-08-24,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.814,Highly Negative,1
+NEWS0162,2024-01-23,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.919,Highly Negative,1
+NEWS0163,2021-11-29,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.893,Highly Positive,0
+NEWS0164,2022-06-21,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.729,Highly Negative,1
+NEWS0165,2022-02-19,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.683,Highly Negative,1
+NEWS0166,2021-08-09,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.643,Highly Negative,1
+NEWS0167,2023-11-29,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.476,Negative,1
+NEWS0168,2021-10-12,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.94,Highly Negative,1
+NEWS0169,2022-12-14,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.825,Highly Negative,1
+NEWS0170,2022-11-07,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.796,Highly Negative,1
+NEWS0171,2023-12-24,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.466,Negative,1
+NEWS0172,2023-09-23,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.952,Highly Negative,1
+NEWS0173,2022-09-30,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.594,Negative,1
+NEWS0174,2023-09-27,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.779,Highly Positive,0
+NEWS0175,2021-01-20,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.875,Highly Negative,1
+NEWS0176,2022-07-04,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.807,Highly Negative,1
+NEWS0177,2023-02-17,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.465,Negative,1
+NEWS0178,2021-05-12,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.782,Highly Negative,1
+NEWS0179,2024-01-06,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.889,Highly Negative,1
+NEWS0180,2021-05-26,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.528,Negative,1
+NEWS0181,2021-02-01,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.724,Highly Positive,0
+NEWS0182,2022-08-28,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.414,Negative,1
+NEWS0183,2023-05-10,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.801,Highly Negative,1
+NEWS0184,2021-07-21,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.591,Negative,1
+NEWS0185,2022-03-22,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.808,Highly Negative,1
+NEWS0186,2022-12-07,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.503,Negative,1
+NEWS0187,2022-07-11,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.742,Highly Negative,1
+NEWS0188,2022-12-12,Normal supply chain operations resume after festival season,Normal,Pan-India,0.713,Highly Positive,0
+NEWS0189,2023-07-25,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.543,Negative,1
+NEWS0190,2022-12-06,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.911,Highly Negative,1
+NEWS0191,2023-12-20,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.621,Highly Negative,1
+NEWS0192,2023-10-19,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.697,Highly Positive,0
+NEWS0193,2021-06-09,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.523,Negative,1
+NEWS0194,2022-09-14,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.803,Highly Negative,1
+NEWS0195,2023-10-21,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.708,Highly Negative,1
+NEWS0196,2023-07-05,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.913,Highly Negative,1
+NEWS0197,2021-06-19,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.855,Highly Negative,1
+NEWS0198,2023-07-08,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.876,Highly Positive,0
+NEWS0199,2022-05-26,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.712,Highly Positive,0
+NEWS0200,2022-08-24,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.484,Negative,1
+NEWS0201,2023-08-14,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.884,Highly Negative,1
+NEWS0202,2022-07-09,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.809,Highly Negative,1
+NEWS0203,2023-10-16,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.855,Highly Positive,0
+NEWS0204,2021-06-05,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.999,Highly Negative,1
+NEWS0205,2024-03-31,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.968,Highly Negative,1
+NEWS0206,2023-04-21,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.683,Highly Negative,1
+NEWS0207,2021-09-19,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.785,Highly Positive,0
+NEWS0208,2021-12-13,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.419,Negative,1
+NEWS0209,2023-08-12,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.807,Highly Positive,0
+NEWS0210,2022-04-21,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.672,Highly Negative,1
+NEWS0211,2023-01-30,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.689,Highly Positive,0
+NEWS0212,2022-11-15,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.657,Highly Negative,1
+NEWS0213,2024-03-03,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.882,Highly Negative,1
+NEWS0214,2021-09-09,Normal supply chain operations resume after festival season,Normal,Pan-India,0.603,Highly Positive,0
+NEWS0215,2023-10-12,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.788,Highly Negative,1
+NEWS0216,2021-03-05,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.64,Highly Positive,0
+NEWS0217,2021-07-21,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.513,Negative,1
+NEWS0218,2023-01-02,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.772,Highly Positive,0
+NEWS0219,2021-05-28,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.808,Highly Negative,1
+NEWS0220,2023-09-16,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.881,Highly Positive,0
+NEWS0221,2021-05-30,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.601,Highly Negative,1
+NEWS0222,2022-10-17,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.587,Negative,1
+NEWS0223,2022-07-01,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.63,Highly Positive,0
+NEWS0224,2023-12-25,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.685,Highly Negative,1
+NEWS0225,2024-03-18,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.899,Highly Negative,1
+NEWS0226,2022-02-07,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.678,Highly Negative,1
+NEWS0227,2023-02-15,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.569,Negative,1
+NEWS0228,2021-02-14,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.867,Highly Negative,1
+NEWS0229,2023-09-27,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.542,Negative,1
+NEWS0230,2022-12-29,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.761,Highly Negative,1
+NEWS0231,2022-09-28,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.544,Negative,1
+NEWS0232,2021-04-01,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.45,Negative,1
+NEWS0233,2024-02-23,Normal supply chain operations resume after festival season,Normal,Pan-India,0.687,Highly Positive,0
+NEWS0234,2024-03-18,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.84,Highly Negative,1
+NEWS0235,2022-11-15,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.628,Highly Negative,1
+NEWS0236,2021-01-26,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.744,Highly Negative,1
+NEWS0237,2021-09-09,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.648,Highly Negative,1
+NEWS0238,2023-08-31,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.675,Highly Negative,1
+NEWS0239,2023-01-05,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.781,Highly Negative,1
+NEWS0240,2023-03-03,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.615,Highly Negative,1
+NEWS0241,2022-04-07,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.427,Negative,1
+NEWS0242,2022-07-02,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.533,Negative,1
+NEWS0243,2021-07-01,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.748,Highly Positive,0
+NEWS0244,2021-03-26,Normal supply chain operations resume after festival season,Normal,Pan-India,0.567,Positive,0
+NEWS0245,2023-08-05,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.78,Highly Negative,1
+NEWS0246,2023-06-06,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.598,Negative,1
+NEWS0247,2022-10-20,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.504,Negative,1
+NEWS0248,2022-07-05,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.576,Negative,1
+NEWS0249,2022-12-01,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.644,Highly Positive,0
+NEWS0250,2023-03-28,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.796,Highly Negative,1
+NEWS0251,2023-08-28,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.95,Highly Negative,1
+NEWS0252,2023-09-02,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.673,Highly Negative,1
+NEWS0253,2022-10-06,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.6,Highly Positive,0
+NEWS0254,2022-03-03,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.828,Highly Positive,0
+NEWS0255,2022-12-27,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.464,Negative,1
+NEWS0256,2021-10-12,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.527,Negative,1
+NEWS0257,2023-08-01,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.843,Highly Positive,0
+NEWS0258,2023-07-17,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.682,Highly Positive,0
+NEWS0259,2023-02-17,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.734,Highly Negative,1
+NEWS0260,2023-07-26,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.925,Highly Negative,1
+NEWS0261,2023-06-23,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.46,Negative,1
+NEWS0262,2021-05-18,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.578,Negative,1
+NEWS0263,2024-01-01,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.622,Highly Negative,1
+NEWS0264,2024-03-13,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.415,Negative,1
+NEWS0265,2023-03-12,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.919,Highly Negative,1
+NEWS0266,2024-03-15,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.818,Highly Negative,1
+NEWS0267,2021-06-17,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.477,Negative,1
+NEWS0268,2022-01-24,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.819,Highly Negative,1
+NEWS0269,2023-05-15,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.682,Highly Positive,0
+NEWS0270,2022-10-03,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.851,Highly Positive,0
+NEWS0271,2021-12-16,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.824,Highly Negative,1
+NEWS0272,2023-10-27,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.717,Highly Positive,0
+NEWS0273,2023-12-06,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.775,Highly Negative,1
+NEWS0274,2021-10-09,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.893,Highly Negative,1
+NEWS0275,2022-06-27,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.54,Negative,1
+NEWS0276,2022-09-30,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.859,Highly Negative,1
+NEWS0277,2021-08-16,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.748,Highly Negative,1
+NEWS0278,2022-07-03,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.648,Highly Positive,0
+NEWS0279,2023-11-03,Normal supply chain operations resume after festival season,Normal,Pan-India,0.592,Positive,0
+NEWS0280,2021-03-02,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.585,Negative,1
+NEWS0281,2022-03-18,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.853,Highly Negative,1
+NEWS0282,2022-08-28,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.713,Highly Negative,1
+NEWS0283,2021-09-23,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.771,Highly Negative,1
+NEWS0284,2024-04-08,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.836,Highly Negative,1
+NEWS0285,2022-06-11,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.953,Highly Negative,1
+NEWS0286,2023-05-21,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.681,Highly Negative,1
+NEWS0287,2023-06-21,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.576,Negative,1
+NEWS0288,2022-05-02,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.557,Negative,1
+NEWS0289,2024-02-09,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.971,Highly Negative,1
+NEWS0290,2021-09-18,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.916,Highly Negative,1
+NEWS0291,2021-11-13,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.738,Highly Negative,1
+NEWS0292,2021-09-22,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.537,Negative,1
+NEWS0293,2022-07-24,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.585,Negative,1
+NEWS0294,2023-01-31,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.661,Highly Positive,0
+NEWS0295,2022-02-10,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.799,Highly Negative,1
+NEWS0296,2023-05-29,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.791,Highly Positive,0
+NEWS0297,2022-10-31,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.833,Highly Negative,1
+NEWS0298,2023-02-20,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.887,Highly Negative,1
+NEWS0299,2022-11-07,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.666,Highly Negative,1
+NEWS0300,2021-10-29,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.839,Highly Negative,1
+NEWS0301,2024-02-19,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.556,Negative,1
+NEWS0302,2022-05-20,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.587,Negative,1
+NEWS0303,2023-05-07,Normal supply chain operations resume after festival season,Normal,Pan-India,0.696,Highly Positive,0
+NEWS0304,2023-10-19,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.77,Highly Positive,0
+NEWS0305,2022-02-02,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.517,Negative,1
+NEWS0306,2024-01-06,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.751,Highly Positive,0
+NEWS0307,2021-02-10,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.798,Highly Positive,0
+NEWS0308,2023-10-29,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.741,Highly Positive,0
+NEWS0309,2022-03-06,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.547,Negative,1
+NEWS0310,2024-02-24,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.725,Highly Negative,1
+NEWS0311,2023-02-13,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.819,Highly Positive,0
+NEWS0312,2021-07-30,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.918,Highly Negative,1
+NEWS0313,2021-12-08,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.566,Negative,1
+NEWS0314,2022-08-07,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.436,Negative,1
+NEWS0315,2022-02-04,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.614,Highly Negative,1
+NEWS0316,2024-04-09,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.436,Negative,1
+NEWS0317,2021-11-09,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.983,Highly Negative,1
+NEWS0318,2021-08-09,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.818,Highly Negative,1
+NEWS0319,2023-12-08,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.846,Highly Negative,1
+NEWS0320,2021-05-26,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.881,Highly Positive,0
+NEWS0321,2022-11-08,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.776,Highly Negative,1
+NEWS0322,2022-01-08,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.59,Negative,1
+NEWS0323,2022-03-28,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.778,Highly Negative,1
+NEWS0324,2022-08-13,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.839,Highly Negative,1
+NEWS0325,2023-05-08,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.81,Highly Negative,1
+NEWS0326,2023-06-09,Normal supply chain operations resume after festival season,Normal,Pan-India,0.715,Highly Positive,0
+NEWS0327,2022-05-19,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.547,Negative,1
+NEWS0328,2023-12-22,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.684,Highly Negative,1
+NEWS0329,2023-04-26,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.467,Negative,1
+NEWS0330,2024-01-28,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.934,Highly Negative,1
+NEWS0331,2021-06-18,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.979,Highly Negative,1
+NEWS0332,2023-09-23,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.63,Highly Negative,1
+NEWS0333,2023-06-25,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.668,Highly Negative,1
+NEWS0334,2023-06-06,Normal supply chain operations resume after festival season,Normal,Pan-India,0.744,Highly Positive,0
+NEWS0335,2021-03-20,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.375,Negative,0
+NEWS0336,2023-04-21,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.758,Highly Positive,0
+NEWS0337,2024-03-02,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.957,Highly Negative,1
+NEWS0338,2023-10-05,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.689,Highly Positive,0
+NEWS0339,2022-12-14,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.71,Highly Positive,0
+NEWS0340,2023-09-02,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.676,Highly Negative,1
+NEWS0341,2023-04-18,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.673,Highly Negative,1
+NEWS0342,2023-12-18,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.56,Negative,1
+NEWS0343,2023-09-24,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.719,Highly Negative,1
+NEWS0344,2023-02-09,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.521,Negative,1
+NEWS0345,2024-03-11,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.619,Highly Negative,1
+NEWS0346,2024-02-16,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.641,Highly Negative,1
+NEWS0347,2021-10-16,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.749,Highly Positive,0
+NEWS0348,2023-11-03,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.83,Highly Negative,1
+NEWS0349,2023-09-27,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.724,Highly Negative,1
+NEWS0350,2024-01-19,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.711,Highly Positive,0
+NEWS0351,2022-12-17,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.771,Highly Negative,1
+NEWS0352,2023-11-14,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.73,Highly Positive,0
+NEWS0353,2021-02-11,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.929,Highly Negative,1
+NEWS0354,2022-04-13,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.824,Highly Negative,1
+NEWS0355,2022-07-16,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.718,Highly Negative,1
+NEWS0356,2021-06-16,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.548,Negative,1
+NEWS0357,2022-05-12,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.596,Positive,0
+NEWS0358,2023-06-30,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.903,Highly Negative,1
+NEWS0359,2021-01-11,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.599,Positive,0
+NEWS0360,2022-04-17,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.858,Highly Negative,1
+NEWS0361,2024-02-23,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.935,Highly Negative,1
+NEWS0362,2023-07-29,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.847,Highly Negative,1
+NEWS0363,2023-09-14,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.948,Highly Negative,1
+NEWS0364,2023-01-19,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.798,Highly Negative,1
+NEWS0365,2023-01-07,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.768,Highly Negative,1
+NEWS0366,2022-08-05,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.841,Highly Negative,1
+NEWS0367,2022-10-16,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.806,Highly Positive,0
+NEWS0368,2022-11-05,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.792,Highly Negative,1
+NEWS0369,2022-01-02,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.696,Highly Positive,0
+NEWS0370,2023-06-13,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.801,Highly Negative,1
+NEWS0371,2021-05-20,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.654,Highly Negative,1
+NEWS0372,2023-07-27,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.703,Highly Positive,0
+NEWS0373,2021-05-23,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.477,Negative,1
+NEWS0374,2024-02-23,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.599,Negative,1
+NEWS0375,2021-06-08,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.792,Highly Positive,0
+NEWS0376,2022-03-05,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.865,Highly Positive,0
+NEWS0377,2021-06-05,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.808,Highly Negative,1
+NEWS0378,2021-03-04,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.669,Highly Negative,1
+NEWS0379,2021-01-26,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.891,Highly Negative,1
+NEWS0380,2022-02-25,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.715,Highly Positive,0
+NEWS0381,2024-02-28,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.59,Negative,1
+NEWS0382,2022-11-11,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.756,Highly Negative,1
+NEWS0383,2021-11-19,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.488,Negative,1
+NEWS0384,2023-12-08,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.938,Highly Negative,1
+NEWS0385,2022-11-29,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.953,Highly Negative,1
+NEWS0386,2023-04-23,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.754,Highly Positive,0
+NEWS0387,2023-09-28,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.683,Highly Negative,1
+NEWS0388,2024-03-12,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.786,Highly Positive,0
+NEWS0389,2021-06-24,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.918,Highly Negative,1
+NEWS0390,2022-07-17,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.84,Highly Negative,1
+NEWS0391,2024-04-02,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.859,Highly Positive,0
+NEWS0392,2022-01-15,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.486,Negative,1
+NEWS0393,2023-10-06,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.574,Negative,1
+NEWS0394,2022-02-03,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.889,Highly Negative,1
+NEWS0395,2021-10-27,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.886,Highly Negative,1
+NEWS0396,2023-06-23,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.561,Negative,1
+NEWS0397,2021-05-16,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.757,Highly Positive,0
+NEWS0398,2021-10-28,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.661,Highly Negative,1
+NEWS0399,2022-11-05,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.743,Highly Negative,1
+NEWS0400,2021-05-12,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.845,Highly Negative,1
+NEWS0401,2023-04-03,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.794,Highly Negative,1
+NEWS0402,2021-10-29,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.708,Highly Positive,0
+NEWS0403,2022-01-01,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.587,Positive,0
+NEWS0404,2023-06-07,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.695,Highly Positive,0
+NEWS0405,2021-10-03,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.613,Highly Negative,1
+NEWS0406,2021-03-03,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.748,Highly Negative,1
+NEWS0407,2021-07-12,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.852,Highly Negative,1
+NEWS0408,2024-03-04,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.748,Highly Negative,1
+NEWS0409,2022-12-09,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.66,Highly Negative,1
+NEWS0410,2023-03-24,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.928,Highly Negative,1
+NEWS0411,2021-02-19,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.824,Highly Negative,1
+NEWS0412,2023-04-18,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.602,Highly Negative,1
+NEWS0413,2021-03-18,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.614,Highly Positive,0
+NEWS0414,2023-04-19,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.665,Highly Positive,0
+NEWS0415,2023-05-16,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.849,Highly Negative,1
+NEWS0416,2023-05-27,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.71,Highly Negative,1
+NEWS0417,2022-07-15,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.799,Highly Negative,1
+NEWS0418,2023-10-15,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.53,Negative,1
+NEWS0419,2023-07-13,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.424,Negative,1
+NEWS0420,2023-06-07,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.987,Highly Negative,1
+NEWS0421,2023-02-07,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.941,Highly Negative,1
+NEWS0422,2023-10-25,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.805,Highly Negative,1
+NEWS0423,2021-12-26,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.871,Highly Negative,1
+NEWS0424,2023-07-16,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.947,Highly Negative,1
+NEWS0425,2022-10-11,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.864,Highly Negative,1
+NEWS0426,2021-05-13,Normal supply chain operations resume after festival season,Normal,Pan-India,0.742,Highly Positive,0
+NEWS0427,2024-01-29,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.923,Highly Negative,1
+NEWS0428,2022-10-20,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.608,Highly Positive,0
+NEWS0429,2023-07-02,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.772,Highly Positive,0
+NEWS0430,2023-05-17,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.561,Negative,1
+NEWS0431,2024-02-01,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.615,Highly Negative,1
+NEWS0432,2024-03-13,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.901,Highly Negative,1
+NEWS0433,2023-12-22,Normal supply chain operations resume after festival season,Normal,Pan-India,0.687,Highly Positive,0
+NEWS0434,2022-06-09,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.544,Negative,1
+NEWS0435,2022-07-13,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-1.0,Highly Negative,1
+NEWS0436,2021-05-18,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.657,Highly Negative,1
+NEWS0437,2023-12-09,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.555,Negative,1
+NEWS0438,2022-12-02,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.604,Highly Negative,1
+NEWS0439,2022-06-18,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.72,Highly Positive,0
+NEWS0440,2022-02-05,Normal supply chain operations resume after festival season,Normal,Pan-India,0.563,Positive,0
+NEWS0441,2021-01-22,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.385,Negative,0
+NEWS0442,2022-01-17,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.577,Negative,1
+NEWS0443,2021-04-13,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.802,Highly Negative,1
+NEWS0444,2024-02-10,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.672,Highly Negative,1
+NEWS0445,2023-05-09,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.78,Highly Negative,1
+NEWS0446,2024-01-01,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.533,Negative,1
+NEWS0447,2023-07-22,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.726,Highly Positive,0
+NEWS0448,2023-07-01,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.426,Negative,1
+NEWS0449,2023-03-28,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.736,Highly Positive,0
+NEWS0450,2021-05-25,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.636,Highly Negative,1
+NEWS0451,2021-05-28,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.983,Highly Negative,1
+NEWS0452,2022-06-27,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.926,Highly Negative,1
+NEWS0453,2021-12-05,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.788,Highly Negative,1
+NEWS0454,2022-04-24,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.82,Highly Negative,1
+NEWS0455,2023-11-09,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.877,Highly Negative,1
+NEWS0456,2021-02-11,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.8,Highly Negative,1
+NEWS0457,2021-01-14,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.892,Highly Negative,1
+NEWS0458,2023-10-12,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.951,Highly Negative,1
+NEWS0459,2023-12-29,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.704,Highly Positive,0
+NEWS0460,2023-03-21,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.772,Highly Negative,1
+NEWS0461,2024-01-11,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.641,Highly Negative,1
+NEWS0462,2022-08-14,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.804,Highly Positive,0
+NEWS0463,2022-07-16,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.72,Highly Positive,0
+NEWS0464,2023-09-28,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.624,Highly Negative,1
+NEWS0465,2024-01-14,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.758,Highly Negative,1
+NEWS0466,2024-03-14,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.816,Highly Positive,0
+NEWS0467,2021-10-30,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.905,Highly Negative,1
+NEWS0468,2023-12-13,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.66,Highly Negative,1
+NEWS0469,2024-03-30,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.785,Highly Negative,1
+NEWS0470,2021-02-08,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.918,Highly Negative,1
+NEWS0471,2023-01-22,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.46,Negative,1
+NEWS0472,2023-03-06,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.759,Highly Positive,0
+NEWS0473,2022-12-25,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.996,Highly Negative,1
+NEWS0474,2023-11-04,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.754,Highly Positive,0
+NEWS0475,2021-03-27,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.373,Negative,0
+NEWS0476,2024-03-28,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.841,Highly Negative,1
+NEWS0477,2022-10-25,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.762,Highly Negative,1
+NEWS0478,2021-12-11,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.667,Highly Positive,0
+NEWS0479,2021-12-19,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.799,Highly Negative,1
+NEWS0480,2022-02-13,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.71,Highly Negative,1
+NEWS0481,2023-07-17,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.551,Negative,1
+NEWS0482,2022-10-11,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.78,Highly Negative,1
+NEWS0483,2024-01-02,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.632,Highly Negative,1
+NEWS0484,2023-10-15,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.841,Highly Negative,1
+NEWS0485,2023-12-20,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.955,Highly Negative,1
+NEWS0486,2021-10-02,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.729,Highly Positive,0
+NEWS0487,2023-10-30,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.646,Highly Negative,1
+NEWS0488,2022-02-28,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.415,Negative,1
+NEWS0489,2021-06-03,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.52,Negative,1
+NEWS0490,2022-09-24,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.688,Highly Negative,1
+NEWS0491,2022-10-01,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.656,Highly Negative,1
+NEWS0492,2022-05-07,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.749,Highly Positive,0
+NEWS0493,2023-08-21,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.656,Highly Positive,0
+NEWS0494,2022-08-03,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.831,Highly Negative,1
+NEWS0495,2021-03-04,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.475,Negative,1
+NEWS0496,2021-11-03,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.856,Highly Positive,0
+NEWS0497,2023-12-18,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.692,Highly Negative,1
+NEWS0498,2021-03-13,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.754,Highly Positive,0
+NEWS0499,2021-01-03,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.929,Highly Negative,1
+NEWS0500,2022-04-27,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.467,Negative,1
+NEWS0501,2022-05-26,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.503,Negative,1
+NEWS0502,2022-08-07,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.871,Highly Negative,1
+NEWS0503,2021-07-21,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.571,Negative,1
+NEWS0504,2024-04-05,Normal supply chain operations resume after festival season,Normal,Pan-India,0.744,Highly Positive,0
+NEWS0505,2024-01-10,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.891,Highly Negative,1
+NEWS0506,2023-06-06,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.447,Negative,1
+NEWS0507,2022-10-10,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.686,Highly Negative,1
+NEWS0508,2021-01-30,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.889,Highly Positive,0
+NEWS0509,2021-10-01,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.616,Highly Negative,1
+NEWS0510,2021-01-20,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.92,Highly Negative,1
+NEWS0511,2022-05-15,Normal supply chain operations resume after festival season,Normal,Pan-India,0.68,Highly Positive,0
+NEWS0512,2021-11-04,Normal supply chain operations resume after festival season,Normal,Pan-India,0.605,Highly Positive,0
+NEWS0513,2023-01-07,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.768,Highly Negative,1
+NEWS0514,2022-04-12,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.888,Highly Negative,1
+NEWS0515,2021-03-27,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.768,Highly Negative,1
+NEWS0516,2022-05-21,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.96,Highly Negative,1
+NEWS0517,2023-02-06,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.901,Highly Negative,1
+NEWS0518,2023-10-02,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.873,Highly Negative,1
+NEWS0519,2023-05-21,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.422,Negative,1
+NEWS0520,2024-03-02,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.68,Highly Positive,0
+NEWS0521,2023-12-27,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.799,Highly Positive,0
+NEWS0522,2022-01-24,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.788,Highly Positive,0
+NEWS0523,2022-11-14,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.476,Negative,1
+NEWS0524,2022-08-29,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.849,Highly Negative,1
+NEWS0525,2022-11-15,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.655,Highly Negative,1
+NEWS0526,2023-10-08,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.66,Highly Positive,0
+NEWS0527,2022-08-04,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.494,Negative,1
+NEWS0528,2021-08-08,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.789,Highly Negative,1
+NEWS0529,2022-02-02,Normal supply chain operations resume after festival season,Normal,Pan-India,0.586,Positive,0
+NEWS0530,2022-10-13,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.863,Highly Negative,1
+NEWS0531,2023-12-14,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.697,Highly Negative,1
+NEWS0532,2023-09-05,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.947,Highly Negative,1
+NEWS0533,2023-10-05,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.69,Highly Negative,1
+NEWS0534,2023-06-17,"Fuel tanker drivers go on strike, fuel shortage looms",Strike,Pan-India,-0.818,Highly Negative,1
+NEWS0535,2021-06-07,Normal supply chain operations resume after festival season,Normal,Pan-India,0.699,Highly Positive,0
+NEWS0536,2021-04-08,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.607,Highly Negative,1
+NEWS0537,2021-10-10,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.849,Highly Negative,1
+NEWS0538,2021-04-17,E-commerce surge boosts last-mile delivery efficiency,Positive,Pan-India,0.778,Highly Positive,0
+NEWS0539,2022-05-30,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.883,Highly Negative,1
+NEWS0540,2024-03-06,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.448,Negative,1
+NEWS0541,2023-01-22,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.683,Highly Negative,1
+NEWS0542,2021-11-22,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.562,Negative,1
+NEWS0543,2024-03-06,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.946,Highly Negative,1
+NEWS0544,2022-01-14,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.802,Highly Negative,1
+NEWS0545,2021-02-12,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.512,Negative,1
+NEWS0546,2023-08-16,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.938,Highly Negative,1
+NEWS0547,2022-12-17,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.853,Highly Positive,0
+NEWS0548,2023-11-03,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.813,Highly Positive,0
+NEWS0549,2022-09-28,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.675,Highly Positive,0
+NEWS0550,2023-03-02,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.677,Highly Positive,0
+NEWS0551,2023-07-05,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.921,Highly Negative,1
+NEWS0552,2021-06-23,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.585,Negative,1
+NEWS0553,2021-08-11,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.501,Negative,1
+NEWS0554,2021-08-28,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.642,Highly Positive,0
+NEWS0555,2022-02-17,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.902,Highly Negative,1
+NEWS0556,2023-10-13,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.766,Highly Positive,0
+NEWS0557,2021-12-17,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.541,Negative,1
+NEWS0558,2022-11-12,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.796,Highly Negative,1
+NEWS0559,2021-09-22,Normal supply chain operations resume after festival season,Normal,Pan-India,0.598,Positive,0
+NEWS0560,2022-04-25,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.601,Highly Negative,1
+NEWS0561,2023-06-29,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.734,Highly Negative,1
+NEWS0562,2022-02-26,"Coal shortage hits power plants, industrial supply chains affected",Shortage,Pan-India,-0.707,Highly Negative,1
+NEWS0563,2021-09-14,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.792,Highly Negative,1
+NEWS0564,2024-01-20,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.452,Negative,1
+NEWS0565,2023-02-17,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.793,Highly Negative,1
+NEWS0566,2021-02-13,Power cuts hit Bangalore's tech manufacturing supply chain,Infrastructure,Bangalore,-0.56,Negative,1
+NEWS0567,2021-12-03,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.612,Highly Negative,1
+NEWS0568,2023-01-12,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.739,Highly Negative,1
+NEWS0569,2023-01-06,Indian Railways improves freight capacity by 15%,Positive,Pan-India,0.65,Highly Positive,0
+NEWS0570,2021-04-20,COVID lockdown disrupts manufacturing supply chains in Chennai,Pandemic,Chennai,-0.998,Highly Negative,1
+NEWS0571,2021-08-12,"Union Budget boosts infrastructure spend, logistics to improve",Positive,Pan-India,0.819,Highly Positive,0
+NEWS0572,2022-09-06,GST implementation causes temporary supply chain delays,Policy,Pan-India,-0.469,Negative,1
+NEWS0573,2022-03-04,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.784,Highly Negative,1
+NEWS0574,2024-04-02,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.847,Highly Negative,1
+NEWS0575,2023-04-01,Demonetization causes cash-flow disruption in SME supply chains,Economic,Pan-India,-0.746,Highly Negative,1
+NEWS0576,2021-12-10,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.919,Highly Negative,1
+NEWS0577,2023-03-07,New highway connects Pune to Mumbai reducing delivery time,Positive,Pune,0.858,Highly Positive,0
+NEWS0578,2021-06-01,Maharashtra floods damage key warehouses in Pune,Flood,Pune,-0.841,Highly Negative,1
+NEWS0579,2021-09-09,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.949,Highly Negative,1
+NEWS0580,2024-04-03,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.685,Highly Negative,1
+NEWS0581,2022-06-30,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.576,Negative,1
+NEWS0582,2022-07-08,Steel plant workers strike halts Tata Steel supply,Strike,Jaipur,-0.857,Highly Negative,1
+NEWS0583,2021-07-01,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.88,Highly Negative,1
+NEWS0584,2022-03-02,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.538,Negative,1
+NEWS0585,2023-05-18,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.572,Negative,1
+NEWS0586,2023-12-03,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.979,Highly Negative,1
+NEWS0587,2021-09-08,Truck drivers strike disrupts highway logistics across North India,Strike,Delhi,-0.873,Highly Negative,1
+NEWS0588,2023-10-11,Farmers protest blocks NH-44 affecting supply from Punjab to Delhi,Road Blockage,Delhi,-0.829,Highly Negative,1
+NEWS0589,2021-07-04,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.884,Highly Negative,1
+NEWS0590,2023-05-02,Flash floods in Hyderabad disrupt warehousing and freight movement,Flood,Hyderabad,-0.818,Highly Negative,1
+NEWS0591,2022-04-06,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.828,Highly Negative,1
+NEWS0592,2021-11-10,Border tensions with Nepal affect trade routes in Bihar,Geopolitical,Kolkata,-0.729,Highly Negative,1
+NEWS0593,2021-03-30,New logistics policy to reduce supply chain inefficiencies,Positive,Pan-India,0.684,Highly Positive,0
+NEWS0594,2023-11-25,Petrol prices hike increases logistics cost by 12% across India,Economic,Pan-India,-0.564,Negative,1
+NEWS0595,2021-08-20,Dense fog disrupts air and road freight in North India winters,Weather,Delhi,-0.504,Negative,1
+NEWS0596,2023-11-15,Rail freight disruption in Kolkata due to cyclone Amphan aftermath,Cyclone,Kolkata,-0.907,Highly Negative,1
+NEWS0597,2023-02-18,"Heavy monsoon floods hit Mumbai, cargo movement halted",Flood,Mumbai,-0.823,Highly Negative,1
+NEWS0598,2021-08-24,Cyclone Tauktae disrupts Gujarat port and road connectivity,Cyclone,Ahmedabad,-0.935,Highly Negative,1
+NEWS0599,2023-12-10,Truck overloading ban causes shortage of vehicles on highways,Policy,Pan-India,-0.637,Highly Negative,1
+NEWS0600,2022-04-22,Heatwave in Rajasthan affects perishable goods transportation,Weather,Jaipur,-0.683,Highly Negative,1
