@@ -1,10 +1,13 @@
 # 🚚 Supply Chain Disruption Prediction System (India)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://share.streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://supply-chain-disruption.streamlit.app/)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An advanced, multi-model AI system designed to predict and mitigate supply chain disruptions across the Indian logistics network. By integrating real-time weather data, regional news sentiment, and historical performance metrics, the system provides proactive visibility into potential delays.
+An advanced, multi-model AI system designed to predict and mitigate supply chain disruptions across the Indian logistics network.
+
+**🔗 Live App:** [supply-chain-disruption.streamlit.app](https://supply-chain-disruption.streamlit.app/)
+ By integrating real-time weather data, regional news sentiment, and historical performance metrics, the system provides proactive visibility into potential delays.
 
 ---
 
